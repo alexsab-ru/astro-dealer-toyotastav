@@ -39,10 +39,66 @@ def process_permalink(vin):
     return f"/cars/{vin[:5]}-{vin[-4:]}/"
 
 
+def format_html_for_mdx(raw_html):
+    """
+    Форматирует HTML для MDX, учитывая особенности MDX-парсера:
+    - Удаляет теги <p>, так как MDX сам их добавляет
+    - Заменяет <br/> на перенос строки
+    - Сохраняет форматирующие теги
+    - Добавляет пробелы после закрывающих тегов
+    - Добавляет пробелы перед открывающими тегами
+    - Добавляет пробелы между тегами
+    - Добавляет переносы между списками и жирным текстом
+    """
+    # Проверяем корректность HTML с помощью BeautifulSoup
+    soup = BeautifulSoup(raw_html, "html.parser")
+    
+    # Получаем HTML без форматирования (сохраняет &nbsp;)
+    html_output = str(soup)
+    
+    # Экранируем проблемные символы для MDX
+    html_output = html_output.replace('\\', '\\\\')  # Экранируем обратные слеши
+    html_output = html_output.replace('{', '\\{')    # Экранируем фигурные скобки
+    html_output = html_output.replace('}', '\\}')
+    
+    # Удаляем теги <p> и </p>, так как MDX сам их добавит
+    html_output = re.sub(r'</?p>', '', html_output)
+    
+    # Заменяем <br/> и <br> на перенос строки
+    html_output = re.sub(r'(<br/?>)', r'\1\n', html_output)
+    
+    # Добавляем <br/> между закрывающим списком и тегом жирности
+    html_output = re.sub(r'(</ul>)(<strong>)', r'\1<br/>\2', html_output)
+    
+    # Добавляем пробел после закрывающего тега, если после него идет буква
+    html_output = re.sub(r'(</[^>]+>)([а-яА-Яa-zA-Z])', r'\1 \2', html_output)
+    
+    # Добавляем пробел перед открывающим тегом, если перед ним буква
+    html_output = re.sub(r'([а-яА-Яa-zA-Z])(<[^/][^>]*>)', r'\1 \2', html_output)
+    
+    # Добавляем пробел между двумя тегами
+    html_output = re.sub(r'(>)(<)', r'\1 \2', html_output)
+    
+    # Добавляем переносы строк для лучшей читаемости
+    # 1. Разбиваем на строки по закрывающим тегам </ul>, </li>
+    html_output = re.sub(r'(</ul>|</li>)', r'\1\n', html_output)
+    
+    # 2. Разбиваем на строки по открывающим тегам <ul>, <li>
+    html_output = re.sub(r'(<ul>|<li>)', r'\n\1', html_output)
+    
+    # 3. Удаляем лишние пустые строки
+    html_output = re.sub(r'\n\s*\n', '\n', html_output)
+    
+    # 4. Удаляем пробелы в начале и конце каждой строки
+    html_output = '\n'.join(line.strip() for line in html_output.split('\n'))
+    
+    return html_output
+
 # Helper function to process description and add it to the body
 def process_description(desc_text):
     """
     Обрабатывает текст описания, добавляя HTML-разметку.
+    Предотвращает вложенные p-теги и проверяет корректность HTML.
     
     Args:
         desc_text (str): Исходный текст описания
@@ -53,33 +109,7 @@ def process_description(desc_text):
     if not desc_text:
         return ""
         
-    # Заменяем все <br> на <br/>
-    desc_text = desc_text.replace("<br>", "<br/>\n")
-    
-    lines = desc_text.split('\n')
-    processed_lines = []
-    
-    for line in lines:
-        line = line.strip()
-        if not line:
-            processed_lines.append("<p>&nbsp;</p>")
-            continue
-            
-        # Проверяем, является ли строка HTML-разметкой
-        if line.startswith('<') and line.endswith('>'):
-            # Если это одиночный тег (например, <br/>), оставляем как есть
-            if line.count('<') == 1 and line.count('>') == 1:
-                processed_lines.append(line)
-            # Если это HTML-блок, оборачиваем в <p>
-            else:
-                processed_lines.append(f"<p>{line}</p>")
-        else:
-            # Если это обычный текст, оборачиваем в <p>
-            processed_lines.append(f"<p>{line}</p>")
-    
-    raw_html = '\n'.join(processed_lines)
-    soup = BeautifulSoup(raw_html, "html.parser")
-    pretty_html = soup.prettify()
+    pretty_html = format_html_for_mdx(desc_text)
             
     return pretty_html
 
@@ -435,35 +465,28 @@ def should_remove_car(car: ET.Element, mark_ids: list, folder_ids: list) -> bool
     # Если ни одно условие не выполнено, автомобиль оставляем
     return False
 
-
 def check_local_files(brand, model, color, vin):
     """Проверяет наличие локальных файлов изображений."""
     folder = get_folder(brand, model)
-    color_image = get_color_filename(brand, model, color)
-    if folder and color_image:
-        thumb_path = os.path.join("img", "models", folder, "colors", color_image)
-        thumb_brand_path = os.path.join("img", "models", brand.lower(), folder, "colors", color_image)
-        # Проверяем, существует ли файл
-        if os.path.exists(f"public/{thumb_path}"):
-            return f"/{thumb_path}"
-        elif os.path.exists(f"public/{thumb_brand_path}"):
-            return f"/{thumb_brand_path}"
+    if folder:
+        color_image = get_color_filename(brand, model, color)
+        if color_image:
+
+            thumb_path = os.path.join("img", "models", folder, "colors", color_image)
+            thumb_brand_path = os.path.join("img", "models", brand.lower(), folder, "colors", color_image)
+        
+            # Проверяем, существует ли файл
+            if os.path.exists(f"public/{thumb_path}"):
+                return f"/{thumb_path}"
+            elif os.path.exists(f"public/{thumb_brand_path}"):
+                return f"/{thumb_brand_path}"
+            else:
+                errorText = f"\n<b>Не найден локальный файл</b>\n<pre>{color_image}</pre>\n<code>public/{thumb_path}</code>\n<code>public/{thumb_brand_path}</code>"
+                print_message(errorText)
+                return "https://cdn.alexsab.ru/errors/404.webp"
         else:
-            print("")
-            errorText = f"VIN: {vin}. Не хватает файла цвета: {color}, {thumb_path}"
-            print(errorText)
-            print("")
-            with open('output.txt', 'a') as file:
-                file.write(f"{errorText}\n")
             return "https://cdn.alexsab.ru/errors/404.webp"
     else:
-        print("")
-        errorText = f"VIN: {vin}. Не хватает бренд: {brand}, модели: {model}, цвета: {color}"
-        print(errorText)
-        print("")
-        with open('output.txt', 'a') as file:
-            file.write(f"{errorText}\n")
-        # Если 'model' или 'color' не найдены, используем путь к изображению ошибки 404
         return "https://cdn.alexsab.ru/errors/404.webp"
 
 
@@ -480,21 +503,23 @@ def create_file(car, filename, friendly_url, current_thumbs, sort_storage_data, 
     color_image = get_color_filename(brand, model, color)
 
     # Проверка через CDN сервис
-    if folder and color_image:
-        cdn_path = f"https://cdn.alexsab.ru/b/{brand.lower()}/img/models/{folder}/colors/{color_image}"
-        try:
-            response = requests.head(cdn_path)
-            if response.status_code == 200:
-                thumb = cdn_path
-            else:
-                # Если файл не найден в CDN, проверяем локальные файлы
+    if folder:
+        if color_image:
+            cdn_path = f"https://cdn.alexsab.ru/b/{brand.lower()}/img/models/{folder}/colors/{color_image}"
+            try:
+                response = requests.head(cdn_path)
+                if response.status_code == 200:
+                    thumb = cdn_path
+                else:
+                    # Если файл не найден в CDN, проверяем локальные файлы
+                    errorText = f"\n<b>Не удалось найти файл на CDN</b>. Статус <b>{response.status_code}</b>\n<pre>{color_image}</pre>\n<a href='{cdn_path}'>{cdn_path}</a>"
+                    print_message(errorText, 'error')
+                    thumb = check_local_files(brand, model, color, vin)
+            except requests.RequestException as e:
+                # В случае ошибки при проверке CDN, используем локальные файлы
+                errorText = f"\nОшибка при проверке CDN: {str(e)}"
+                print_message(errorText, 'error')
                 thumb = check_local_files(brand, model, color, vin)
-        except requests.RequestException:
-            # В случае ошибки при проверке CDN, используем локальные файлы
-            thumb = check_local_files(brand, model, color, vin)
-    else:
-        # Если не удалось получить folder или color_image, проверяем локальные файлы
-        thumb = check_local_files(brand, model, color, vin)
 
     # Forming the YAML frontmatter
     content = "---\n"

@@ -547,7 +547,10 @@
             "folder": "empow",
             "cyrillic": "Эмпоу",
             "color": {
-                "Черный": "black.webp"
+                "Черный": "black.webp",
+                "Белый": "white.webp",
+                "Серый": "gray.webp",
+                "Серебристый": "silver.webp"
             }
         }
     },
@@ -988,7 +991,7 @@
             }
         },
         "CS35PLUS, I Рестайлинг": {
-            "folder": "cs35plus new",
+            "folder": "cs35plusnew",
             "color": {
                 "Crystal_white": "cs35plusnew_crystal_white.webp",
                 "Кристально белый": "cs35plusnew_crystal_white.webp",

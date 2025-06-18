@@ -21,7 +21,7 @@ const modelsData = JSON.parse(fs.readFileSync(modelsFilePath, 'utf-8'));
 
 // Функция для получения ID модели из models.json
 function getModelId(brand, modelName) {
-  const model = modelsData.find(m => 
+  const model = modelsData.models.find(m => 
     m.mark_id.toLowerCase() === brand.toLowerCase() && 
     m.name.toLowerCase() === modelName.toLowerCase()
   );
@@ -64,7 +64,11 @@ if (fs.existsSync(dealerFilePath)) {
 
 // Объединяем данные
 const mergedData = federalData.map(federalItem => {
-  const dealerItem = dealerData.find(d => d.id === federalItem.id);
+  let dealerItem = dealerData.find(d => d.id === federalItem.id);
+  if (!dealerItem) {
+    console.log("dealerItem not found for federalItem:", federalItem.id);
+    dealerItem = dealerData.find(d => (d.brand.toLowerCase() === federalItem.brand.toLowerCase() && d.model.toLowerCase() === federalItem.model.toLowerCase()));
+  }
   
   if (dealerItem) {
     const priceFederal = parseNumber(federalItem.price);
@@ -108,7 +112,7 @@ const mergedData = federalData.map(federalItem => {
 });
 
 // Сохраняем результат
-const outputPath = path.join(dataDirectory, 'allPrices.json');
+const outputPath = path.join(dataDirectory, 'all-prices.json');
 fs.writeFileSync(outputPath, JSON.stringify(mergedData, null, 2), 'utf-8');
-console.log('Файл allPrices.json успешно создан');
+console.log('Файл all-prices.json успешно создан');
 
