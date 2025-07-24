@@ -26,16 +26,18 @@ on:
       - '.github/scripts/config_air_storage-friend.json'
       - '.github/scripts/config_air_storage.json'
       - '.github/scripts/config.py'
+      - '.github/scripts/create_cars.py'
       - '.github/scripts/getOneXML.py'
       - '.github/scripts/GSheetFetcher.js'
       - '.github/scripts/mergeCarPrices.js'
-      - '.github/scripts/model_mapping.json'
       - '.github/scripts/update_cars_air_storage.py'
       - '.github/scripts/update_cars.py'
       - '.github/scripts/utils.py'
       - '.github/workflows/update_cars.yml'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # Allows this workflow to be called by other workflows
+  workflow_call:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -105,6 +107,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Cache pnpm dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.pnpm-store
+            node_modules
+            .pnpm-store
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-
+
       - name: Determine changes
         id: check_changes
         run: |
@@ -159,6 +177,10 @@ jobs:
           QUERY_STRING: ${{ vars.DEALER_PRICE_CSV_COLUMN }}
           KEY_MAPPING: ${{ vars.DEALER_PRICE_KEY_MAPPING }}
 
+      - name: ls files
+        run: |
+          if [[ -d src/data ]]; then ls -al src/data; fi
+
       - name: Merge car prices
         if: steps.check_changes.outputs.changes == 'true'
         run: |
@@ -167,12 +189,25 @@ jobs:
       - name: Replace Placeholders in JSON
         if: steps.check_changes.outputs.changes == 'true'
         run: |
-          pnpm replacePlaceholdersInJson
+          pnpm replacePlaceholdersAndSearchDates
+        env:
+          DOMAIN: ${{ vars.DOMAIN }}
 
       - name: Astro Build
         if: steps.check_changes.outputs.changes == 'true'
         run: |
           pnpm build --outDir ./_site
+
+      - name: Check specials
+        id: check_specials
+        run: |
+          if [ -s special-offers-dates.txt ]; then
+            echo "$(cat special-offers-dates.txt)" > output_wrapped.txt
+            # Кодируем содержимое файла в base64
+            encoded_output=$(base64 -w 0 output_wrapped.txt)
+            # Передаем закодированное значение
+            echo "specials=$encoded_output" >> $GITHUB_OUTPUT
+          fi
 
       - name: Upload artifact
         if: steps.check_changes.outputs.changes == 'true'
@@ -187,6 +222,7 @@ jobs:
 
     outputs:
       changes: ${{ steps.check_changes.outputs.changes }}
+      specials: ${{ steps.check_specials.outputs.specials }}
       after_deploy: ${{ steps.after_deploy.outputs.text }}
 
   # Deployment job
@@ -210,5 +246,21 @@ jobs:
       additional-text: |
         $(echo -n '${{ needs.build.outputs.after_deploy }}' | base64)
     secrets:
-      TELEGRAM_TO: ${{ secrets.TELEGRAM_TO }}
+      TELEGRAM_TO: ${{ secrets.TELEGRAM_TO_AFTER_DEPLOY }}
       TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+
+  notify_telegram_about_special:
+    needs: [build]
+    if: needs.build.outputs.specials != ''
+    uses: ./.github/workflows/github-telegram.yml
+    with:
+      additional-text: |
+        ${{ needs.build.outputs.specials }}
+    secrets:
+      TELEGRAM_TO: ${{ secrets.TELEGRAM_TO_SPECIAL }}
+      TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+
+  check_links:
+    needs: [build, deploy]
+    if: ${{ github.event_name == 'schedule' }}
+    uses: ./.github/workflows/linkinator.yml
