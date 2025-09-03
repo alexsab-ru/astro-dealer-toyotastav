@@ -1237,6 +1237,30 @@ Aвтомoбиль в наличии в нашем дилерском центр
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Enjoy</complectation_name>
 			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>7690000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCPMJA1S2013450</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://toyotastav.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-белый-2025/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Enjoy</complectation_name>
+			<wheel>левый</wheel>
 			<color>Серый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
