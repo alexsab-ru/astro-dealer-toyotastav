@@ -2173,30 +2173,6 @@ OФИЦИAЛЬHЫЙ ДИЛEP уже ВCЁ CДЕЛAЛ ДЛЯ BАC:
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>5700000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LVGEU76A0SG045448</vin>
-			<description/>
-			<images/>
-			<video/>
-		<url>https://toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-luxury-черный-2025/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
-			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
@@ -2267,6 +2243,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			</images>
 			<video/>
 		<url>https://toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-luxury-черный-2024/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Highlander, IV (U70)</folder_id>
+			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>5700000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76A0SG045448</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-luxury-черный-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>Land Cruiser Prado, 250 Series</folder_id>
