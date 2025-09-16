@@ -210,10 +210,10 @@
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>17800000</price>
-			<credit_discount>555000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>450000</tradein_discount>
-			<max_discount>1005000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPA7CX9R4003754</vin>
 			<phone>83532793594</phone>
@@ -272,10 +272,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
 			<price>20800000</price>
-			<credit_discount>755000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>950000</tradein_discount>
-			<max_discount>1705000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPBBCX604050601</vin>
 			<phone>83532793594</phone>
