@@ -1,0 +1,13 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import settings from '@/data/settings.json';
+import PageH1 from '@/components/PageH1/Index.astro';
+
+const { brand, legal_city_where } = settings;
+---
+
+<Layout title={`Оригинальные аксессуары для автомобилей ${brand} – Официальный дилерский центр ${brand} в ${legal_city_where}`} description={`Широкий выбор оригинальных аксессуаров для автомобилей ${brand}. Улучшите комфорт, стиль и функциональность вашего авто с сертифицированными аксессуарами от официального дилера ${brand} в ${legal_city_where}.`}>
+	<div class="container py-10 space-y-10 xl:space-y-14 content">
+		<PageH1 h1={`Оригинальные аксессуары ${brand}`} classes="text-3xl sm:text-4xl font-bold text-center" />		
+	</div>
+</Layout>
