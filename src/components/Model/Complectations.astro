@@ -38,7 +38,12 @@ const { models = [], model, brand, title = "Подобрать комплект�
 				<div class="absolute -top-5 sm:top-0 left-0">
 					<div class="text-xl sm:text-3xl font-bold uppercase !leading-none" x-html={`'${brand}&nbsp;' + currentModel.name`}></div>
 					<div class="sm:text-xl" x-text="currentModelComplectation.name"></div>
-					<div class="sm:text-2xl" x-html="'от&nbsp;'+currencyFormat(currentModelComplectation.price)"></div>
+					<!-- Показываем цену только если она валидна (не пустая, не null, не NaN). 
+						Используем currencyFormat как валидатор: при невалидной цене он вернёт undefined,
+						и блок не отрендерится. Это предотвращает вывод 'от undefined' или пустого значения. -->
+					<template x-if="currencyFormat(currentModelComplectation.price)">
+						<div class="sm:text-2xl" x-html="'от&nbsp;'+currencyFormat(currentModelComplectation.price)"></div>
+					</template>
 				</div>
 			</div>
 			<div class="grid sm:grid-cols-2 gap-10 lg:gap-5 xl:gap-10">
