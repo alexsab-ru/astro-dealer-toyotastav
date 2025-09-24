@@ -6,11 +6,11 @@ import PageH1 from '@/components/PageH1/Index.astro';
 const { brand, legal_city_where } = settings;
 ---
 
-<Layout title={`Оценка стоимости автомобиля в ${legal_city_where} | ${brand}`} description={`Узнайте точную стоимость вашего автомобиля с помощью оценки от официального дилера ${brand} в ${legal_city_where}.`}>
+<Layout title={`Оценка стоимости автомобиля в ${legal_city_where} | ${brand}`} description={`Бесплатная оценка и диагностика специалистом. Узнайте точную стоимость вашего автомобиля с помощью оценки от официального дилера ${brand} в ${legal_city_where}.`}>
 	<div class="container py-10 space-y-10">
 		<div>
-			<PageH1 h1={`Оцените ваш автомобиль в официальном дилерском центре ${brand} в ${legal_city_where}`} classes="text-3xl sm:text-4xl font-bold text-center" />
-			<p class="text-center mt-1 text-gray-500">Бесплатная оценка и диагностика специалистом</p>
+			<PageH1 h1={`Оценка вашего автомобиля в официальном дилерском центре ${brand} в ${legal_city_where}`} classes="text-3xl sm:text-4xl font-bold text-center" />
+			<p class="text-center mt-1 text-gray-500">Оставьте свои данные и&nbsp;мы&nbsp;свяжемся с&nbsp;Вами в&nbsp;ближайшее время, чтобы спланировать Ваш визит в&nbsp;дилерский центр {brand} в&nbsp;{legal_city_where}.</p>
 		</div>
 		<Form dataFormName="Оценка стоимости автомобиля" labelBtn="Записаться на оценку" />
 	</div>
