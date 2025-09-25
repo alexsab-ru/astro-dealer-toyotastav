@@ -1,0 +1,66 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import settings from '@/data/settings.json';
+import PageH1 from '@/components/PageH1/Index.astro';
+import UniversalSection from '@/components/Model/sections/universal.astro';
+
+import { phoneFormat } from '@/js/utils/numbers.format';
+
+const { brand, legal_city_where, site_name, phone_common } = settings;
+
+const sections = [
+  {
+    id: "1",
+    sectionClass: "bg-gray-100",
+    title: 'Аэродинамический комплект LC 200 VER. HRS SPORT',
+    text: 'Новый стандарт премиального дизайна Toyota LC 200 получил название KHANN HRS. Уникальная стилистика аэродинамического обвеса HRS в сочетании с множеством потрясающих деталей делает LC 200 неповторимым и подчеркивает выразительность модели. Обвес HRS Sport  имеет интегрированную с передним бампером решетку радиатора, которая эффективно выделяет динамичный силуэт кузова. Кит LC 200 KHANN ver. HRS Sport - это стремительные и агрессивные элементы наглядно демонстрирующие ваше превосходство.',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/1.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/2.webp'},
+    ],
+  },
+  {
+    id: "2",
+    title: 'Аэродинамический комплект LC 200 VER. HRS CLASSIC',
+    text: 'Новый стандарт премиального дизайна Toyota LC 200 получил название KHANN HRS. Уникальная стилистика аэродинамического обвеса HRS Сlassic в сочетании с множеством потрясающих деталей делает LC 200 неповторимым и подчеркивает превосходство модели. Обвес имеет множество граней, которые эффектно выделяются особой многоцветной окраской. Кит LC 200 KHANN ver. HRS Classic - ваш новый эталон стиля и индивидуальности.',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/3.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/4.webp'},
+    ],
+  },
+  {
+    id: "3",
+    title: 'Аэродинамический комплект CAMRY VER. HRS CLASSIC',
+    text: 'Уникальный дизайн бизнес-седана приобретает новые черты благодаря строгим и одновременно спортивным формам переднего и заднего бампера аэродинамического комплекта KHANN VER. HRS Classic для Toyota Camry. Доступные для комплекта дополнительные аксессуары выделят динамичный силуэт и спортивную эстетику автомобиля.',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/5.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/6.webp'},
+    ],
+  },
+  {
+    id: "4",
+    title: 'Аэродинамический комплект RAV4 VER. HRS SPORT',
+    text: 'Технологичный дизайн кроссовера дополнен атлетичными формами аэродинамического комплекта KHANN VER. HRS Sport для Toyota RAV4. Доступные для комплекта дополнительные аксессуары, такие как спойлер на нижнюю и на верхнюю кромку стекла, а также комплект оригинальных ходовых огней KHANN несомненно подчеркнут спортивную эстетику автомобиля. Новое стилистическое решение Toyota RAV 4 от KHANN сделает ваш автомобиль бескомпромиссно привлекательным.',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/7.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aerodinamichnye-komplekty-khann/8.webp'},
+    ],
+  },
+];
+---
+
+<Layout title={`Аэродинамичные комплекты KHANN для ${brand} – Официальный дилерский центр ${brand} в ${legal_city_where}`} description={`Оцените эксклюзивные аэродинамичные комплекты KHANN для автомобилей ${brand}. Улучшите внешний вид и динамику вашего авто с премиальными решениями от бренда KHANN (кхан).`}>
+	<div class="container py-10 space-y-10 xl:space-y-14 content">
+		<PageH1 h1={`Аэродинамические комплекты KHANN для ${brand}`} classes="text-3xl sm:text-4xl font-bold text-center" />
+		<div class="italic font-semibold">
+      <p>Дизайн, притягивающий взгляды. Компоненты максимального выражения драйверского характера бестселлера.</p>
+      <p>Рады сообщить, что в дилерском центре {site_name} появилась возможность установки аэродинамического обвеса KHANN.</p>
+      <p>Подробную консультацию вы можете получить по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a></p>
+    </div>
+	</div>
+
+  {sections.map(section => (
+    <UniversalSection section={section} />
+  ))}
+
+</Layout>
