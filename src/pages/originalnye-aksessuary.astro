@@ -367,7 +367,7 @@ const accessories = [
 							<td class="align-middle">
 								<a 
 									href={accessory.image} 
-									class="text-center glightbox !no-underline" 
+									class="text-center glightbox !no-underline block hover:opacity-90" 
 									data-title={`${accessory.name}`} 
 									data-description={`
 										Арт. ${accessory.article}</br>
@@ -383,7 +383,9 @@ const accessories = [
 									/>
 								</a>
 							</td>
-							<td>{accessory.name}</td>
+							<td>
+                <a class="popup-link" href="#common-modal" data-title={`Узнать подробнее про ${accessory.name}`} data-form_name={`Узнать подробнее про ${accessory.name}`}>{accessory.name}</a>
+              </td>
 							<td>{accessory.article}</td>
 							<td class="font-semibold">{currencyFormat(accessory.price)}</td>
 						</tr>
