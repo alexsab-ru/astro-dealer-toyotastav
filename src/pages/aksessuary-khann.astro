@@ -1,0 +1,99 @@
+---
+import Layout from '@/layouts/Layout.astro';
+import settings from '@/data/settings.json';
+import PageH1 from '@/components/PageH1/Index.astro';
+import UniversalSection from '@/components/Model/sections/universal.astro';
+
+import { phoneFormat } from '@/js/utils/numbers.format';
+
+const { brand, legal_city_where, site_name, phone_common } = settings;
+
+const sections = [
+  {
+    id: "1",
+    sectionClass: "bg-gray-100",
+    title: 'РАСШИРИТЕЛИ КОЛЕСНЫХ АРОК ДЛЯ TOYOTA LAND CRUISER PRADO',
+    text: 'Расширители арок KHANN разработаны для придания кузову LC Prado внедорожных свойств и брутальности в дизайне. Они эффективно защищают кузов от пескоструйного воздействия и являются эстетическим дополнением к колесным дискам с более широким вылетом.​',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/1.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/2.webp'},
+    ],
+  },
+  {
+    id: "2",
+    sectionClass: "",
+    title: 'КАПОТ ДЛЯ TOYOTA LAND CRUISER 200',
+    text: 'Новый дизайн капота LC 200 придаст автомобилю вид, достойный восхищения.​',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/3.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/4.webp'},
+    ],
+  },
+  {
+    id: "3",
+    sectionClass: "",
+    title: 'CПОЙЛЕРЫ ДЛЯ TOYOTA LAND CRUISER 200',
+    text: 'Элегантный спойлер на крышку багажника добавит автомобилю спортивных акцентов.​',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/5.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/6.webp'},
+    ],
+  },
+  {
+    id: "4",
+    sectionClass: "",
+    title: 'КОМПЛЕКТ KHANN PERFORMANCE ДЛЯ TOYOTA LAND CRUISER 200 VER. HRS CLASSIC',
+    text: 'KHANN Performance - это серия аксессуаров из карбона, разработанная специально для аэродинамического комплекта KHANN LC 200 ver. HRS Classic. Комплект доступен как в глянцевом, так и в матовом исполнении. Добавьте Вашему автомобилю больше стиля и спортивных акцентов.​',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/7.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/8.webp'},
+    ],
+  },
+  {
+    id: "5",
+    sectionClass: "",
+    title: 'РАДИАТОРНАЯ РЕШЕТКА TOYOTA LAND CRUISER PRADO CLASSIC',
+    text: 'Решетка радиатора KHANN дополняет строгий и атлетичный силуэт передней части LC Prado. Разработанная в новой стилистике Toyota решетка притягивает взгляды к передней части автомобиля.  Решетка доступна в цвете черный глянец.​',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/9.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/10.webp'},
+    ],
+  },
+  {
+    id: "6",
+    sectionClass: "",
+    title: 'КОРПУСА ЗЕРКАЛ HRS ДЛЯ TOYOTA LAND CRUISER 200',
+    text: 'Выразительные корпуса зеркал заднего вида HRS особой обтекаемой формы добавят спортивных акцентов вашему автомобилю. Возможно исполнение из карбона и пластика, доступна контрастная окраска пластиковых корпусов и частичная окраска карбоновых корпусов в цвет кузова автомобиля.​',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/11.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/12.webp'},
+    ],
+  },
+  {
+    id: "7",
+    sectionClass: "",
+    title: 'КОМПЛЕКТ АВТОМОБИЛЬНЫХ КОВРОВ ДЛЯ TOYOTA LAND CRUISER 200',
+    text: 'Разработанные с применением 3D технологий ковры салона и багажника KHANN идеально повторяют конфигурацию пола автомобиля. За счет применения прорезиненного термопласта в качестве основного материала при производстве, ковры KHANN обладают уникальными характеристиками, обладая лучшими свойствами резиновых и текстильных ковров, легко моются, не имеют запаха, надежно защищают салон от загрязнений и попадания влаги. ',
+    images: [
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/13.webp'},
+      {url: 'https://cdn.alexsab.ru/pages/toyota/aksessuary-khann/14.webp'},
+    ],
+  },
+];
+---
+
+<Layout title={`Аксессуары KHANN – Официальный дилерский центр ${brand} в ${legal_city_where}`} description={`Оригинальные аксессуары KHANN для автомобилей ${brand}. Добавьте уникальный стиль и улучшите функциональность вашего авто с премиальными аксессуарами от известного бренда.`}>
+	<div class="container py-10 space-y-10 xl:space-y-14 content">
+		<PageH1 h1={`Аксессуары KHANN для ${brand}`} classes="text-3xl sm:text-4xl font-bold text-center" />
+		<div class="italic font-semibold">
+      <p>{site_name} рад предложить для вас уникальные решения по изменению экстерьера Вашего автомобиля — программы индивидуализации KHANN. Высокое качество материалов и инновационные компоненты, применяемые в обвесах, позволяют с уверенностью говорить о неповторимом стиле предлагаемых решений.</p>
+      <p>Наши специалисты с удовольствием подберут аксессуары, которые подойдут именно для Вашего автомобиля.</p>
+      <p>Подробную консультацию вы можете получить по тел.: <a href={`tel:${phoneFormat(phone_common)}`}>{phone_common}</a></p>
+    </div>
+	</div>
+
+  {sections.map(section => (
+    <UniversalSection section={section} />
+  ))}
+
+</Layout>
