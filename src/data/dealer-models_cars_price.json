@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "brand": "LEXUS",
+    "model": "LX 600",
+    "price": 23300000,
+    "benefit": 300000
+  },
+  {
+    "brand": "Lexus",
+    "model": "RX 350",
+    "price": 11400000,
+    "benefit": 300000
+  }
+]
