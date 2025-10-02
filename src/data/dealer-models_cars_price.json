@@ -10,5 +10,17 @@
     "model": "RX 350",
     "price": 11400000,
     "benefit": 300000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "price": 5650000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
+    "model": "Land Cruiser Prado",
+    "price": 4550000,
+    "benefit": 0
   }
 ]
