@@ -60,10 +60,14 @@ export default defineConfig({
 		},
 	},
 	redirects: {
-		"/cars/new/[...slug]": "/cars/",
-		"/cars/used/[...slug]": "/used_cars/",
-		"/new[...slug]": "/cars/",
-		"/used/[...slug]": "/used_cars/",
+		"/cars/new": "/cars/",
+		// "/cars/new/[...slug]": "/cars/",
+		"/cars/used": "/used_cars/",
+		// "/cars/used/[...slug]": "/used_cars/",
+		"/new": "/cars/",
+		// "/new[...slug]": "/cars/",
+		"/used": "/used_cars/",
+		// "/used/[...slug]": "/used_cars/",
 		"/cars/compare": "/cars/",
 		"/cars/not-found": "/cars/"
 	},
