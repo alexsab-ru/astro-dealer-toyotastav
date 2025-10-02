@@ -39,6 +39,14 @@ export default defineConfig({
 			},
 		},
 	},
+	redirects: {
+		"/cars/new/[...slug]": "/cars/",
+		"/cars/used/[...slug]": "/used_cars/",
+		"/new[...slug]": "/cars/",
+		"/used/[...slug]": "/used_cars/",
+		"/cars/compare": "/cars/",
+		"/cars/not-found": "/cars/"
+	},
 	site: 'https://alexsab-ru.github.io',
 	base: '/'
 });
