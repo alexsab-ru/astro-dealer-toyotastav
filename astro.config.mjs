@@ -59,6 +59,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://toyotastav.ru',
+	site: 'https://cars.toyotastav.ru',
 	base: "/"
 });
