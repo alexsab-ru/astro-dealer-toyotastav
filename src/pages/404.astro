@@ -13,6 +13,35 @@ const special = await getCollection('special-offers');
 	// return Astro.redirect(Astro.url.pathname+'/', 308);
 // }
 ---
+<script>
+	/* Клиентские редиректы на 404.
+		 - Простой массив правил: test(RegExp) → to(string)
+		 - preserveQS: сохранять ли query/hash при редиректе */
+	(() => {
+		const preserveQS = false; // поставьте true, если нужно сохранять ?query и #hash
+		const rules = [
+			// /cars/new* и /new* -> /cars/
+			{ test: /^\/cars\/new(?:\/.*)?$/, to: '/cars/' },
+			{ test: /^\/new(?:\/.*)?$/,      to: '/cars/' },
+	
+			// /cars/used* и /used* -> /used_cars/
+			{ test: /^\/cars\/used(?:\/.*)?$/, to: '/used_cars/' },
+			{ test: /^\/used(?:\/.*)?$/,       to: '/used_cars/' },
+		];
+	
+		const { pathname, search, hash } = window.location;
+	
+		for (const { test, to } of rules) {
+			if (test.test(pathname)) {
+				const target = preserveQS ? (to + search + hash) : to;
+				// Абсолютный URL, чтобы избежать проблем с под-путём
+				const absolute = window.location.origin + target;
+				window.location.replace(absolute);
+				return;
+			}
+		}
+	})();
+</script>
 
 <Layout title={title} description={description}>
 	<section class="relative pb-10 px-5">
