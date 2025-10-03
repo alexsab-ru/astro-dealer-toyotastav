@@ -40,10 +40,12 @@ export default defineConfig({
 		},
 	},
 	redirects: {
-		"/cars/new/[...slug]": "/cars/",
-		"/cars/used/[...slug]": "/used_cars/",
-		"/new[...slug]": "/cars/",
-		"/used/[...slug]": "/used_cars/",
+		"/brands/toyota/camry-2024": "/cars/",
+		"/brands/toyota/hiace": "/cars/",
+		"/brands/toyota/land-cruiser-prado-2020": "/cars/",
+		"/brands/toyota/new-c-hr": "/cars/",
+		"/dopolnitelnoe-oborudovanie/aksessuary-khann": "/aksessuary-khann/",
+		"/dopolnitelnoe-oborudovanie/legkosplavnye-diski-khann": "/legkosplavnye-diski-khann/",
 		"/cars/compare": "/cars/",
 		"/cars/not-found": "/cars/"
 	},
