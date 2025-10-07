@@ -1,9 +1,39 @@
 [
   {
+    "brand": "BMW",
+    "model": "8 серии",
+    "price": 7200000,
+    "benefit": 0
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Creta",
+    "price": 1450000,
+    "benefit": 0
+  },
+  {
+    "brand": "Jaguar",
+    "model": "F-Pace",
+    "price": 1880000,
+    "benefit": 0
+  },
+  {
     "brand": "LEXUS",
     "model": "LX 600",
     "price": 23300000,
     "benefit": 300000
+  },
+  {
+    "brand": "Lexus",
+    "model": "GX",
+    "price": 2450000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lexus",
+    "model": "NX",
+    "price": 3800000,
+    "benefit": 0
   },
   {
     "brand": "Lexus",
@@ -12,9 +42,33 @@
     "benefit": 300000
   },
   {
+    "brand": "Mercedes-Benz",
+    "model": "C-класс",
+    "price": 1790000,
+    "benefit": 0
+  },
+  {
+    "brand": "Subaru",
+    "model": "Impreza",
+    "price": 1130000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
+    "model": "Avalon",
+    "price": 3650000,
+    "benefit": 0
+  },
+  {
     "brand": "Toyota",
     "model": "Camry",
     "price": 5650000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
+    "model": "Land Cruiser 300",
+    "price": 2650000,
     "benefit": 0
   },
   {
