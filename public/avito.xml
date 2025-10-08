@@ -1,5 +1,78 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Ads><Ad>
+		<Id>7af915393a36b3bf5d7d3e29c6ecf5e5</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>❗УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+✅ СПЕЦИАЛЬНАЯ СТАВКА 17,9% ОТ АО ТОЙОТА БАНК*! ТОЛЬКО У НАС!
+
+✅ Автомобиль на гарантии
+✅Цена с полным НДС 20%
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.
+
+Все подробности в отделе продаж новых автомобилей на пр.Кулакова, 32.
+
+* Полная стоимость кредита от 17.892% до 17.9%
+*Ставка указана по кредитной программе «Летний 06_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля. 
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.  
+Банк может отказать в выдаче кредита. Предложение действует до 31/10/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК). 
+Оценивайте свои финансовые возможности и риски.</Description>
+		<Price>12690000</Price>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>300000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>500000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/bdcd1bcb741cff7cfd224a40cff3c15d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5bc9c5aee9b9b689e2149ae40936cd15.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/92d3ffc1eff51e8d4fe187b402ff18c1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/65d15feed9ca696c3068bf1405f8f75e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5d6a4219855cffdec2db7c69bb05ea50.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/3172807fbfe879fe7005ba8c3fb3174b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/37972a187fd9e1d593a12818433ce1f0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/42cd4bb80f7bf3963877764f1c8df80e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/35505515557139864e79e5334e1b9126.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5729353c2c60f50f6a9e28c41dbd4186.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/dd95b43260299a501d50376a3f5fc6d5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/b563126af8bb5a7218151e5cc8878254.jpg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Land Cruiser Prado</Model>
+		<GenerationId>18663001</GenerationId>
+		<ModificationId>18663002</ModificationId>
+		<ComplectationId>22051809</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2024</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTEAACAJ8RK000609</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>+7 865 2978075</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+<Ad>
 		<Id>807a42d800d735482b8555ac893c3b56</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
 		<CarType>Новые</CarType>
@@ -150,6 +223,78 @@
 		<VideoFileURL/>
 	</Ad>
 <Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>d64658413bf8572d368493c29f46ff7b</Id><Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>❗УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+✅ СПЕЦИАЛЬНАЯ СТАВКА 17,9% ОТ АО ТОЙОТА БАНК*! ТОЛЬКО У НАС!
+
+✅ Автомобиль на гарантии
+✅Цена с полным НДС 20%
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.
+
+Все подробности в отделе продаж новых автомобилей на пр.Кулакова, 32.
+
+* Полная стоимость кредита от 17.892% до 17.9%
+*Ставка указана по кредитной программе «Летний 06_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля. 
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.  
+Банк может отказать в выдаче кредита. Предложение действует до 31/10/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК). 
+Оценивайте свои финансовые возможности и риски.</Description><Price>12690000</Price><TradeinDiscount>200000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount/><MaxDiscount>500000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/bdcd1bcb741cff7cfd224a40cff3c15d.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5bc9c5aee9b9b689e2149ae40936cd15.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/92d3ffc1eff51e8d4fe187b402ff18c1.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/65d15feed9ca696c3068bf1405f8f75e.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5d6a4219855cffdec2db7c69bb05ea50.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/3172807fbfe879fe7005ba8c3fb3174b.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/37972a187fd9e1d593a12818433ce1f0.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/42cd4bb80f7bf3963877764f1c8df80e.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/35505515557139864e79e5334e1b9126.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/5729353c2c60f50f6a9e28c41dbd4186.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/dd95b43260299a501d50376a3f5fc6d5.jpg"/><Image url="https://photo.toyotasever.ru/JTEAACAJ8RK000609/b563126af8bb5a7218151e5cc8878254.jpg"/></Images><Make>Toyota</Make><Model>Land Cruiser Prado</Model><GenerationId>18663001</GenerationId><ModificationId>18663002</ModificationId><ComplectationId>22051809</ComplectationId><FuelType>Бензин</FuelType><Transmission>Автомат</Transmission><Year>2024</Year><Doors>5</Doors><BodyType>Внедорожник</BodyType><DriveType>Полный</DriveType><WheelType>Левый</WheelType><VIN>JTEAACAJ8RK000610</VIN><OnlyOnAvito>нет</OnlyOnAvito><ContactPhone>+7 865 2978075</ContactPhone><VideoURL/><VideoFileURL/></Ad><Ad>
 		
 		
 		
