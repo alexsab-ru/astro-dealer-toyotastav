@@ -24,6 +24,12 @@
     "benefit": 300000
   },
   {
+    "brand": "Lada (ВАЗ)",
+    "model": "Largus",
+    "price": 795000,
+    "benefit": 0
+  },
+  {
     "brand": "Lexus",
     "model": "GX",
     "price": 2450000,
