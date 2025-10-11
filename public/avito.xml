@@ -1,5 +1,80 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Ads><Ad>
+		<Id>ab872e6eafa9c5e61370591a49b2a59c</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>❗УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+✅ СПЕЦИАЛЬНАЯ СТАВКА 17,9% ОТ АО ТОЙОТА БАНК*! ТОЛЬКО У НАС!
+
+✅ Автомобиль на гарантии
+✅Цена с полным НДС 20%
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.
+
+Все подробности в отделе продаж новых автомобилей на пр.Кулакова, 32.
+
+* Полная стоимость кредита от 17.892% до 17.9%
+*Ставка указана по кредитной программе «Летний 06_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля. 
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.  
+Банк может отказать в выдаче кредита. Предложение действует до 31/10/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК). 
+Оценивайте свои финансовые возможности и риски.</Description>
+		<Price>5399000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/0a8a5f16bbd2d4f91c62b6f319f972ca.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/3850f491d06390d4b31c6ed388a220e2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/38a02e372380c4b0719bc86c7633e9d7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/a8ada75e8b56acc5e9ad8b21a26017cd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/dcfb972aae16483bfc3e97064ba7bb99.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/7f762f11d9a1411e5fb66b23826c2d99.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/d9bd15a2ff1b50ab1c0ebdf14e04054f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/3ab48ba116d81e93d7bb2eb063c6585e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/ff607e82e8063086150205f2eff072ae.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/73436c8a7a2d74bb9b10e9cf155c0290.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/90b3d844eded26ca18644b80960fe3c5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/40ba77a8147ab9c28abf2af23c72e6c6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/9f9ae6108b917afcd6c51dd0b6ba9a80.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/58040427b9da24ffd8b5b98a38d209c7.jpg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Camry</Model>
+		<GenerationId>22027441</GenerationId>
+		<ModificationId>22027446</ModificationId>
+		<ComplectationId>22027450</ComplectationId>
+		<FuelType>Гибрид</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LVGBECEK5RG508603</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>+7 865 2978075</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
 		<Id>7af915393a36b3bf5d7d3e29c6ecf5e5</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
 		<CarType>Новые</CarType>
@@ -223,6 +298,80 @@
 		<VideoFileURL/>
 	</Ad>
 <Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>d3f9e13d9dbed92029ef440537844022</Id><Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>❗УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+✅ СПЕЦИАЛЬНАЯ СТАВКА 17,9% ОТ АО ТОЙОТА БАНК*! ТОЛЬКО У НАС!
+
+✅ Автомобиль на гарантии
+✅Цена с полным НДС 20%
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.
+
+Все подробности в отделе продаж новых автомобилей на пр.Кулакова, 32.
+
+* Полная стоимость кредита от 17.892% до 17.9%
+*Ставка указана по кредитной программе «Летний 06_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля. 
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.  
+Банк может отказать в выдаче кредита. Предложение действует до 31/10/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК). 
+Оценивайте свои финансовые возможности и риски.</Description><Price>5399000</Price><TradeinDiscount>100000</TradeinDiscount><CreditDiscount>200000</CreditDiscount><InsuranceDiscount/><MaxDiscount>300000</MaxDiscount><Color>Черный</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/0a8a5f16bbd2d4f91c62b6f319f972ca.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/3850f491d06390d4b31c6ed388a220e2.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/38a02e372380c4b0719bc86c7633e9d7.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/a8ada75e8b56acc5e9ad8b21a26017cd.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/dcfb972aae16483bfc3e97064ba7bb99.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/7f762f11d9a1411e5fb66b23826c2d99.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/d9bd15a2ff1b50ab1c0ebdf14e04054f.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/3ab48ba116d81e93d7bb2eb063c6585e.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/ff607e82e8063086150205f2eff072ae.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/73436c8a7a2d74bb9b10e9cf155c0290.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/90b3d844eded26ca18644b80960fe3c5.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/40ba77a8147ab9c28abf2af23c72e6c6.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/9f9ae6108b917afcd6c51dd0b6ba9a80.jpg"/><Image url="https://photo.toyotasever.ru/LVGBECEK5RG508603/58040427b9da24ffd8b5b98a38d209c7.jpg"/></Images><Make>Toyota</Make><Model>Camry</Model><GenerationId>22027441</GenerationId><ModificationId>22027446</ModificationId><ComplectationId>22027450</ComplectationId><FuelType>Гибрид</FuelType><Transmission>Вариатор</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LVGBECEK5RG508604</VIN><OnlyOnAvito>нет</OnlyOnAvito><ContactPhone>+7 865 2978075</ContactPhone><VideoURL/><VideoFileURL/></Ad><Ad>
 		
 		
 		
