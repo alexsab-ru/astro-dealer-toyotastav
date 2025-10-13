@@ -1,5 +1,77 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <Ads><Ad>
+		<Id>a26773f78fe4405ca39b531f1dda9659</Id>
+		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>❗УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+✅ СПЕЦИАЛЬНАЯ СТАВКА 17,9% ОТ АО ТОЙОТА БАНК*! ТОЛЬКО У НАС!
+
+✅ Автомобиль на гарантии
+✅Цена с полным НДС 20%
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.
+
+Все подробности в отделе продаж новых автомобилей на пр.Кулакова, 32.
+
+* Полная стоимость кредита от 17.892% до 17.9%
+*Ставка указана по кредитной программе «Летний 06_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля. 
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.  
+Банк может отказать в выдаче кредита. Предложение действует до 31/10/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК). 
+Оценивайте свои финансовые возможности и риски.</Description>
+		<Price>4700000</Price>
+		<TradeinDiscount>400000</TradeinDiscount>
+		<CreditDiscount>300000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>700000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/1ac480a62f8aca8e859fa1d4f649de10.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/8a87ed2a54e6e9c336b38d98f1086a4f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/3f555b5b4e84591fb84eccbb54e3a55c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/9f336e562169025c31bae5b1ba78e06e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/980cb83c91b00be7525c5e37692020a8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/ad36d4e77f60e5beeb992cca2ffd7362.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/c597cc30093ada041d6dfe20147ec1e0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/a4c4c3cd1c0695955d11393ab9b617e8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/956b541b3a5c34a4c352cede6f1cb72f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/a2aad86ed24d7adb553460fc93b745c6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/9ddfbebd1cdcc4f79d5b1fb72ec7317f.jpg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Camry</Model>
+		<GenerationId>22027441</GenerationId>
+		<ModificationId>22032906</ModificationId>
+		<ComplectationId>22045706</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2024</Year>
+		<Doors>4</Doors>
+		<BodyType>Седан</BodyType>
+		<DriveType>Передний</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LVGBACEK7RG006008</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>+7 865 2978075</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
 		<Id>ab872e6eafa9c5e61370591a49b2a59c</Id>
 		<Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address>
 		<CarType>Новые</CarType>
@@ -298,6 +370,77 @@
 		<VideoFileURL/>
 	</Ad>
 <Ad>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<Id>3ad74d40b2c9cd7972b00dba9bfa0f4a</Id><Address>Ставропольский край, г. Ставрополь, пр-кт Кулакова,  №32</Address><CarType>Новые</CarType><Availability>в наличии</Availability><Category>Автомобили</Category><Description>❗УНИКАЛЬНОЕ ПРЕДЛОЖЕНИЕ ОТ TOYOTA и LEXUS СТАВРОПОЛЬ❗
+✅ СПЕЦИАЛЬНАЯ СТАВКА 17,9% ОТ АО ТОЙОТА БАНК*! ТОЛЬКО У НАС!
+
+✅ Автомобиль на гарантии
+✅Цена с полным НДС 20%
+✅ Эксклюзивная кредитная программа со сниженной процентной ставкой
+✅Выгодный обмен Вашего автомобиля на новый
+✅Индивидуальные предложения для каждого клиента
+
+Максимальная ВЫГОДА только до конца месяца!
+
+Автомобили Toyota от официального дилера ООО «Ставрополь-Авто» - это гарантия лучшей цены, качества и надежности! 
+Для Вашего удобства доступны он-лайн сервисы – оценка Вашего автомобиля, онлайн одобрение кредита, покупка автомобиля он-лайн.
+
+Мы ждем Вашего звонка, чтобы предложить лучшие условия на покупку нового автомобиля. Есть предложения от другого Дилера? Приезжайте! И мы улучшим его.
+Готовы обсуждать условия покупки и договариваться о цене каждого автомобиля.  
+
+Не нашли нужную комплектацию? Мы закажем и привезем ее для Вас в максимально короткие сроки или подберем достойную альтернативу.
+
+Стоимость автомобиля указана с учетом текущих действующих акций и специальных предложений.
+
+Все подробности в отделе продаж новых автомобилей на пр.Кулакова, 32.
+
+* Полная стоимость кредита от 17.892% до 17.9%
+*Ставка указана по кредитной программе «Летний 06_25» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 96 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля. 
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058.  Реклама.  
+Банк может отказать в выдаче кредита. Предложение действует до 31/10/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК). 
+Оценивайте свои финансовые возможности и риски.</Description><Price>4700000</Price><TradeinDiscount>400000</TradeinDiscount><CreditDiscount>300000</CreditDiscount><InsuranceDiscount/><MaxDiscount>700000</MaxDiscount><Color>Белый</Color><Images>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		<Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/1ac480a62f8aca8e859fa1d4f649de10.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/8a87ed2a54e6e9c336b38d98f1086a4f.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/3f555b5b4e84591fb84eccbb54e3a55c.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/9f336e562169025c31bae5b1ba78e06e.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/980cb83c91b00be7525c5e37692020a8.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/ad36d4e77f60e5beeb992cca2ffd7362.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/c597cc30093ada041d6dfe20147ec1e0.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/a4c4c3cd1c0695955d11393ab9b617e8.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/956b541b3a5c34a4c352cede6f1cb72f.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/a2aad86ed24d7adb553460fc93b745c6.jpg"/><Image url="https://photo.toyotasever.ru/LVGBACEK7RG006008/9ddfbebd1cdcc4f79d5b1fb72ec7317f.jpg"/></Images><Make>Toyota</Make><Model>Camry</Model><GenerationId>22027441</GenerationId><ModificationId>22032906</ModificationId><ComplectationId>22045706</ComplectationId><FuelType>Бензин</FuelType><Transmission>Вариатор</Transmission><Year>2024</Year><Doors>4</Doors><BodyType>Седан</BodyType><DriveType>Передний</DriveType><WheelType>Левый</WheelType><VIN>LVGBACEK7RG006009</VIN><OnlyOnAvito>нет</OnlyOnAvito><ContactPhone>+7 865 2978075</ContactPhone><VideoURL/><VideoFileURL/></Ad><Ad>
 		
 		
 		
@@ -2250,7 +2393,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<InsuranceDiscount>50000</InsuranceDiscount>
 		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
-		<Images/>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/cea863da59c00fbf95bed4fd6dac95b1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/22657d8323133849fbf2f2564fefd4ce.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/9240be42658a9ca7f2c3435ccbea8f01.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/4000a9da1daba2c7c34507496fb3a7a9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/29a0f6f98fd6cf9793a9bc2b675199ed.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/35241500dbffb29c60cbd1bf26bb4a09.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/41d08d83f89d482b369b27cda9947963.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/2b2fbe1e9903f5a5afc8454aaa288c8e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/ea978c6b3e8211133d7f4a1790f8e7aa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/09d3fa8c3e62fecdabe77fa511a4c308.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/b858a4a5d99d632fa5199cb09914378f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/4c046429ed020345b0f8333c5d3b959e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/17190bcf7f748ad41baf6dcd0b6b642e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/00b061c7aa68e97239ebc4007dfb6290.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/42b698a4d9033fd0391994d6547aa6bf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/65005629cb64844db9203b56e2ea9a07.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/0c15c01d67135d39a47529e58e8a8035.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/88d152c4adaf1af964dcb24171e1cc50.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/cb9179ec650c99edbf0d92520d365845.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/7e17a310b2a2fc1aec6320edb4a80ce1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/d73c3996cd1741185ea5a20524bfda40.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEAACAJ4RK008674/fb67455ca1e730520133577239de7d92.jpg"/>
+		</Images>
 		<Make>Toyota</Make>
 		<Model>Land Cruiser Prado</Model>
 		<GenerationId>18663001</GenerationId>
@@ -2357,6 +2523,142 @@ KРEДИT OT 17.9% !!!
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
+		<Id>c6b85581eafe078288b1f1d227ce7138</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Хотите ощутить свободу движения и комфорт современных технологий ?
+
+Тогда данное предложение именно для Вас!
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Пpивлекательная крeдитнaя cтавкa - 17,9% oт Tойoта Бaнк
+
+Комплeктация "Аdventure Рlus", двигaтель бензиновый 2,0 л (171 л.с.)
+C кaмеpами кpугoвoго oбзoрa и элeктрoприводом бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгода при приобретении автомобиля в кредит до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Возможно приобретение в лизинг
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия 2 года или 50 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
+		<Price>4570000</Price>
+		<TradeinDiscount>50000</TradeinDiscount>
+		<CreditDiscount>50000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>100000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images/>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>22146627</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF2S3129926</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>ccdc10c8f5c47d88d9d99ce4996d9d36</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Хотите ощутить свободу движения и комфорт современных технологий ?
+
+Тогда данное предложение именно для Вас!
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Пpивлекательная крeдитнaя cтавкa - 17,9% oт Tойoта Бaнк
+
+Комплeктация "Аdventure Рlus", двигaтель бензиновый 2,0 л (171 л.с.)
+C кaмеpами кpугoвoго oбзoрa и элeктрoприводом бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгода при приобретении автомобиля в кредит до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Возможно приобретение в лизинг
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия 2 года или 50 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
+		<Price>4570000</Price>
+		<TradeinDiscount>50000</TradeinDiscount>
+		<CreditDiscount>50000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>100000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images/>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>22146627</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF0S3129956</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
 		<Id>8ab8265857facea264c7a7dd8573c000</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -2443,6 +2745,142 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LFMJN5BF0S3129066</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>e1a4384971909bef39c0b9424021b6f3</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Хотите ощутить свободу движения и комфорт современных технологий ?
+
+Тогда данное предложение именно для Вас!
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Пpивлекательная крeдитнaя cтавкa - 17,9% oт Tойoта Бaнк
+
+Комплeктация "Аdventure Рlus", двигaтель бензиновый 2,0 л (171 л.с.)
+C кaмеpами кpугoвoго oбзoрa и элeктрoприводом бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгода при приобретении автомобиля в кредит до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Возможно приобретение в лизинг
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия 2 года или 50 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
+		<Price>4550000</Price>
+		<TradeinDiscount>50000</TradeinDiscount>
+		<CreditDiscount>50000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>100000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images/>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>22146627</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF3S3129997</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452570707</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>e67d841b286506660637e701ab0b7f43</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Хотите ощутить свободу движения и комфорт современных технологий ?
+
+Тогда данное предложение именно для Вас!
+
+Toyota RAV4 — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Пpивлекательная крeдитнaя cтавкa - 17,9% oт Tойoта Бaнк
+
+Комплeктация "Аdventure Рlus", двигaтель бензиновый 2,0 л (171 л.с.)
+C кaмеpами кpугoвoго oбзoрa и элeктрoприводом бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгода при приобретении автомобиля в кредит до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Возможно приобретение в лизинг
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия 2 года или 50 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!</Description>
+		<Price>4550000</Price>
+		<TradeinDiscount>50000</TradeinDiscount>
+		<CreditDiscount>50000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>100000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images/>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>22146627</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF3S3129983</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452570707</ContactPhone>
 		<VideoURL/>
