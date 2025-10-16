@@ -2570,7 +2570,7 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля. 
 Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058. Реклама. 
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
-		<Price>11200000</Price>
+		<Price>11190000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -2878,10 +2878,10 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 
 Осмотреть автомобиль можно по адресу: Самара, Московское ш., 264А</Description>
 		<Price>13690000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCMBHA802017768/a59185295c9b14ce3a8cde9f2da9b54b.jpg"/>
