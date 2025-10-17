@@ -3910,6 +3910,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-24-at-279-лс-4wd-люкс-белый-2024/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
+			<folder_id>Land Cruiser, 300 Series</folder_id>
+			<modification_id>3.4d AT (299 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>70th Anniversary</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>16500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTMAAABJ9S4122428</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-300-series-34d-at-299-лс-4wd-70th-anniversary-белый-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник 5 дв.</body_type>
@@ -4050,6 +4074,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 				<image>https://photo.toyotasever.ru/LFMJN5BF0S3129066/1ef82ff818ecbafec85abcb2eb513a68.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJN5BF0S3129066/e168e4f059a8f77501b84a8370095130.jpg</image>
 			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-черный-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Adventure</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>4550000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BFXS3128698</vin>
+			<description/>
+			<images/>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-черный-2025/</url></car>
 		<car>
