@@ -2705,11 +2705,11 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН 7750004136, ОГРН 1077711000058. Реклама.
 
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
-		<Price>7890000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<Price>7790000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA1S2014534/003d411b2817aaa086587ffafb77b65a.jpg"/>
