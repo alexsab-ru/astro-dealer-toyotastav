@@ -20,19 +20,19 @@
   {
     "brand": "Lada (ВАЗ)",
     "model": "Largus",
-    "price": 795000,
+    "price": 750000,
     "benefit": 0
   },
   {
     "brand": "Lexus",
     "model": "GX",
-    "price": 2450000,
+    "price": 2390000,
     "benefit": 0
   },
   {
     "brand": "Lexus",
     "model": "RX 350",
-    "price": 3450000,
+    "price": 5050000,
     "benefit": 300000
   },
   {
@@ -44,13 +44,13 @@
   {
     "brand": "Subaru",
     "model": "Impreza",
-    "price": 1130000,
+    "price": 1050000,
     "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "Avalon",
-    "price": 3490000,
+    "price": 3350000,
     "benefit": 0
   },
   {
