@@ -6,9 +6,21 @@
     "benefit": 0
   },
   {
+    "brand": "Belgee",
+    "model": "X50",
+    "price": 1850000,
+    "benefit": 0
+  },
+  {
     "brand": "Jaguar",
     "model": "F-Pace",
     "price": 1990000,
+    "benefit": 0
+  },
+  {
+    "brand": "Kia",
+    "model": "Rio",
+    "price": 1130000,
     "benefit": 0
   },
   {
@@ -27,6 +39,12 @@
     "brand": "Lexus",
     "model": "GX",
     "price": 2390000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lexus",
+    "model": "NX",
+    "price": 3300000,
     "benefit": 0
   },
   {
@@ -50,7 +68,13 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 5650000,
+    "price": 2650000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
+    "model": "Corolla",
+    "price": 1210000,
     "benefit": 0
   },
   {
