@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Audi",
+    "model": "A6",
+    "price": 3350000,
+    "benefit": 0
+  },
+  {
     "brand": "BMW",
     "model": "8 серии",
     "price": 6800000,
@@ -9,6 +15,18 @@
     "brand": "Belgee",
     "model": "X50",
     "price": 1850000,
+    "benefit": 0
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "price": 1400000,
+    "benefit": 0
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i40",
+    "price": 1400000,
     "benefit": 0
   },
   {
@@ -36,6 +54,30 @@
     "benefit": 0
   },
   {
+    "brand": "Lada (ВАЗ)",
+    "model": "Vesta",
+    "price": 1357000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lada (ВАЗ)",
+    "model": "XRAY",
+    "price": 890000,
+    "benefit": 0
+  },
+  {
+    "brand": "Land Rover",
+    "model": "Defender",
+    "price": 6950000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lexus",
+    "model": "ES",
+    "price": 4200000,
+    "benefit": 0
+  },
+  {
     "brand": "Lexus",
     "model": "GX",
     "price": 2390000,
@@ -60,9 +102,21 @@
     "benefit": 0
   },
   {
+    "brand": "Skoda",
+    "model": "Fabia",
+    "price": 480000,
+    "benefit": 0
+  },
+  {
     "brand": "Subaru",
     "model": "Impreza",
     "price": 1050000,
+    "benefit": 0
+  },
+  {
+    "brand": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 1280000,
     "benefit": 0
   },
   {
@@ -87,6 +141,18 @@
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 4550000,
+    "benefit": 0
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Jetta",
+    "price": 795000,
+    "benefit": 0
+  },
+  {
+    "brand": "ГАЗ",
+    "model": "Соболь (2752)",
+    "price": 750000,
     "benefit": 0
   }
 ]
