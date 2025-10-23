@@ -2489,10 +2489,10 @@ Toyota RAV4 — кроссовер, который сочетает в себе 
 
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
 		<Price>7990000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA1S2014534/003d411b2817aaa086587ffafb77b65a.jpg"/>
