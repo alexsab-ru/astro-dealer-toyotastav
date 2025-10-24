@@ -66,12 +66,6 @@
     "benefit": 0
   },
   {
-    "brand": "Land Rover",
-    "model": "Defender",
-    "price": 6950000,
-    "benefit": 0
-  },
-  {
     "brand": "Lexus",
     "model": "ES",
     "price": 4200000,
@@ -147,12 +141,6 @@
     "brand": "Volkswagen",
     "model": "Jetta",
     "price": 795000,
-    "benefit": 0
-  },
-  {
-    "brand": "ГАЗ",
-    "model": "Соболь (2752)",
-    "price": 750000,
     "benefit": 0
   }
 ]
