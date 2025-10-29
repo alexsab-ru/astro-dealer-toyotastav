@@ -84,6 +84,12 @@
     "benefit": 0
   },
   {
+    "brand": "Nissan",
+    "model": "Qashqai",
+    "price": 911800,
+    "benefit": 0
+  },
+  {
     "brand": "Skoda",
     "model": "Fabia",
     "price": 480000,
