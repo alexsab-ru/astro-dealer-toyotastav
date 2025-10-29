@@ -24,12 +24,6 @@
     "benefit": 0
   },
   {
-    "brand": "Hyundai",
-    "model": "i40",
-    "price": 1400000,
-    "benefit": 0
-  },
-  {
     "brand": "Jaguar",
     "model": "F-Pace",
     "price": 1990000,
@@ -111,12 +105,6 @@
     "brand": "Toyota",
     "model": "Corolla",
     "price": 1210000,
-    "benefit": 0
-  },
-  {
-    "brand": "Toyota",
-    "model": "Land Cruiser 300",
-    "price": 2550000,
     "benefit": 0
   },
   {
