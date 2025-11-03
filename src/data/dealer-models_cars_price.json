@@ -112,11 +112,5 @@
     "model": "Land Cruiser Prado",
     "price": 4550000,
     "benefit": 0
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Jetta",
-    "price": 795000,
-    "benefit": 0
   }
 ]
