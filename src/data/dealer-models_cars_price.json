@@ -18,12 +18,6 @@
     "benefit": 0
   },
   {
-    "brand": "Ford",
-    "model": "Focus",
-    "price": 1400000,
-    "benefit": 0
-  },
-  {
     "brand": "Jaguar",
     "model": "F-Pace",
     "price": 1990000,
@@ -40,12 +34,6 @@
     "model": "LX 600",
     "price": 23300000,
     "benefit": 300000
-  },
-  {
-    "brand": "Lada (ВАЗ)",
-    "model": "XRAY",
-    "price": 890000,
-    "benefit": 0
   },
   {
     "brand": "Lexus",
