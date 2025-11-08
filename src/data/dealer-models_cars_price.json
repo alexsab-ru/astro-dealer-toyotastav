@@ -91,12 +91,6 @@
   },
   {
     "brand": "Toyota",
-    "model": "Corolla",
-    "price": 1495000,
-    "benefit": 0
-  },
-  {
-    "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 4550000,
     "benefit": 0
