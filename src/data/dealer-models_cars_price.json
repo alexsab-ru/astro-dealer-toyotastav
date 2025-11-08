@@ -26,7 +26,7 @@
   {
     "brand": "Kia",
     "model": "Rio",
-    "price": 1130000,
+    "price": 1090000,
     "benefit": 0
   },
   {
@@ -50,7 +50,7 @@
   {
     "brand": "Lexus",
     "model": "NX",
-    "price": 3300000,
+    "price": 3200000,
     "benefit": 0
   },
   {
@@ -68,13 +68,13 @@
   {
     "brand": "Nissan",
     "model": "Qashqai",
-    "price": 911800,
+    "price": 880000,
     "benefit": 0
   },
   {
     "brand": "Skoda",
     "model": "Fabia",
-    "price": 480000,
+    "price": 470000,
     "benefit": 0
   },
   {
