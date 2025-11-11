@@ -18,12 +18,6 @@
     "benefit": 0
   },
   {
-    "brand": "Kia",
-    "model": "Rio",
-    "price": 1090000,
-    "benefit": 0
-  },
-  {
     "brand": "LEXUS",
     "model": "LX 600",
     "price": 23300000,
@@ -33,12 +27,6 @@
     "brand": "Lexus",
     "model": "ES",
     "price": 4200000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
-    "model": "GX",
-    "price": 2390000,
     "benefit": 0
   },
   {
