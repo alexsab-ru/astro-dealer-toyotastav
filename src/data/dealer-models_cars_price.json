@@ -1,11 +1,5 @@
 [
   {
-    "brand": "Audi",
-    "model": "A6",
-    "price": 3350000,
-    "benefit": 0
-  },
-  {
     "brand": "BMW",
     "model": "8 серии",
     "price": 6800000,
