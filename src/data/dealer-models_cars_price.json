@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Audi",
+    "model": "A6",
+    "price": 3600000,
+    "benefit": 0
+  },
+  {
     "brand": "BMW",
     "model": "8 серии",
     "price": 6800000,
@@ -69,6 +75,12 @@
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 4550000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
+    "model": "RAV4",
+    "price": 1950000,
     "benefit": 0
   }
 ]
