@@ -12,9 +12,21 @@
     "benefit": 0
   },
   {
+    "brand": "Daewoo",
+    "model": "Nexia",
+    "price": 250000,
+    "benefit": 0
+  },
+  {
     "brand": "Jaguar",
     "model": "F-Pace",
     "price": 1990000,
+    "benefit": 0
+  },
+  {
+    "brand": "Kia",
+    "model": "Sportage",
+    "price": 2200000,
     "benefit": 0
   },
   {
@@ -48,9 +60,27 @@
     "benefit": 0
   },
   {
+    "brand": "Mercedes-Benz",
+    "model": "E-Класс",
+    "price": 2400000,
+    "benefit": 0
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "GLA",
+    "price": 2050000,
+    "benefit": 0
+  },
+  {
     "brand": "Nissan",
     "model": "Qashqai",
     "price": 880000,
+    "benefit": 0
+  },
+  {
+    "brand": "Renault",
+    "model": "Kaptur",
+    "price": 1400000,
     "benefit": 0
   },
   {
