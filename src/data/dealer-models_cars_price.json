@@ -61,12 +61,6 @@
   },
   {
     "brand": "Mercedes-Benz",
-    "model": "E-Класс",
-    "price": 2400000,
-    "benefit": 0
-  },
-  {
-    "brand": "Mercedes-Benz",
     "model": "GLA",
     "price": 2050000,
     "benefit": 0
