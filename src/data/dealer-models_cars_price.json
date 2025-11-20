@@ -78,12 +78,6 @@
     "benefit": 0
   },
   {
-    "brand": "Skoda",
-    "model": "Fabia",
-    "price": 470000,
-    "benefit": 0
-  },
-  {
     "brand": "Subaru",
     "model": "Impreza",
     "price": 1050000,
@@ -92,7 +86,7 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 2650000,
+    "price": 2150000,
     "benefit": 0
   },
   {
