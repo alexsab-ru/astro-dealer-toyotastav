@@ -51,7 +51,7 @@
     "brand": "Lexus",
     "model": "RX 350",
     "price": 5050000,
-    "benefit": 500000
+    "benefit": 450000
   },
   {
     "brand": "Mercedes-Benz",
@@ -98,7 +98,7 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 6000000,
+    "price": 6150000,
     "benefit": 200000
   },
   {
