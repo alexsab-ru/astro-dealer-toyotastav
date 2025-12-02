@@ -6,7 +6,7 @@
     "benefit": 0
   },
   {
-    "brand": "BMW",
+    "brand": "Bmw",
     "model": "8 серии",
     "price": 6700000,
     "benefit": 0
@@ -24,12 +24,6 @@
     "benefit": 0
   },
   {
-    "brand": "LEXUS",
-    "model": "LX 600",
-    "price": 23300000,
-    "benefit": 300000
-  },
-  {
     "brand": "Lexus",
     "model": "ES",
     "price": 4100000,
@@ -38,7 +32,7 @@
   {
     "brand": "Lexus",
     "model": "LX 600",
-    "price": 23600000,
+    "price": 23300000,
     "benefit": 300000
   },
   {
