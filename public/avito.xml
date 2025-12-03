@@ -2139,10 +2139,10 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
 		<Price>12690000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCHBJA702023379/418170f8eb17f82b02bebd11397bbc8f.jpg"/>
@@ -2255,10 +2255,10 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Осмотреть автомобиль можно по адресу: Самара, Московское ш., 264А</Description>
 		<Price>13690000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCMBHA902017875/b31eabce184facbd2e8a385961e6578b.jpg"/>
