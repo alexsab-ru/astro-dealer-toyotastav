@@ -2477,10 +2477,10 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Банк может отказать в выдаче кредита. Предложение действует до 31/08/2025 и носит информационный характер, условия могут быть изменены банком. Не является публичной офертой (ст. 437 ГК).</Description>
 		<Price>12690000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>300000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCHBJA702023379/418170f8eb17f82b02bebd11397bbc8f.jpg"/>
@@ -2598,7 +2598,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<MaxDiscount/>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/JTJCHBJA502023008/4e418710910e94fbfc20eab730cd59aa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTJCHBJA502023008/d65e046841ab8bd6d1a7e5d1c4b336a7.jpg"/>
 			<Image url="https://photo.toyotasever.ru/JTJCHBJA502023008/21c0cfc3786de80224b82d3cf60a8286.jpg"/>
 			<Image url="https://photo.toyotasever.ru/JTJCHBJA502023008/8d122c1f49c17e80a958e4df03e3763c.jpg"/>
 			<Image url="https://photo.toyotasever.ru/JTJCHBJA502023008/6a95db9b622a4acf9cb42cc1b0502d06.jpg"/>
