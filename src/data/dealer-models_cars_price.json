@@ -60,21 +60,9 @@
     "benefit": 0
   },
   {
-    "brand": "Nissan",
-    "model": "Qashqai",
-    "price": 880000,
-    "benefit": 0
-  },
-  {
-    "brand": "Renault",
-    "model": "Kaptur",
-    "price": 1450000,
-    "benefit": 0
-  },
-  {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 1954000,
+    "price": 2650000,
     "benefit": 300000
   },
   {
