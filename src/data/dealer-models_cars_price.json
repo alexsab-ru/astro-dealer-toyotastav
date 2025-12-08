@@ -1,75 +1,21 @@
 [
   {
-    "brand": "Audi",
-    "model": "A6",
-    "price": 3600000,
-    "benefit": 0
-  },
-  {
-    "brand": "Bmw",
-    "model": "8 серии",
-    "price": 7000000,
-    "benefit": 0
-  },
-  {
-    "brand": "Daewoo",
-    "model": "Nexia",
-    "price": 250000,
-    "benefit": 0
-  },
-  {
-    "brand": "Jaguar",
-    "model": "F-Pace",
-    "price": 1850000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
-    "model": "ES",
-    "price": 4100000,
-    "benefit": 0
-  },
-  {
     "brand": "Lexus",
     "model": "LX 600",
-    "price": 9250000,
+    "price": 23600000,
     "benefit": 300000
-  },
-  {
-    "brand": "Lexus",
-    "model": "NX",
-    "price": 3200000,
-    "benefit": 0
   },
   {
     "brand": "Lexus",
     "model": "RX 350",
-    "price": 5050000,
+    "price": 8200000,
     "benefit": 450000
-  },
-  {
-    "brand": "Mercedes-Benz",
-    "model": "C-класс",
-    "price": 1690000,
-    "benefit": 0
-  },
-  {
-    "brand": "Mercedes-Benz",
-    "model": "GLA",
-    "price": 2050000,
-    "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 2650000,
+    "price": 4700000,
     "benefit": 300000
-  },
-  {
-    "brand": "Toyota",
-    "model": "Corolla",
-    "price": 872000,
-    "benefit": 0
   },
   {
     "brand": "Toyota",
@@ -80,13 +26,13 @@
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 4550000,
+    "price": 11550000,
     "benefit": 450000
   },
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 1950000,
+    "price": 4400000,
     "benefit": 200000
   }
 ]
