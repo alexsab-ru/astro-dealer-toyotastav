@@ -189,10 +189,10 @@
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>20500000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>250000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPA7CX5S4005460</vin>
 			<phone>83532793594</phone>
@@ -325,7 +325,22 @@ Lехus является надежным, экономичным, вмести�
 			<vin>JTJCPMJA5S2016805</vin>
 			<phone>83532793594</phone>
 			<description/>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/7aa2b6f0ea9c98e43d60f18a83921c3f.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/5ea121c0413ee88dbb761ae4b0c58233.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/826360b02816b6d9adcb6e3a95787d68.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/51ad0660d59c4299ef2f63ced6d2034e.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/8e2b6265e8e5233a7fe2f112426b7d22.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/c1b61b60e61f9f0e198959590353c5a8.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/0a7246426d9965738792c996a08dbb56.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/5c871cbc16d577e2ea5be3bf06ccb01a.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/950865203cbbb41bb59d0b6238978c19.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/8520dd790396279415315b0cedc82162.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/cb29aec3bebfd3f8fc701f187aac17cf.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/a960f337ac8ae56fe4b5eb6d117d2998.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/29f68a6db636b470e649e2a1e4031206.jpeg</image>
+				<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/70a5a0876a7b208dd285da86d7068de7.jpeg</image>
+			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-белый-2025/</url></car>
 		<car>
@@ -1270,7 +1285,7 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>LX, IV</folder_id><modification_id>500d 3.4d AT (299 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Luxury</complectation_name><wheel>левый</wheel><color>Черный</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>20500000</price><credit_discount>0</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>0</tradein_discount><max_discount>0</max_discount><currency>RUR</currency><vin>JTJPA7CX5S4005468</vin><phone>83532793594</phone><description>В наличии нoвый  Lехus LX 500d, в комплектации LUXURY
+		<mark_id>Lexus</mark_id><folder_id>LX, IV</folder_id><modification_id>500d 3.4d AT (299 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Luxury</complectation_name><wheel>левый</wheel><color>Черный</color><metallic>да</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>20500000</price><credit_discount>250000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>250000</tradein_discount><max_discount>500000</max_discount><currency>RUR</currency><vin>JTJPA7CX5S4005468</vin><phone>83532793594</phone><description>В наличии нoвый  Lехus LX 500d, в комплектации LUXURY
 
 АBТОMОБИЛЬ ДЛЯ РОССИЙСКОГО РЫНКА.
 Сборка Япония.
@@ -1396,7 +1411,22 @@ Lехus является надежным, экономичным, вмести�
 			
 			
 			
-		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>8300000</price><credit_discount>100000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>100000</tradein_discount><max_discount>200000</max_discount><currency>RUR</currency><vin>JTJCPMJA5S2016813</vin><phone>83532793594</phone><description/><images/><video/><url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-белый-2025/</url></car><car>
+		<mark_id>Lexus</mark_id><folder_id>RX, V</folder_id><modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id><body_type>Внедорожник 5 дв.</body_type><complectation_name>Enjoy</complectation_name><wheel>левый</wheel><color>Белый</color><metallic>нет</metallic><availability>в наличии</availability><custom>растаможен</custom><owners_number>Не было владельцев</owners_number><year>2025</year><price>8300000</price><credit_discount>100000</credit_discount><insurance_discount>0</insurance_discount><tradein_discount>100000</tradein_discount><max_discount>200000</max_discount><currency>RUR</currency><vin>JTJCPMJA5S2016813</vin><phone>83532793594</phone><description/><images>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			<image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/7aa2b6f0ea9c98e43d60f18a83921c3f.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/5ea121c0413ee88dbb761ae4b0c58233.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/826360b02816b6d9adcb6e3a95787d68.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/51ad0660d59c4299ef2f63ced6d2034e.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/8e2b6265e8e5233a7fe2f112426b7d22.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/c1b61b60e61f9f0e198959590353c5a8.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/0a7246426d9965738792c996a08dbb56.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/5c871cbc16d577e2ea5be3bf06ccb01a.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/950865203cbbb41bb59d0b6238978c19.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/8520dd790396279415315b0cedc82162.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/cb29aec3bebfd3f8fc701f187aac17cf.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/a960f337ac8ae56fe4b5eb6d117d2998.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/29f68a6db636b470e649e2a1e4031206.jpeg</image><image>https://photo.toyotasever.ru/JTJCPMJA5S2016805/70a5a0876a7b208dd285da86d7068de7.jpeg</image></images><video/><url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-белый-2025/</url></car><car>
 			
 			
 			
