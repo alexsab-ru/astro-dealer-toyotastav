@@ -376,73 +376,6 @@
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>25e539e5aea8844ec67448d2bf090b1d</Id>
-		<Address>г. Пенза, Ульяновская ул, дом №91</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Абсолютно Новый Lexus LX 600 у нас в наличии!
-
-
-
-Автомобиль оснащен бензиновым 3,5 л. двигателем (415 л.с).
-
-Lexus LX 600 имеет 10-ти ступенчатую коробку передач, постоянный полный привод и легкосплавные колесные диски 22 радиуса.
-
-В комплектацию “F Sport” входит:
-
-4- х зонный климат- контроль для первого и второго ряда сидений;
-камера панорамного обзора с омывателем;
-передние и задние датчики парковки с функцией автоматического торможения;
-система помощи при движении вперед с функцией визуального и звукового оповещения о приближающемся спереди препятствии, а также множество других функций.
-
-
-Подробнее о всех функциях автомобиля Вы можете уточнить в отделе продаж.
-
-Ждём Вас ежедневно пн. - сб. с 9 до 19 часов, вс. с 9 до 16 часов. г. Пенза, ул. Ульяновская, 91</Description>
-		<Price>22000000</Price>
-		<TradeinDiscount>400000</TradeinDiscount>
-		<CreditDiscount>800000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>1200000</MaxDiscount>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/a653fcfe39f1d468ac3c87fdd58d52fa.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/2725ab4cb479341dd5111da7fa89527c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/b04f5a105f875edbd34a8712df7bfb4d.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/3b1127f9194474c6cc83c84a29d6c531.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/aaf7423bb45629b4bdc5a5f9d16bdd56.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/dfe00b7d97d1fb3799ad18edbc391800.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/c0b19a837bc5047d37ad9c7d1834d647.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/6a6be09e7616b5b77fb20cddee4fddb7.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/ba1c782ecdaeff877f1668aea3d37a4f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/74ee2389a743af4a23987314f78f3dbf.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/96dedfa73aed5d98180fd5af1ce6c701.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/9cf82233414c2ca2b054f948ffd9c07c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/5863cc1bbc487b3816dac38d6d88bded.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/6a840bdc7b98d043a3d5731bde6d38f5.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/ed0d4c68fb3a140de2cccc52c28c790b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/d5f16e39fed2bd1bfaf09004bf7b66aa.jpg"/>
-			<Image url="https://photo.toyotasever.ru/JTJPBBCX204050868/7737cf857499e83f2e226b3150fe2ac2.jpg"/>
-		</Images>
-		<Make>Lexus</Make>
-		<Model>LX</Model>
-		<GenerationId>17072338</GenerationId>
-		<ModificationId>17072342</ModificationId>
-		<ComplectationId>18772602</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2024</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJPBBCX204050868</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-<Ad>
 		<Id>3e8902ee37d504df8692d08f7e9b8791</Id>
 		<Address>г. Оренбург, Загородное ш, 13</Address>
 		<CarType>Новые</CarType>
@@ -2888,7 +2821,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>6009c78e719af97377343f46f01217f7</Id>
+		<Id>c6f780a39545ec066aa69774340e9e0b</Id>
 		<Address>г. Оренбург, Загородное ш, 13</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -2928,25 +2861,28 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/6850a371ef1c97b44a230f5c7a654d7d.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/95c2f2013c08adca34c9beebc79eff56.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/ed07623b9f0f631c7a6e81626cfe9c19.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/8a7cb2862f65895bcfbc2861ca2535b3.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/01209fadffdd98b36c376ee3eda34356.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/0395c017c0ce75d5b17a9e251d754ea4.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/d3917b15fe3a2447b5cd52e7f65ab0db.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/8980caf3ed7e73fce2349be22bfd600c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/256ad204170d3815ce6b44386bdcf41b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/a6ae71b4f7f9152dc8b3892b5fef6fc8.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/afd7a7ffafc1ac01957d78ccc4803d5b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/5e57c5aa1434668cd6a48d4b287788ed.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/d5c9ae7dd64f4c3c771be41eb8ea381a.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/906ea87305b469251921c59178b14900.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/15ccd53fab2738caf6cc935c77d14bbf.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/d9f1547fc0c82a287b9ca48a0e2abe0b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/88f3f1ca96b6998b7467f52b570bb6bb.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/fe86e856df0fae210eb7594e153c85bd.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/fd45bf8775901a1b560f3fcdfc213294.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/783a83426125c85b83c298bf7d6eeeff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/db0cdd05eb6e29b90cdae79e60e2f4a4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/0cc500ca060e747c69daf4d624f7c772.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/facd920c72a99f4602457a98f6401494.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/b145f18900b3515a53cda816c3ca6b18.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/ef1e2cbf4109b12f1ff13d63e8a53b35.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/40ac3fc61b3b8b8acf31f9b30ca6de57.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/5193858f9f9e0c0fb3663f0239dc15a2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/cb44439d2d750f0e186718e079d8a318.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/a1604ef8ff03624f0aa6df87a02c456b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/7a8830ae168372736a8b780216b5edb0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/e2b76b534f72a4284ca92b9261d4d3a0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/38c0613890b94a587ce84eabe32bb7e8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/c7a21b11ba3875bc79891f58caba4fff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/b624f214ebde839202483aa756977ff3.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/75158a21facd639d2812c48101f776cb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/c595b16db2621ffbf70b0199256fa58f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/dc4c668797da8e364dfc1ef955a2b4b6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/f1daed811c6f06f4226c94235257c15e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/a1337246f3bd0de2c68b0dc1094f55e1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/bae0fd38d758114d805456add31be48f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/9572ed9b8161d2a9902c772b63629721.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
@@ -2960,7 +2896,167 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LFMJN5BF0S3129892</VIN>
+		<VIN>LFMJN5BF3S3132480</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>ce019bd46e02ba3fb4b0b8f17fdd7614</Id>
+		<Address>г. Оренбург, Загородное ш, 13</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии TOYOTA RAV4, 2025 года выпуска, комплектация Advanture Plus
+
+Автомобиль представлен от официального дилера Тойота-Оренбург:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+
+✅ Продажа от ЮРИДИЧЕСКОГО ЛИЦА
+
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки
+
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
+
+Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+История создания Тойота началась больше ста лет назад. Японская компания прошла долгий путь, в результате которого превратилась в один из самых крупных автоконцернов мира. Корпорация продолжает активное развитие и завоевывает все более прочные позиции на рынке.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Большой выбор автомобилей в наличии.
+Звоните прямо сейчас!</Description>
+		<Price>4650000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/f76c8a1eb41e742545a3f6ecb8074fc4.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/509bed3a931f39636f583e16e84472c8.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/39b1e14d7f69f587a976b21e439d0501.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/1260c7a3a64e79a30b4825885686ea2a.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/cb40dcc48c2cabe006bc5830abc73fa4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/fad034e4c0b0dfb44e686c2eb06156b2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/bb8c633c141a847972e54a5986453f47.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/b9c3c18854c5657ffcf117dbb0b88a20.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/14a8ba1161edacca5084aaf97d499dcc.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/5326934ba8449d1222d3b47fcaa34c43.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/7dedaffdcafa11d8dc8159f516a9e988.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/f67d5bd077544bf0109beda0f4296a5a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/90a485f289a56c8d8a0eb769c8051376.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/a784d5b3d85fdb1ee6affb78d2a6cdd8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/c64cc3c49958368df0a9c73740b8d247.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/31a02ddeb015f6f604b9affd9c0fc981.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/46b0600ac1b75335305535667e917ea5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/9ae757884d7ec2b89a093bcee88e82bd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/26064202272ab9116da7319d5ed9c8a9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/37c94ca291de205f3c860a1d14e9f20f.jpg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>18767159</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF1S3132865</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>54c8961438aa36210da9d63d2bb51c25</Id>
+		<Address>г. Оренбург, Загородное ш, 13</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>В наличии TOYOTA RAV4, 2025 года выпуска, комплектация Advanture Plus
+
+Автомобиль представлен от официального дилера Тойота-Оренбург:
+
+✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
+
+✅ Продажа от ЮРИДИЧЕСКОГО ЛИЦА
+
+✅ B Нaличии, C ПТC, готова к постановке нa учет.
+
+✅ Купим вaш aвтомобиль и дадим скидку на новый
+
+✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
+
+✅ Мы работаем с ведущими страховыми компаниями и банками;
+
+✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки
+
+Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
+
+Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+История создания Тойота началась больше ста лет назад. Японская компания прошла долгий путь, в результате которого превратилась в один из самых крупных автоконцернов мира. Корпорация продолжает активное развитие и завоевывает все более прочные позиции на рынке.
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Большой выбор автомобилей в наличии.
+Звоните прямо сейчас!</Description>
+		<Price>4650000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/d2d220064054c0cce8a1078c7b9cd06b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/c33a3f0b97059e76df34ec8660c5a64b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/f4a7800d09e4cfed25075c02a560283a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/cd3aa38e708ad272e1470dea3feb4a69.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/715ad55a5c98256346a2792a9e7d3f82.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/f6b78bf0133d4ed18fa24cd90d7dd3c8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/7c640103933da6f3a9df0148d62ffe36.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/fd699b6e267c4b15cab18c0dc47b8829.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/6d2d20c3a0c1e94e91e25b31e699eb64.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/8bc5d6a437975876256ea3e1c70b626f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/adbe018343c0dcf45a6d1435ad63fb66.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/0cc70009ae77b98fed93d046cbaf31da.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/8926736684e0bb248fb722e16a495c2c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/719a6cc41bf140fa2bfad4ba338e5f6f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/393f9cd5ec6e13a293ae47fd3cf52183.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/f48f2328d69fef904d28d598e33d4696.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/cac29cccbaee652cc753e915846be52b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/bf463de0508397ad6c5172de90a50dbb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/2aa3f4947c5ef548dece5bcfb2c531aa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/a3175e6ea2701e4abddaaa95fb041820.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/b6434c1831b152817a813314ca9096ba.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/94f0dca22ba5dce1901d01f1718cf08b.jpg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>426116</GenerationId>
+		<ModificationId>18374280</ModificationId>
+		<ComplectationId>18767159</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJN5BF7S3131221</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL/>
 		<VideoFileURL/>
@@ -3205,7 +3301,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>c6f780a39545ec066aa69774340e9e0b</Id>
+		<Id>6009c78e719af97377343f46f01217f7</Id>
 		<Address>г. Оренбург, Загородное ш, 13</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -3245,28 +3341,25 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/783a83426125c85b83c298bf7d6eeeff.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/db0cdd05eb6e29b90cdae79e60e2f4a4.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/0cc500ca060e747c69daf4d624f7c772.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/facd920c72a99f4602457a98f6401494.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/b145f18900b3515a53cda816c3ca6b18.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/ef1e2cbf4109b12f1ff13d63e8a53b35.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/40ac3fc61b3b8b8acf31f9b30ca6de57.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/5193858f9f9e0c0fb3663f0239dc15a2.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/cb44439d2d750f0e186718e079d8a318.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/a1604ef8ff03624f0aa6df87a02c456b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/7a8830ae168372736a8b780216b5edb0.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/e2b76b534f72a4284ca92b9261d4d3a0.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/38c0613890b94a587ce84eabe32bb7e8.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/c7a21b11ba3875bc79891f58caba4fff.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/b624f214ebde839202483aa756977ff3.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/75158a21facd639d2812c48101f776cb.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/c595b16db2621ffbf70b0199256fa58f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/dc4c668797da8e364dfc1ef955a2b4b6.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/f1daed811c6f06f4226c94235257c15e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/a1337246f3bd0de2c68b0dc1094f55e1.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/bae0fd38d758114d805456add31be48f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF3S3132480/9572ed9b8161d2a9902c772b63629721.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/6850a371ef1c97b44a230f5c7a654d7d.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/95c2f2013c08adca34c9beebc79eff56.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/ed07623b9f0f631c7a6e81626cfe9c19.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/8a7cb2862f65895bcfbc2861ca2535b3.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/01209fadffdd98b36c376ee3eda34356.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/0395c017c0ce75d5b17a9e251d754ea4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/d3917b15fe3a2447b5cd52e7f65ab0db.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/8980caf3ed7e73fce2349be22bfd600c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/256ad204170d3815ce6b44386bdcf41b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/a6ae71b4f7f9152dc8b3892b5fef6fc8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/afd7a7ffafc1ac01957d78ccc4803d5b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/5e57c5aa1434668cd6a48d4b287788ed.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/d5c9ae7dd64f4c3c771be41eb8ea381a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/906ea87305b469251921c59178b14900.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/15ccd53fab2738caf6cc935c77d14bbf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/d9f1547fc0c82a287b9ca48a0e2abe0b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/88f3f1ca96b6998b7467f52b570bb6bb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/fe86e856df0fae210eb7594e153c85bd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJN5BF0S3129892/fd45bf8775901a1b560f3fcdfc213294.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
@@ -3280,167 +3373,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LFMJN5BF3S3132480</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-	<Ad>
-		<Id>ce019bd46e02ba3fb4b0b8f17fdd7614</Id>
-		<Address>г. Оренбург, Загородное ш, 13</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>В наличии TOYOTA RAV4, 2025 года выпуска, комплектация Advanture Plus
-
-Автомобиль представлен от официального дилера Тойота-Оренбург:
-
-✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
-
-✅ Продажа от ЮРИДИЧЕСКОГО ЛИЦА
-
-✅ B Нaличии, C ПТC, готова к постановке нa учет.
-
-✅ Купим вaш aвтомобиль и дадим скидку на новый
-
-✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
-
-✅ Мы работаем с ведущими страховыми компаниями и банками;
-
-✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки
-
-Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
-
-Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
-
-История создания Тойота началась больше ста лет назад. Японская компания прошла долгий путь, в результате которого превратилась в один из самых крупных автоконцернов мира. Корпорация продолжает активное развитие и завоевывает все более прочные позиции на рынке.
-
-Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
-
-Большой выбор автомобилей в наличии.
-Звоните прямо сейчас!</Description>
-		<Price>4650000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>200000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/f76c8a1eb41e742545a3f6ecb8074fc4.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/509bed3a931f39636f583e16e84472c8.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/39b1e14d7f69f587a976b21e439d0501.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/1260c7a3a64e79a30b4825885686ea2a.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/cb40dcc48c2cabe006bc5830abc73fa4.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/fad034e4c0b0dfb44e686c2eb06156b2.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/bb8c633c141a847972e54a5986453f47.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/b9c3c18854c5657ffcf117dbb0b88a20.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/14a8ba1161edacca5084aaf97d499dcc.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/5326934ba8449d1222d3b47fcaa34c43.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/7dedaffdcafa11d8dc8159f516a9e988.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/f67d5bd077544bf0109beda0f4296a5a.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/90a485f289a56c8d8a0eb769c8051376.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/a784d5b3d85fdb1ee6affb78d2a6cdd8.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/c64cc3c49958368df0a9c73740b8d247.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/31a02ddeb015f6f604b9affd9c0fc981.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/46b0600ac1b75335305535667e917ea5.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/9ae757884d7ec2b89a093bcee88e82bd.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/26064202272ab9116da7319d5ed9c8a9.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF1S3132865/37c94ca291de205f3c860a1d14e9f20f.jpg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>426116</GenerationId>
-		<ModificationId>18374280</ModificationId>
-		<ComplectationId>18767159</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJN5BF1S3132865</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-	<Ad>
-		<Id>54c8961438aa36210da9d63d2bb51c25</Id>
-		<Address>г. Оренбург, Загородное ш, 13</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>В наличии TOYOTA RAV4, 2025 года выпуска, комплектация Advanture Plus
-
-Автомобиль представлен от официального дилера Тойота-Оренбург:
-
-✅ Гаpантия 2 годa, либo 50 000 км (в зaвисимocти от тoгo, чтo наcтупит ранee).
-
-✅ Продажа от ЮРИДИЧЕСКОГО ЛИЦА
-
-✅ B Нaличии, C ПТC, готова к постановке нa учет.
-
-✅ Купим вaш aвтомобиль и дадим скидку на новый
-
-✅ Bыгоды, указанныe в oбъявлeнии 100% Aктуальны
-
-✅ Мы работаем с ведущими страховыми компаниями и банками;
-
-✅Все таможенные платежи и утилизационный сбор оплачены, только реальные условия покупки
-
-Данная цена действительна при условии приобретения автомобиля в Кредит / Trade-In / Лизинг
-
-Будьте увеpены, что мы пoдберем Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
-
-История создания Тойота началась больше ста лет назад. Японская компания прошла долгий путь, в результате которого превратилась в один из самых крупных автоконцернов мира. Корпорация продолжает активное развитие и завоевывает все более прочные позиции на рынке.
-
-Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
-
-Большой выбор автомобилей в наличии.
-Звоните прямо сейчас!</Description>
-		<Price>4650000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>200000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/d2d220064054c0cce8a1078c7b9cd06b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/c33a3f0b97059e76df34ec8660c5a64b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/f4a7800d09e4cfed25075c02a560283a.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/cd3aa38e708ad272e1470dea3feb4a69.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/715ad55a5c98256346a2792a9e7d3f82.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/f6b78bf0133d4ed18fa24cd90d7dd3c8.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/7c640103933da6f3a9df0148d62ffe36.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/fd699b6e267c4b15cab18c0dc47b8829.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/6d2d20c3a0c1e94e91e25b31e699eb64.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/8bc5d6a437975876256ea3e1c70b626f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/adbe018343c0dcf45a6d1435ad63fb66.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/0cc70009ae77b98fed93d046cbaf31da.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/8926736684e0bb248fb722e16a495c2c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/719a6cc41bf140fa2bfad4ba338e5f6f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/393f9cd5ec6e13a293ae47fd3cf52183.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/f48f2328d69fef904d28d598e33d4696.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/cac29cccbaee652cc753e915846be52b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/bf463de0508397ad6c5172de90a50dbb.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/2aa3f4947c5ef548dece5bcfb2c531aa.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/a3175e6ea2701e4abddaaa95fb041820.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/b6434c1831b152817a813314ca9096ba.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJN5BF7S3131221/94f0dca22ba5dce1901d01f1718cf08b.jpg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>426116</GenerationId>
-		<ModificationId>18374280</ModificationId>
-		<ComplectationId>18767159</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2025</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJN5BF7S3131221</VIN>
+		<VIN>LFMJN5BF0S3129892</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL/>
 		<VideoFileURL/>
