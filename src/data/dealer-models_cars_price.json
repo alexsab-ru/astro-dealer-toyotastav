@@ -37,12 +37,6 @@
   },
   {
     "brand": "Lexus",
-    "model": "NX",
-    "price": 3200000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
     "model": "RX 350",
     "price": 5050000,
     "benefit": 450000
