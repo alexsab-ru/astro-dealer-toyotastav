@@ -3005,10 +3005,10 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Осмотреть автомобиль можно по адресу: Самара, Московское ш., 264А</Description>
 		<Price>13690000</Price>
-		<TradeinDiscount>150000</TradeinDiscount>
-		<CreditDiscount>150000</CreditDiscount>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>300000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCMBHA802017768/a59185295c9b14ce3a8cde9f2da9b54b.jpg"/>
