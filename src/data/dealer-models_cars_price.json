@@ -48,6 +48,12 @@
     "benefit": 0
   },
   {
+    "brand": "Suzuki",
+    "model": "Grand Vitara",
+    "price": 1170000,
+    "benefit": 0
+  },
+  {
     "brand": "Toyota",
     "model": "Camry",
     "price": 2650000,
