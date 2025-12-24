@@ -91,11 +91,11 @@ const VinForm = () => {
 				<p>Заполните данные о&nbsp;вашем автомобиле и&nbsp;получите предварительную оценку. <br className="hidden md:block" />Вы&nbsp;можете сразу отправить ваш расчет официальному дилеру Kia и&nbsp;уточнить <br className="hidden md:block" />детали выкупа автомобиля.</p>
 			</div>
 			<form className="mb-10 vue-form" onSubmit={handleSubmit(onSubmit)}>
-				<h3 className="text-2xl font-bold mb-6">Введите VIN-номер</h3>
+				<h3 className="text-2xl font-weight-bold mb-6">Введите VIN-номер</h3>
 				<div className="flex">
 					<input
 						type="text"
-						className={`w-[270px] border-2 transition-all focus:border-accent-500 px-4 py-2.5 outline-none text-black border-gray-100 ${vin ? '!border-black !text-black' : ''}`}
+						className={`w-[270px] border-2 transition-all focus:border-accent-500 px-4 py-2.5 outline-hidden text-black border-gray-100 ${vin ? 'border-black! text-black!' : ''}`}
 						placeholder="Введите VIN-номер"
 						{...register('vin')}
 						onInput={(e) => setVIN(e.target.value)}

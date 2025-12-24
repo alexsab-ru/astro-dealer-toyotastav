@@ -35,8 +35,8 @@ function BrandsList() {
 	return ( 
 		<>
 			<div className="flex items-end mb-8">
-				<span className="flex-shrink-1 !leading-none text-gray-600">Или выберите из списка</span>
-				<span className="flex-grow bg-gray-400 h-[1px] ml-2"></span>
+				<span className="shrink leading-none! text-gray-600">Или выберите из списка</span>
+				<span className="grow bg-gray-400 h-px ml-2"></span>
 			</div>
 
 			<nav className="flex gap-6 font-medium mb-4">
@@ -53,7 +53,7 @@ function BrandsList() {
 							{ brand.name }
 						</li>
 					)) }
-					<li className="cursor-pointer font-bold">
+					<li className="cursor-pointer font-weight-bold">
 						<div className="flex items-center" onClick={() => setActiveTab(1)}>
 							Все марки
 							<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid" className=""><path d="M8.5 14l4-4-4-4" stroke="currentColor" strokeWidth="2"></path></svg>

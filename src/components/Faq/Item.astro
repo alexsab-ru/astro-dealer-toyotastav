@@ -16,11 +16,11 @@ const { item } = Astro.props;
 		class="flex items-center justify-between cursor-pointer"
 		@click={ `activities.includes(${item.id}) ? activities = activities.filter(id => id != ${item.id}) : activities.push(${item.id})` }
 	>
-		<div class="font-semibold text-sm md:text-lg">{item.question}</div>
+		<div class="font-weight-bold text-sm md:text-lg">{item.question}</div>
 
 		<Icon 
 			name="mdi:keyboard-arrow-down" 
-			class="text-xl transition-transform origin-center flex-shrink-0"
+			class="text-xl transition-transform origin-center shrink-0"
 			:class={ `{'-rotate-180': activities.includes(${item.id}) }` } 
 		/>
 	</div>
