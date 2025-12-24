@@ -19,12 +19,6 @@
   },
   {
     "brand": "Lexus",
-    "model": "ES",
-    "price": 4100000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
     "model": "LX 600",
     "price": 9250000,
     "benefit": 300000
@@ -38,19 +32,19 @@
   {
     "brand": "Mercedes-Benz",
     "model": "C-класс",
-    "price": 1690000,
+    "price": 1650000,
     "benefit": 0
   },
   {
     "brand": "Mercedes-Benz",
     "model": "GLA",
-    "price": 1990000,
+    "price": 1940000,
     "benefit": 0
   },
   {
     "brand": "Suzuki",
     "model": "Grand Vitara",
-    "price": 1170000,
+    "price": 1070000,
     "benefit": 0
   },
   {
@@ -68,7 +62,7 @@
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 4550000,
+    "price": 4490000,
     "benefit": 450000
   },
   {
