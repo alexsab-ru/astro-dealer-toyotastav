@@ -2936,6 +2936,54 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<body_type>Внедорожник 5 дв.</body_type>
 			<complectation_name>Adventure</complectation_name>
 			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>4650000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF9S3132628</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-белый-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Adventure</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>4650000</price>
+			<credit_discount>50000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>50000</tradein_discount>
+			<max_discount>100000</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJN5BF6S3132649</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-белый-2025/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, V (XA50)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник 5 дв.</body_type>
+			<complectation_name>Adventure</complectation_name>
+			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>нет</metallic>
 			<availability>в наличии</availability>
@@ -3021,53 +3069,5 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-черный-2025/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, V (XA50)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Adventure</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>4650000</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LFMJN5BF9S3132628</vin>
-			<description/>
-			<images/>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-белый-2025/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, V (XA50)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
-			<complectation_name>Adventure</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>4650000</price>
-			<credit_discount>50000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>50000</tradein_discount>
-			<max_discount>100000</max_discount>
-			<currency>RUR</currency>
-			<vin>LFMJN5BF6S3132649</vin>
-			<description/>
-			<images/>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-v-xa50-20-cvt-171-лс-4wd-adventure-белый-2025/</url></car>
 	</cars>
 </data>
