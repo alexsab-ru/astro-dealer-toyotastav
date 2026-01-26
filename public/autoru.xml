@@ -179,7 +179,7 @@
 			<mark_id>Lexus</mark_id>
 			<folder_id>LX, IV</folder_id>
 			<modification_id>500d 3.4d AT (299 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
@@ -257,7 +257,7 @@ Lехus является надежным, экономичным, вмести�
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
 			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Enjoy</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -323,7 +323,7 @@ Lехus является надежным, экономичным, вмести�
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
 			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Enjoy</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -389,7 +389,7 @@ Lехus является надежным, экономичным, вмести�
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
 			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Enjoy</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
@@ -453,7 +453,7 @@ Lехus является надежным, экономичным, вмести�
 		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-лс-4wd-enjoy-черный-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Camry, IX (XV80)</folder_id>
+			<folder_id>Camry, IX (XV80) China Market</folder_id>
 			<modification_id>2.0hyb CVT (197 л.с.)</modification_id>
 			<body_type>Седан</body_type>
 			<complectation_name>Sport PLUS</complectation_name>
@@ -523,12 +523,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGBECEK3RG508535/537b5a915b9b28bd534ee8648bac93f9.jpeg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-camry-ix-xv80-20hyb-cvt-197-лс-sport-plus-белый-2024/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-camry-ix-xv80-china-market-20hyb-cvt-197-лс-sport-plus-белый-2024/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Supreme</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -597,12 +597,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A3SG051874/3dcf97d61aec640762ad1401a7dd368e.jpeg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Supreme</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -670,12 +670,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A9SG052320/4efbe91b10d03ee0ba4dc07bcde1b584.jpg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Supreme</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -743,12 +743,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A8SG051952/225de33a77496353f3196bfbc1ff6b7f.jpg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Supreme</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -818,12 +818,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A8SG051840/45006edb8cff5c120bd12d4c6c2e66d9.jpeg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-белый-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Supreme</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
@@ -891,12 +891,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A3SG050756/dfef58fae38443ce45b06904d9a49344.jpeg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-supreme-черный-2025/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-черный-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Supreme</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
@@ -971,12 +971,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A2SG052269/c30e5242de456fd6bc9e74fefab0d646.jpeg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-supreme-черный-2025/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-черный-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (U70)</folder_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
 			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Supreme</complectation_name>
 			<wheel>левый</wheel>
 			<color>Черный</color>
@@ -1054,12 +1054,12 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A4SG052404/b564c3cadf1eeb4cebc5632ad996630f.jpeg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-u70-20-at-248-лс-4wd-supreme-черный-2025/</url></car>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-лс-4wd-supreme-черный-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Adventure Plus</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -1134,7 +1134,7 @@ Lехus является надежным, экономичным, вмести�
 			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Adventure Plus</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
@@ -1212,7 +1212,7 @@ Lехus является надежным, экономичным, вмести�
 			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, V (XA50)</folder_id>
 			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник 5 дв.</body_type>
+			<body_type>Внедорожник</body_type>
 			<complectation_name>Adventure Plus</complectation_name>
 			<wheel>левый</wheel>
 			<color>Белый</color>
