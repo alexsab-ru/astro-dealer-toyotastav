@@ -8,8 +8,8 @@
   {
     "brand": "Bmw",
     "model": "8 серии",
-    "price": 7000000,
-    "benefit": 0
+    "price": 6700000,
+    "benefit": 300000
   },
   {
     "brand": "Daewoo",
@@ -32,14 +32,8 @@
   {
     "brand": "Mercedes-Benz",
     "model": "C-класс",
-    "price": 1650000,
-    "benefit": 0
-  },
-  {
-    "brand": "Mercedes-Benz",
-    "model": "GLA",
-    "price": 1940000,
-    "benefit": 0
+    "price": 1550000,
+    "benefit": 100000
   },
   {
     "brand": "Toyota",
