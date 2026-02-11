@@ -30,12 +30,6 @@
     "benefit": 450000
   },
   {
-    "brand": "Mercedes-Benz",
-    "model": "C-класс",
-    "price": 1550000,
-    "benefit": 100000
-  },
-  {
     "brand": "Toyota",
     "model": "Camry",
     "price": 4700000,
