@@ -52,5 +52,11 @@
     "model": "RAV4",
     "price": 4400000,
     "benefit": 200000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Tundra",
+    "price": 3750000,
+    "benefit": 0
   }
 ]
