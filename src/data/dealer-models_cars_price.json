@@ -7,6 +7,12 @@
   },
   {
     "brand": "Bmw",
+    "model": "3 серии",
+    "price": 1450000,
+    "benefit": 0
+  },
+  {
+    "brand": "Bmw",
     "model": "8 серии",
     "price": 6700000,
     "benefit": 300000
