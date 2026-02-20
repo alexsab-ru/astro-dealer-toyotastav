@@ -2835,10 +2835,10 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Большой выбор автомобилей в наличии. Максимально выгодные предложения на покупку новых автомобилей и автомобилей с пробегом!</Description>
 		<Price>13800000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTEARCAJ7SK043093/4791db9140fc5669497067c32aa1834f.jpg"/>
