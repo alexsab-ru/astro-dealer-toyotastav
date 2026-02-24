@@ -191,8 +191,8 @@
 			<price>8400000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>100000</tradein_discount>
-			<max_discount>200000</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>300000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCPMJA5S2016805</vin>
 			<phone>83532793594</phone>
@@ -320,11 +320,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2024</year>
-			<price>5050000</price>
-			<credit_discount>150000</credit_discount>
+			<price>4750000</price>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>400000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGBECEK3RG508535</vin>
 			<phone>83532793702</phone>
@@ -394,10 +394,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>6300000</price>
-			<credit_discount>115000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>115000</tradein_discount>
-			<max_discount>230000</max_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A9SG052320</vin>
 			<phone>83532793702</phone>
@@ -467,10 +467,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>6300000</price>
-			<credit_discount>115000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>115000</tradein_discount>
-			<max_discount>230000</max_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A8SG051952</vin>
 			<phone>83532793702</phone>
@@ -540,10 +540,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>6300000</price>
-			<credit_discount>115000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>115000</tradein_discount>
-			<max_discount>230000</max_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A8SG051840</vin>
 			<phone>83532793702</phone>
@@ -615,10 +615,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>6350000</price>
-			<credit_discount>115000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>115000</tradein_discount>
-			<max_discount>230000</max_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A3SG050756</vin>
 			<phone>83532793702</phone>
@@ -688,10 +688,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>6300000</price>
-			<credit_discount>115000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>115000</tradein_discount>
-			<max_discount>230000</max_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A2SG052269</vin>
 			<phone>83532793702</phone>
@@ -768,10 +768,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>6300000</price>
-			<credit_discount>115000</credit_discount>
+			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>115000</tradein_discount>
-			<max_discount>230000</max_discount>
+			<tradein_discount>300000</tradein_discount>
+			<max_discount>450000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A4SG052404</vin>
 			<phone>83532793702</phone>
@@ -851,10 +851,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
 			<price>13800000</price>
-			<credit_discount>150000</credit_discount>
+			<credit_discount>250000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>500000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTEARCAJ7SK043093</vin>
 			<phone>83532793702</phone>
