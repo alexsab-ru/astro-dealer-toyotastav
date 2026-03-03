@@ -27,37 +27,25 @@
     "brand": "Lexus",
     "model": "LX 600",
     "price": 9100000,
-    "benefit": 300000
+    "benefit": 0
   },
   {
     "brand": "Lexus",
     "model": "RX 350",
     "price": 6500000,
-    "benefit": 450000
+    "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 4700000,
-    "benefit": 300000
-  },
-  {
-    "brand": "Toyota",
-    "model": "Highlander",
-    "price": 6150000,
+    "price": 4950000,
     "benefit": 200000
   },
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 6250000,
-    "benefit": 450000
-  },
-  {
-    "brand": "Toyota",
-    "model": "RAV4",
-    "price": 4400000,
-    "benefit": 200000
+    "benefit": 0
   },
   {
     "brand": "Toyota",
