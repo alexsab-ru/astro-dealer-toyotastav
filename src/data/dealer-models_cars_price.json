@@ -6,6 +6,24 @@
     "benefit": 0
   },
   {
+    "brand": "Audi",
+    "model": "Q5",
+    "price": 3390000,
+    "benefit": 0
+  },
+  {
+    "brand": "Bmw",
+    "model": "5 серии",
+    "price": 4370000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "price": 750000,
+    "benefit": 0
+  },
+  {
     "brand": "Gac",
     "model": "GS4",
     "price": 2900000,
@@ -30,6 +48,24 @@
     "benefit": 0
   },
   {
+    "brand": "Hyundai",
+    "model": "Grand Starex",
+    "price": 3490000,
+    "benefit": 400000
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Solaris",
+    "price": 790000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lada (Ваз)",
+    "model": "Granta",
+    "price": 1350000,
+    "benefit": 0
+  },
+  {
     "brand": "Lexus",
     "model": "LX 600",
     "price": 9100000,
@@ -40,6 +76,12 @@
     "model": "RX 350",
     "price": 6500000,
     "benefit": 500000
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "GLC AMG",
+    "price": 5150000,
+    "benefit": 300000
   },
   {
     "brand": "Toyota",
@@ -69,6 +111,24 @@
     "brand": "Toyota",
     "model": "Tundra",
     "price": 3600000,
+    "benefit": 0
+  },
+  {
+    "brand": "Trumpchi",
+    "model": "S7",
+    "price": 4800000,
+    "benefit": 150000
+  },
+  {
+    "brand": "Trumpchi",
+    "model": "S9",
+    "price": 5050000,
+    "benefit": 300000
+  },
+  {
+    "brand": "Zeekr",
+    "model": "9X",
+    "price": 12950000,
     "benefit": 0
   }
 ]
