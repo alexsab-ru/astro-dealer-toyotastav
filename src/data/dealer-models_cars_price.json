@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "brand": "Geely",
+    "model": "Monjaro",
+    "price": 4300000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lexus",
+    "model": "RX 350",
+    "price": 7900000,
+    "benefit": 500000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "price": 4350000,
+    "benefit": 200000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Highlander",
+    "price": 5800000,
+    "benefit": 200000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Land Cruiser Prado",
+    "price": 11900000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
+    "model": "RAV4",
+    "price": 4250000,
+    "benefit": 200000
+  },
+  {
+    "brand": "Trumpchi",
+    "model": "S7",
+    "price": 4800000,
+    "benefit": 150000
+  },
+  {
+    "brand": "Trumpchi",
+    "model": "S9",
+    "price": 5050000,
+    "benefit": 300000
+  },
+  {
+    "brand": "Zeekr",
+    "model": "9X",
+    "price": 12950000,
+    "benefit": 0
+  }
+]
