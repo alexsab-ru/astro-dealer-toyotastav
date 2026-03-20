@@ -30,12 +30,6 @@
     "benefit": 0
   },
   {
-    "brand": "Gac",
-    "model": "GS8",
-    "price": 3650000,
-    "benefit": 0
-  },
-  {
     "brand": "Honda",
     "model": "CR-V",
     "price": 900000,
@@ -51,6 +45,12 @@
     "brand": "Hyundai",
     "model": "Solaris",
     "price": 790000,
+    "benefit": 0
+  },
+  {
+    "brand": "Kia",
+    "model": "Sportage",
+    "price": 1450000,
     "benefit": 0
   },
   {
@@ -76,6 +76,12 @@
     "model": "GLC AMG",
     "price": 5150000,
     "benefit": 300000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "price": 2400000,
+    "benefit": 0
   },
   {
     "brand": "Toyota",
