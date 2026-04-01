@@ -150,16 +150,39 @@ def main():
 
     sorted_words = sorted(word_urls.keys())
 
+    # Markdown-таблица в консоль
     print("\n")
     print("| слово | кол-во | url |")
     print("|-------|--------|-----|")
     for word in sorted_words:
         urls = sorted(word_urls[word])
         print(f"| {word} | {len(urls)} | {', '.join(urls)} |")
-
     print("\n")
 
-    print(f"\n[INFO] Всего уникальных английских слов: {len(sorted_words)}", file=sys.stderr)
+    notifications_dir = Path('tmp/notifications')
+    notifications_dir.mkdir(parents=True, exist_ok=True)
+    stem = f"english-words-{domain}" if domain else "english-words"
+
+    # TSV — удобен для локального просмотра
+    tsv_path = notifications_dir / f"{stem}.tsv"
+    with tsv_path.open('w', encoding='utf-8') as f:
+        f.write("слово\tкол-во\turl\n")
+        for word in sorted_words:
+            urls = sorted(word_urls[word])
+            f.write(f"{word}\t{len(urls)}\t{', '.join(urls)}\n")
+    print(f"[INFO] TSV сохранён: {tsv_path}", file=sys.stderr)
+
+    # CSV — отправляется в Telegram
+    csv_path = notifications_dir / f"{stem}.csv"
+    with csv_path.open('w', encoding='utf-8') as f:
+        f.write("слово,кол-во,url\n")
+        for word in sorted_words:
+            urls = sorted(word_urls[word])
+            urls_cell = '; '.join(urls)
+            f.write(f"{word},{len(urls)},{urls_cell}\n")
+    print(f"[INFO] CSV сохранён: {csv_path}", file=sys.stderr)
+
+    print(f"[INFO] Всего уникальных английских слов: {len(sorted_words)}", file=sys.stderr)
 
 
 if __name__ == '__main__':
