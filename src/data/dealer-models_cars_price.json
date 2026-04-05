@@ -6,18 +6,6 @@
     "benefit": 0
   },
   {
-    "brand": "Bmw",
-    "model": "5 серии",
-    "price": 4370000,
-    "benefit": 400000
-  },
-  {
-    "brand": "Chevrolet",
-    "model": "Cruze",
-    "price": 750000,
-    "benefit": 0
-  },
-  {
     "brand": "Gac",
     "model": "GS4",
     "price": 2800000,
