@@ -2268,7 +2268,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>5000000</price>
+			<price>4850000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
@@ -2345,7 +2345,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>5000000</price>
+			<price>4850000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
@@ -2542,7 +2542,28 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.</description>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/8a95b231e2473567465810347dd84161.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/b4e7c5dc1f00213422964fb9c31f867b.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/01d16368e8161b2be9f426fe071c4365.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/3ee920b79010831df95562246805c407.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/017fa9931aaf52a9e8ff1ae3bb2660be.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/b5a807dbad1496606d3a3a97b0998410.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/dbb7dcbe61a56209ef1fa3f222467d3b.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/fc025b9e0ab1b34729f90ecc6986bcfd.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/81f11aad4efeb90e48072e7f7713edd3.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/a7cf4e23c01c393f91e1d8053fd6ab86.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/91b6335d90d53c092ee5e1ef24c8c956.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/c166ac2c0d6b6a6d6caccebcdc2bf621.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/cf361addbdb5ba21a85eae4b3a67afad.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/f6dc98c3a87c3b6856e8eb5961ff4a19.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/459b2eede0a67f26172f8ca3167ef16b.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/a8a72a4b417b9b2d3846556eb210e5ae.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/f7ee2e75d8fb0e9d7300acfd4df171b2.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/96803b096d827187fdcdb5ac4fb36d28.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/8bede062acd8ada9b842cf2a8e780527.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF8T3005286/c5e4f764f0fd5bd80a12ade1eb1de60f.jpg</image>
+			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-2026/</url></car>
 	</cars>
