@@ -2,13 +2,7 @@
   {
     "brand": "Audi",
     "model": "Q5",
-    "price": 3390000,
-    "benefit": 0
-  },
-  {
-    "brand": "Gac",
-    "model": "GS3",
-    "price": 2400000,
+    "price": 3250000,
     "benefit": 0
   },
   {
@@ -79,12 +73,6 @@
   },
   {
     "brand": "Toyota",
-    "model": "Land Cruiser 300",
-    "price": 2690000,
-    "benefit": 0
-  },
-  {
-    "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 6900000,
     "benefit": 0
@@ -98,7 +86,7 @@
   {
     "brand": "Toyota",
     "model": "Tundra",
-    "price": 3700000,
+    "price": 3600000,
     "benefit": 0
   },
   {
