@@ -36,6 +36,18 @@
     "benefit": 0
   },
   {
+    "brand": "Lada (Ваз)",
+    "model": "Granta",
+    "price": 750000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lada (Ваз)",
+    "model": "Vesta",
+    "price": 1175000,
+    "benefit": 0
+  },
+  {
     "brand": "Lexus",
     "model": "LX 600",
     "price": 8600000,
