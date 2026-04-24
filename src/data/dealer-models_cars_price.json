@@ -18,6 +18,12 @@
     "benefit": 0
   },
   {
+    "brand": "Geely",
+    "model": "Monjaro",
+    "price": 4200000,
+    "benefit": 0
+  },
+  {
     "brand": "Honda",
     "model": "CR-V",
     "price": 900000,
@@ -34,6 +40,12 @@
     "model": "Solaris",
     "price": 760000,
     "benefit": 0
+  },
+  {
+    "brand": "Kia",
+    "model": "Seltos",
+    "price": 2800000,
+    "benefit": 150000
   },
   {
     "brand": "Lada (Ваз)",
@@ -56,8 +68,8 @@
   {
     "brand": "Lexus",
     "model": "RX 350",
-    "price": 8850000,
-    "benefit": 0
+    "price": 7700000,
+    "benefit": 150000
   },
   {
     "brand": "Mercedes-Benz",
@@ -67,14 +79,50 @@
   },
   {
     "brand": "Toyota",
+    "model": "Camry",
+    "price": 4550000,
+    "benefit": 200000
+  },
+  {
+    "brand": "Toyota",
+    "model": "Highlander",
+    "price": 5740000,
+    "benefit": 250000
+  },
+  {
+    "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 6900000,
     "benefit": 0
   },
   {
     "brand": "Toyota",
+    "model": "RAV4",
+    "price": 4190000,
+    "benefit": 200000
+  },
+  {
+    "brand": "Toyota",
     "model": "Tundra",
     "price": 3600000,
+    "benefit": 0
+  },
+  {
+    "brand": "Trumpchi",
+    "model": "S7",
+    "price": 4800000,
+    "benefit": 150000
+  },
+  {
+    "brand": "Trumpchi",
+    "model": "S9",
+    "price": 5050000,
+    "benefit": 300000
+  },
+  {
+    "brand": "Zeekr",
+    "model": "9X",
+    "price": 12950000,
     "benefit": 0
   }
 ]
