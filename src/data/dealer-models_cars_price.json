@@ -7,12 +7,6 @@
   },
   {
     "brand": "Gac",
-    "model": "GS4",
-    "price": 2800000,
-    "benefit": 0
-  },
-  {
-    "brand": "Gac",
     "model": "GS8",
     "price": 3500000,
     "benefit": 0
@@ -70,12 +64,6 @@
     "model": "RX 350",
     "price": 7700000,
     "benefit": 150000
-  },
-  {
-    "brand": "Mercedes-Benz",
-    "model": "GLC AMG",
-    "price": 5150000,
-    "benefit": 300000
   },
   {
     "brand": "Toyota",
