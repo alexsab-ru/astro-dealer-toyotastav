@@ -36,6 +36,12 @@
     "benefit": 0
   },
   {
+    "brand": "Infiniti",
+    "model": "QX60",
+    "price": 6490000,
+    "benefit": 100000
+  },
+  {
     "brand": "Kia",
     "model": "Seltos",
     "price": 2800000,
