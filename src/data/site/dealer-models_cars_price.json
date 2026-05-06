@@ -1,7 +1,7 @@
 [
   {
     "brand": "Audi",
-    "model": "Q5",
+    "model": "Ку5 (Q5)",
     "price": 3250000,
     "benefit": 0
   },
@@ -13,31 +13,31 @@
   },
   {
     "brand": "Hyundai",
-    "model": "Grand Starex",
+    "model": "Гранд Старекс (Grand Starex)",
     "price": 3450000,
     "benefit": 400000
   },
   {
     "brand": "Hyundai",
-    "model": "Solaris",
+    "model": "Солярис (Solaris)",
     "price": 760000,
     "benefit": 0
   },
   {
     "brand": "Infiniti",
-    "model": "QX60",
+    "model": "Кью Икс 60 (QX60)",
     "price": 6490000,
     "benefit": 100000
   },
   {
     "brand": "Kia",
-    "model": "Seltos",
+    "model": "Селтос (Seltos)",
     "price": 2800000,
     "benefit": 150000
   },
   {
     "brand": "Lada (Ваз)",
-    "model": "Granta",
+    "model": "Гранта (Granta)",
     "price": 750000,
     "benefit": 0
   },
