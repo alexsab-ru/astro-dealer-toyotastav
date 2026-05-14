@@ -8,7 +8,13 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 4200000,
+    "price": 3200000,
+    "benefit": 0
+  },
+  {
+    "brand": "Honda",
+    "model": "СиЭр-Ви (CR-V)",
+    "price": 1700000,
     "benefit": 0
   },
   {
@@ -37,6 +43,12 @@
   },
   {
     "brand": "Lada (Ваз)",
+    "model": "Веста (Vesta)",
+    "price": 1900000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lada (Ваз)",
     "model": "Гранта (Granta)",
     "price": 750000,
     "benefit": 0
@@ -52,6 +64,12 @@
     "model": "RX 350",
     "price": 7700000,
     "benefit": 150000
+  },
+  {
+    "brand": "Solaris",
+    "model": "Эйч-Эс (HS)",
+    "price": 1750000,
+    "benefit": 0
   },
   {
     "brand": "Toyota",
