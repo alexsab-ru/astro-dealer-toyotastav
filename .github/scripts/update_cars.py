@@ -928,6 +928,13 @@ class CarProcessor:
         # Если sale_price уже есть, не пересчитываем, иначе присваиваем sale_price
         if 'sale_price' not in car_data:
             car_data['sale_price'] = sale_price
+        else:
+            sale_price = to_int(car_data['sale_price'])
+
+        car_data['price'] = price
+        car_data['max_discount'] = max_discount
+        car_data['priceWithDiscount'] = sale_price
+        car_data['sale_price'] = sale_price
 
         car_data['currency'] = "RUR"
 
