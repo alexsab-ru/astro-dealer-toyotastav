@@ -30,12 +30,6 @@
     "benefit": 0
   },
   {
-    "brand": "Infiniti",
-    "model": "Кью Икс 60 (QX60)",
-    "price": 6490000,
-    "benefit": 100000
-  },
-  {
     "brand": "Kia",
     "model": "Селтос (Seltos)",
     "price": 2800000,
@@ -63,7 +57,7 @@
     "brand": "Lexus",
     "model": "RX 350",
     "price": 7700000,
-    "benefit": 150000
+    "benefit": 500000
   },
   {
     "brand": "Solaris",
@@ -74,14 +68,14 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 4550000,
+    "price": 4250000,
     "benefit": 200000
   },
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5740000,
-    "benefit": 250000
+    "price": 5690000,
+    "benefit": 200000
   },
   {
     "brand": "Toyota",
@@ -102,21 +96,21 @@
     "benefit": 0
   },
   {
+    "brand": "Toyota",
+    "model": "Wildlander",
+    "price": 4450000,
+    "benefit": 250000
+  },
+  {
     "brand": "Trumpchi",
     "model": "S7",
-    "price": 4800000,
-    "benefit": 150000
+    "price": 4650000,
+    "benefit": 200000
   },
   {
     "brand": "Trumpchi",
     "model": "S9",
-    "price": 5050000,
+    "price": 4950000,
     "benefit": 300000
-  },
-  {
-    "brand": "Zeekr",
-    "model": "9X",
-    "price": 12950000,
-    "benefit": 0
   }
 ]
