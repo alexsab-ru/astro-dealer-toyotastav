@@ -66,6 +66,12 @@
     "benefit": 500000
   },
   {
+    "brand": "Mercedes-Benz",
+    "model": "Е-Класс (E-Класс)",
+    "price": 6300000,
+    "benefit": 0
+  },
+  {
     "brand": "Solaris",
     "model": "Эйч-Эс (HS)",
     "price": 1750000,
