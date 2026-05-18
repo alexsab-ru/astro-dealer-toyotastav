@@ -14,7 +14,7 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 3155000,
+    "price": 4300000,
     "benefit": 0
   },
   {
@@ -45,12 +45,6 @@
     "brand": "Lada (Ваз)",
     "model": "Веста (Vesta)",
     "price": 1850000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lada (Ваз)",
-    "model": "Гранта (Granta)",
-    "price": 735000,
     "benefit": 0
   },
   {
