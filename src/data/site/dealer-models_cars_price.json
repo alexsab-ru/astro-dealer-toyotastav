@@ -6,9 +6,15 @@
     "benefit": 0
   },
   {
+    "brand": "Changan",
+    "model": "UNI-K",
+    "price": 2900000,
+    "benefit": 0
+  },
+  {
     "brand": "Geely",
     "model": "Emgrand",
-    "price": 1800000,
+    "price": 1775000,
     "benefit": 0
   },
   {
@@ -18,16 +24,16 @@
     "benefit": 0
   },
   {
+    "brand": "Haval",
+    "model": "JOLION",
+    "price": 1600000,
+    "benefit": 0
+  },
+  {
     "brand": "Honda",
     "model": "СиЭр-Ви (CR-V)",
     "price": 1630000,
     "benefit": 0
-  },
-  {
-    "brand": "Hyundai",
-    "model": "Гранд Старекс (Grand Starex)",
-    "price": 3390000,
-    "benefit": 400000
   },
   {
     "brand": "Hyundai",
@@ -74,7 +80,7 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 3600000,
+    "price": 2500000,
     "benefit": 200000
   },
   {
@@ -92,7 +98,7 @@
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 4190000,
+    "price": 2820000,
     "benefit": 200000
   },
   {
