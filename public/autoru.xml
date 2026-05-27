@@ -1006,6 +1006,88 @@
 		<url>https://cars.toyotastav.ru/cars/lexus-es-vii-facelift-2-200-20-cvt-173-hp-premium-black-2025/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
+			<folder_id>GX, II Рестайлинг 2</folder_id>
+			<modification_id>460 4.6 AT (296 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Executive 5 Sport</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2022</year>
+			<price>12490000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJJM5FX805324372</vin>
+			<description>Цена с полным НДС!
+
+Новый Lexus GX460 - настоящий автомобиль с легендарным атмосферным мотором, удобным салоном с управлением всеми функциями через эргономичные кнопки. 
+Никаких догадок и сенсорных лабиринтов — полный контроль и удовольствие за рулём!
+
+Автомобиль японской сборки, русифицирован с завода. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
+Гарантия и постгарантийное обслуживание у официального дилера Лексус-Самара на Московском шоссе 264А.
+
+Уникальное предложение по кредиту от «Тойота Банк» - 15,9% * с первоначальным взносом всего 10%
+
+✅ Обмен вашего автомобиля с доплатой.
+✅ Оформление в кредит. Кредитование от АО «Тойота Банк» при поддержке ООО «Тойота Мотор», а также более 10 банков-партнеров. Кредитуем все регионы РФ. Более 50 кредитных программ.
+✅ Индивидуальные предложения для каждого клиента
+✅ Поможем доставить автомобиль прямо к дому
+✅ Юридически чистая и безопасная сделка
+✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
+
+
+Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
+
+*Ставка указана по кредитной программе «Акционный 04_26» на авто с пробегом кроме китайских и российских брендов не старше 20 лет на дату погашения кредита. Минимальная сумма кредита – 150 000 рублей. Максимальная сумма кредита - 15 000 000 рублей. Срок кредита – от 24 до 120 месяцев. Первоначальный взнос от 10% от стоимости автомобиля.
+
+Валюта кредита – рубли. Обязательное условие: передача в залог банку приобретаемого автомобиля.
+
+Кредит предоставляется АО «Тойота Банк». Лицензия Банка России № 3470 от 21.06.2007г. 127273, г. Москва, ул. Отрадная, 2Б, стр.1., ИНН7750004136, ОГРН 1077711000058. Реклама.
+
+Банк может отказать в выдаче кредита. Предложение действует до 30/06/2026 и носит информационный характер. Условия и срок действия предложения могут быть изменены банком в одностороннем порядке. Не является публичной офертой (ст. 437 ГК).</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/61d8593c3b48d438b783a526b85d0966.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/9b27576ecddac3a3008a18e7a6abc66a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/66bae1a5e928f85c44f76d81fe717b03.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/3338b77c59a98d8edef7d3ba386e5719.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/541a25b302fc7d4dac891cabdc590ebd.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/2334b1b985a00e7cc865c9639da7efcf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/2e0b53ae71c52b871ad26b1f51a5827a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/511020cba7b935cceb18fa9a52a31033.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/5ccd7d5e05d474014d2ff487848076f9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/c6d82e36d1716c7427d9c67c9c59a90d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/64660c315a5b362fdb60b897017abb38.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/88cb16ec1cc85f3313a0e2036d9981f6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/991214ff2cc79b7202e07a1f75245fdc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/cf02e1db56c3e4f55bbcc5f48182a6eb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/a43b7014aa07fbc87372bb486b5e997e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/4dbf1907796d70b6c84a6b1302c59ba8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/39445e80a8ce35cfb68f7bc00ecf0a7e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/54e97eb521f6971b8dadc4a2e452148d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/0ace8005882e4848ed3c59325b938e53.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/dabc1e796817896cbda74c3bbb74b4bf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/5a6eab58ecedc47a0b946fda0177921a.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/80430c1e8dc74853d12236ea9e0a1d21.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/3c000cd8c66507179eac83e1912ac287.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/e6d6b5ad3057fdb94832bc69e3437ed8.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/5de2c6369547e8d3ada20af688ba0ad6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/329e3454cbbca467b5be03066ff0e7eb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/e753206d8ec50bd48a14cbbf8e56d379.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/98aa3ec3ebb4767e40718abeaaf0dbfb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/b286f2cca5030d3b7938a616b9e3f843.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/c3c79625eb26b8106635ed689684f887.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/ea8623a461d74b45fffe1278ee0839f6.jpg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/lexus-gx-ii-facelift-2-460-46-at-296-hp-4wd-executive-5-sport-black-2022/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
 			<folder_id>LX, IV</folder_id>
 			<modification_id>500d 3.4d AT (299 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник</body_type>
@@ -2149,7 +2231,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LVGEU76A9TG057955</vin>
+			<vin>LVGEU76A3TG057949</vin>
 			<description/>
 			<images/>
 			<video/>
@@ -2173,7 +2255,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<tradein_discount>100000</tradein_discount>
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
-			<vin>LVGEU76A3TG057949</vin>
+			<vin>LVGEU76A9TG057955</vin>
 			<description/>
 			<images/>
 			<video/>
@@ -2405,6 +2487,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A6TG058500</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-midnight-black-metallic-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
+			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>5900000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76A9TG056529</vin>
 			<description/>
 			<images/>
 			<video/>
