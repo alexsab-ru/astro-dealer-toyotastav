@@ -1027,7 +1027,7 @@
 			<description>Цена с полным НДС!
 
 Новый Lexus GX460 - настоящий автомобиль с легендарным атмосферным мотором, удобным салоном с управлением всеми функциями через эргономичные кнопки. 
-Никаких догадок и сенсорных лабиринтов — полный контроль и удовольствие за рулём!
+Никаких догадок и сенсорных лабиринтов — только полный контроль и удовольствие за рулём!
 
 Автомобиль японской сборки, русифицирован с завода. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
 Гарантия и постгарантийное обслуживание у официального дилера Лексус-Самара на Московском шоссе 264А.
@@ -1062,24 +1062,32 @@
 				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/511020cba7b935cceb18fa9a52a31033.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/5ccd7d5e05d474014d2ff487848076f9.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/c6d82e36d1716c7427d9c67c9c59a90d.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/64660c315a5b362fdb60b897017abb38.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/88cb16ec1cc85f3313a0e2036d9981f6.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/991214ff2cc79b7202e07a1f75245fdc.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/cf02e1db56c3e4f55bbcc5f48182a6eb.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/a43b7014aa07fbc87372bb486b5e997e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/4dbf1907796d70b6c84a6b1302c59ba8.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/39445e80a8ce35cfb68f7bc00ecf0a7e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/54e97eb521f6971b8dadc4a2e452148d.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/0ace8005882e4848ed3c59325b938e53.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/dabc1e796817896cbda74c3bbb74b4bf.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/5a6eab58ecedc47a0b946fda0177921a.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/80430c1e8dc74853d12236ea9e0a1d21.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/3c000cd8c66507179eac83e1912ac287.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/e6d6b5ad3057fdb94832bc69e3437ed8.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/5de2c6369547e8d3ada20af688ba0ad6.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/329e3454cbbca467b5be03066ff0e7eb.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/e753206d8ec50bd48a14cbbf8e56d379.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/98aa3ec3ebb4767e40718abeaaf0dbfb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/6632a13d925148d9037fd8bf57a03c4b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/be1e20c7c08b5386213a40b36138fac5.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/f40616f1ee8b693d6814d397f1161b6b.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/ee4f4defebbd309f0560bbc0985f9709.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/dd5815bc089c6685d83c4940217333e0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/5754795029fa9d531a20dca958f401e7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/b19eac70f6ff938395f51ff2816f03ca.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/01506ea2fa6bd5dd10415d1cc9cad0a1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/4398e40b818232285ee6d77471477a66.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/4b69fbdcaef97f17509c86dd0a8d830f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/daa22c541c63aab13365b8e8e7aef0d6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/a72f032bfad38a38a53c76364c2742e7.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/a550aac68a7c5de7fd759ea6bd09d40f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/1fb5375d567dcb0f6b575ea208eeba45.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/75f1de4de423d21f43fc6e89c49d8238.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/ae8cb26d6ad8eb623320e47c70e6bcdf.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/243fa68ae559c485a1a74267ec2745da.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/da4090723842fcec4376691703711db9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/0227703f23f801fdd2d8cf57f1a331f1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/8bd96544caec12b99f70ae191baa8fd6.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/2e21be81c02191917cc13386625169c4.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/028f61ecf56313d6f9e0cee891885121.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/e208b3e6d020396b1cb0e1d2ada0ea04.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/4c4a6ffee184a41173dfba333b11a2b9.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/8ce74bf08b0b5dc76b43d95500555b60.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/57f1b022291edece922bb8e806a67f6e.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/b286f2cca5030d3b7938a616b9e3f843.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/c3c79625eb26b8106635ed689684f887.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJJM5FX805324372/ea8623a461d74b45fffe1278ee0839f6.jpg</image>
@@ -1563,11 +1571,11 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>12990000</price>
-			<credit_discount>0</credit_discount>
+			<price>12890000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCHBJA002022851</vin>
 			<description>Ощутите высший класс - новый Leхus RX350 в максимальной комплектации.
@@ -1817,7 +1825,7 @@
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/a3193db016e2405becc13e1e57664d55.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/fe7f6434bf84d611d78f1a89064c52e8.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/fc98e6fa2986ff08c379527c0b64578b.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/a4365e1899b978f50e07f344707c2bef.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/7f380c7535df2489c430d265b847932a.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/2e982287ea2316212155e7d171a25092.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/43873c499daad894f8e424cabff9d48b.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/befdb405a0d0048e15b5bef234616042.jpg</image>
@@ -1844,7 +1852,7 @@
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/786494a143b8d69e49a28a657445d905.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/bac37f889bb46941612eebef737adac5.jpg</image>
 				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/c8b16456a60ae93eabbbf2f426bfad57.jpg</image>
-				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/78960a4a132ea9f8b93e822cb5afd8f1.jpg</image>
+				<image>https://photo.toyotasever.ru/JTJCMBHA7T2022397/e9dda22388c16a80511ed64ed38bbf19.jpg</image>
 			</images>
 			<video>https://rutube.ru/video/8cf81a59ee234fb0fcee91985f0e97e7/</video>
 		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-500h-24hyb-at-371-hp-4wd-f-sport-performance-plus-caviar-2026/</url></car>
