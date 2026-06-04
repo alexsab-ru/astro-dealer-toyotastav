@@ -6,9 +6,9 @@
     "benefit": 0
   },
   {
-    "brand": "Changan",
-    "model": "UNI-K",
-    "price": 2900000,
+    "brand": "Geely",
+    "model": "Coolray",
+    "price": 2500000,
     "benefit": 0
   },
   {
@@ -57,6 +57,12 @@
     "brand": "Mercedes-Benz",
     "model": "Е-Класс (E-Класс)",
     "price": 6300000,
+    "benefit": 0
+  },
+  {
+    "brand": "Skoda",
+    "model": "Фабия (Fabia)",
+    "price": 650000,
     "benefit": 0
   },
   {
