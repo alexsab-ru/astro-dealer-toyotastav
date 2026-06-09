@@ -20,8 +20,8 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 4300000,
-    "benefit": 0
+    "price": 3900000,
+    "benefit": 300000
   },
   {
     "brand": "Honda",
@@ -74,7 +74,7 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5690000,
+    "price": 5400000,
     "benefit": 200000
   },
   {
@@ -87,7 +87,7 @@
     "brand": "Toyota",
     "model": "RAV4",
     "price": 2820000,
-    "benefit": 200000
+    "benefit": 300000
   },
   {
     "brand": "Toyota",
@@ -98,13 +98,13 @@
   {
     "brand": "Toyota",
     "model": "Wildlander",
-    "price": 4450000,
+    "price": 4440000,
     "benefit": 250000
   },
   {
     "brand": "Trumpchi",
     "model": "S7",
-    "price": 4650000,
+    "price": 4695000,
     "benefit": 200000
   },
   {
