@@ -1,11 +1,5 @@
 [
   {
-    "brand": "Audi",
-    "model": "Ку5 (Q5)",
-    "price": 3250000,
-    "benefit": 0
-  },
-  {
     "brand": "Geely",
     "model": "Coolray",
     "price": 2500000,
@@ -52,12 +46,6 @@
     "model": "RX 350",
     "price": 7700000,
     "benefit": 500000
-  },
-  {
-    "brand": "Mercedes-Benz",
-    "model": "Е-Класс (E-Класс)",
-    "price": 6300000,
-    "benefit": 0
   },
   {
     "brand": "Skoda",
