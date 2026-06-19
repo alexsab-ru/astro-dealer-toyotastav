@@ -1,27 +1,9 @@
 [
   {
     "brand": "Geely",
-    "model": "Coolray",
-    "price": 2500000,
-    "benefit": 0
-  },
-  {
-    "brand": "Geely",
-    "model": "Emgrand",
-    "price": 1775000,
-    "benefit": 0
-  },
-  {
-    "brand": "Geely",
     "model": "Monjaro",
     "price": 3900000,
     "benefit": 300000
-  },
-  {
-    "brand": "Honda",
-    "model": "СиЭр-Ви (CR-V)",
-    "price": 1580000,
-    "benefit": 0
   },
   {
     "brand": "Kia",
@@ -37,26 +19,14 @@
   },
   {
     "brand": "Lexus",
-    "model": "LX 600",
-    "price": 8600000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
     "model": "RX 350",
     "price": 7700000,
     "benefit": 500000
   },
   {
-    "brand": "Skoda",
-    "model": "Фабия (Fabia)",
-    "price": 650000,
-    "benefit": 0
-  },
-  {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 2950000,
+    "price": 4200000,
     "benefit": 200000
   },
   {
@@ -68,20 +38,14 @@
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 6900000,
+    "price": 12450000,
     "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 2820000,
+    "price": 4100000,
     "benefit": 300000
-  },
-  {
-    "brand": "Toyota",
-    "model": "Tundra",
-    "price": 3600000,
-    "benefit": 0
   },
   {
     "brand": "Toyota",
