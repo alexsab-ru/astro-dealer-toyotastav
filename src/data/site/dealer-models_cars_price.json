@@ -14,8 +14,8 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 3900000,
-    "benefit": 300000
+    "price": 4000000,
+    "benefit": 200000
   },
   {
     "brand": "Honda",
@@ -26,7 +26,7 @@
   {
     "brand": "Kia",
     "model": "K3",
-    "price": 2800000,
+    "price": 2750000,
     "benefit": 150000
   },
   {
@@ -44,8 +44,8 @@
   {
     "brand": "Lexus",
     "model": "RX 350",
-    "price": 7700000,
-    "benefit": 500000
+    "price": 8850000,
+    "benefit": 0
   },
   {
     "brand": "Skoda",
@@ -62,7 +62,7 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5400000,
+    "price": 5200000,
     "benefit": 200000
   },
   {
@@ -75,7 +75,7 @@
     "brand": "Toyota",
     "model": "RAV4",
     "price": 2820000,
-    "benefit": 300000
+    "benefit": 200000
   },
   {
     "brand": "Toyota",
@@ -92,19 +92,19 @@
   {
     "brand": "Trumpchi",
     "model": "S7",
-    "price": 4695000,
+    "price": 4750000,
     "benefit": 200000
   },
   {
     "brand": "Trumpchi",
     "model": "S9",
-    "price": 4950000,
-    "benefit": 300000
+    "price": 5200000,
+    "benefit": 200000
   },
   {
     "brand": "Volkswagen",
     "model": "Tharu XR",
-    "price": 2950000,
+    "price": 2840000,
     "benefit": 150000
   }
 ]
