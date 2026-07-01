@@ -50,7 +50,7 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 3450000,
+    "price": 3600000,
     "benefit": 200000
   },
   {
@@ -68,14 +68,8 @@
   {
     "brand": "Toyota",
     "model": "RAV4",
-    "price": 2820000,
+    "price": 2750000,
     "benefit": 200000
-  },
-  {
-    "brand": "Toyota",
-    "model": "Tundra",
-    "price": 3600000,
-    "benefit": 0
   },
   {
     "brand": "Toyota",
