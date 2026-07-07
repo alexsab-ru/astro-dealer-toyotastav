@@ -1202,10 +1202,10 @@
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
 			<price>17990000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>400000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPA7CX4T4006374</vin>
 			<description>Обновленный Leхus LX500d 2026 года выпуска, Станьте обладателем флагманской модели Lexus прямо сейчас.
@@ -1656,11 +1656,11 @@
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>13690000</price>
-			<credit_discount>150000</credit_discount>
+			<price>13590000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCMBHA102020057</vin>
 			<description>Leхus RX500h - сочетание спортивной мощи и заботы о расходе топлива! В наличии в нашем дилерском центре Лексус - Самара. Не упустите возможность забронировать его первым.
@@ -2040,85 +2040,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-midnight-black-metallic-2026/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
-			<folder_id>Land Cruiser Prado, 250 Series</folder_id>
-			<modification_id>2.8d AT (204 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>VX-L</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>12200000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>JTEARCAJ5SK047322</vin>
-			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
-
-У Нас индивидуальный подход к каждому клиенту!!!
-HОBЫЙ Toyota Land Cruiser Prado в комплектации Люкс+ 2.8  8AT (204 л.с)
-
-В HАЛИЧИИ ! ! !  C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 200 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/a719a86b6e1ea8fad9b02aa5962248e1.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/62800c3c43582ac9fb228ce9ce61a7d7.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/5cc8f3d8d428cd73a225aa8fd7e36e1d.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/6290fbc98d5f6811a478946e87928e49.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/57c3fafe9ab1b83df8ee85002d5a5769.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/b9309495fbfa3d42d11c45c213f1700a.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/7da697ccbe8ab99f855cd123a2afec08.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/b397e5c0606520db2bb3c670ef4fdb6b.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/2253265f79d00c2ba0933c8ab7e61f2f.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/98c5bd0fc0517160b9f309f2df592bea.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/4e31b31234d5581b79acdfde5b5b31fb.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/14b604d8c50ab9d5c54dbbca11c5a07f.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/aae0d8b5912ad485636891c29387ff89.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/1d26dc447d07f1eed4e855fdd11650f4.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/98c9ad66d8191417183b26c0eb24194e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/82dba936bd9e15aa0a1c390a5539b8e1.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/026dde44c2a5cc0a48150f10cba22368.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/b96a02138a148a1c19c14559a8cd8e76.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/ff734aa2c2e4d5e62836f6b1a6a6c1bd.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/cf9d7db37b8c3c8fa6601122f5ad5707.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/2b149d24df5a830b22c37a6837b5d01e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/136a0bcc219014163c45144827764b1f.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/2cd97051c66da73479bc10af9f7a624a.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/0ebeccad8b8ce0275df59a2e66b73919.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/f7720c24ecd43adaa88fd2994c60b92d.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/d0a323f34a18ba1f58e0259b373a38f3.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ5SK047322/963be1c7b4f55b8701bda4b0fe49b3cb.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-black-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
 			<folder_id>Land Cruiser, 300 Series</folder_id>
 			<modification_id>3.4d AT (299 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник</body_type>
@@ -2293,82 +2214,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<body_type>Внедорожник</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>4550000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LFMJBFBF2T3007437</vin>
-			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
-
-В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-Двигaтель бензиновый 2,0 л (171 л.с.)
-Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
-
-Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/e9315b731134955acf9e8958d8b755d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/a25a6e462017a314952ad69d5047029a.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/6138c0f696dc440913a544a51a23dafd.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/95062151d7334b967117b69ce44f3629.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/79aa09673d17cdc0fc1574044a472778.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/8740d7dc3a256736e678f6cc95fd1015.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/c618fca5de8693a4f064ec4e9321565f.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/3be2d85965f5e9577460c59e3782d364.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/ccaaad4706777e80315f016f40a54150.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/02fa18d7395d4bd038937b68bd355375.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/6471bee4bb55ea81d5d004d00bed11b6.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/d29613416662ed7c9d4162a41f02a482.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/a013cf4477cb8d9f0add0215f939ee36.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/b5abb757dcabef6af566b886fcc36abd.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/d6f5b358d4e2dacc84cd6c803ea69aa4.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/ddc8994acf9e9f921496fc48dba3085d.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/f1f05adb5e9b0c933554ffd80bee47c4.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/fa97cff90291658336544d0f1bdf8991.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/1ccdf2d2c8f70c7b1fc3123806f9e5a3.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/0908876211ad3e1fc241b26b56429049.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/1f15bd92311a83c0f3cc9949f36e4aa8.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3007437/9e26d8c8734154449113ce3c27a80df8.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, VI (XA60)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -2533,81 +2378,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LFMJBFBF3T3007477</vin>
-			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
-
-В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-Двигaтель бензиновый 2,0 л (171 л.с.)
-Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
-
-Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/15ce07aad4609ee0f292e3dfee88ec42.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/8e83e10f8f2d623b0629c325e68f2480.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/8a0eecc96eaada586b0a0bf4c46483ca.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/af78c36ade0c778ba08f0d60a0e61e94.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/8ba059795f886b01219e32ac242d43a8.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/207aea1c80fb7783b0a27a39a83998f9.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/83628d251efb54db3692d8fee704cddd.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/9ce66767dbbd7fab29c9d8c4baa5029d.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/fe8281fea9b937f093cfe68ebb84ea31.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/297e6187a3d672147260b0e8f92cb0d4.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/6f598738d46771dd2229c250172b7f1e.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/aa53eb4f27c2c1b27ed4c37402bbc3be.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/d5264e4b30f404793293775c890c7cbb.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/dedf2a05f8ab9581333b02a8a14a9a90.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/3f2d7fc3bc58883b5dcdc64b2e95b123.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/bcaf50289d81a1236288573f87c1b500.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/4a06d750476140cc78f935c1b1e6d722.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/651fee54befe850874bf775d40046d97.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/0cf4a4400d7bbe540162ba785d0e367f.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/6631f3a8f9795f195e261f42fb2b0be4.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/e9ca5af33c6bd7c17e7c4fb0c62d4de2.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, VI (XA60)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>4550000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
 			<vin>LFMJBFBF4T3013062</vin>
 			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
 
@@ -2734,6 +2504,81 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3013054/6191b4bffbe87d19cb390a1e2423294d.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3013054/2127550a26b8b4cd637ecf8a2ae1a899.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3013054/4082ba8129f9eef68a3bc396091dcdca.jpg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, VI (XA60)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>4550000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJBFBF3T3007477</vin>
+			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Двигaтель бензиновый 2,0 л (171 л.с.)
+Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/15ce07aad4609ee0f292e3dfee88ec42.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/8e83e10f8f2d623b0629c325e68f2480.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/8a0eecc96eaada586b0a0bf4c46483ca.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/af78c36ade0c778ba08f0d60a0e61e94.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/8ba059795f886b01219e32ac242d43a8.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/207aea1c80fb7783b0a27a39a83998f9.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/83628d251efb54db3692d8fee704cddd.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/9ce66767dbbd7fab29c9d8c4baa5029d.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/fe8281fea9b937f093cfe68ebb84ea31.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/297e6187a3d672147260b0e8f92cb0d4.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/6f598738d46771dd2229c250172b7f1e.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/aa53eb4f27c2c1b27ed4c37402bbc3be.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/d5264e4b30f404793293775c890c7cbb.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/dedf2a05f8ab9581333b02a8a14a9a90.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/3f2d7fc3bc58883b5dcdc64b2e95b123.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/bcaf50289d81a1236288573f87c1b500.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/4a06d750476140cc78f935c1b1e6d722.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/651fee54befe850874bf775d40046d97.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/0cf4a4400d7bbe540162ba785d0e367f.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/6631f3a8f9795f195e261f42fb2b0be4.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF3T3007477/e9ca5af33c6bd7c17e7c4fb0c62d4de2.jpg</image>
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url></car>
