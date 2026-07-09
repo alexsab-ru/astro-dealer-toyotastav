@@ -31,20 +31,8 @@
   },
   {
     "brand": "Lexus",
-    "model": "LX 600",
-    "price": 8600000,
-    "benefit": 0
-  },
-  {
-    "brand": "Lexus",
     "model": "RX 350",
     "price": 8850000,
-    "benefit": 0
-  },
-  {
-    "brand": "Skoda",
-    "model": "Фабия (Fabia)",
-    "price": 580000,
     "benefit": 0
   },
   {
