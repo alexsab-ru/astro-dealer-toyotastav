@@ -243,10 +243,10 @@
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
 		<Price>4850000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>200000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LVGBECEK0TG669836/9d974c4d4226eec015d94e013414a71f.jpg"/>
@@ -365,7 +365,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>0d8d8757834a756e9727df92deb91cd6</Id>
+		<Id>2c1200b8b8440229722f976a2d5fa7bf</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -405,32 +405,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<InsuranceDiscount/>
 		<MaxDiscount/>
 		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/a1b6bfa1eba0e1a7999ce23e1535a95e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/c53a77102044b2288004625beb80f88b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/2e8749ae5e7da3154edb826a24c365f4.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/f0ce7c0390d0f3734f0c4b641a2a2e07.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/dac2770b59476ce7c8ecf1c1883621c3.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/fad0ffd2011765f04edeb678f577d4ab.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/9954632abdee7f71be36dbc503e668f9.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/3715da7f7eca8a5397675e7e5c8050ac.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/eff1fd5249932c924d9471a6e5283848.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/9f53f5b4fa2123985bad4a52932a71d1.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/72326c28c687e54a4a064a6e0243842c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/5c072f8adfb627cdcce646836a59548f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/952194c7ece60836739e14036120db4b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/6584f61f0c5bfae71613cb73ea45305e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/9d7afc62ca02c61a63ac0360d4654dd4.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/0cbed29b901ff6aa8da5f3feac9ee6ae.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/1d10404aacc61b431fce360cfc82d64e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/767f24d661d59f26f59670e7a379f8dc.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/6049ca2142169eecff800aa615becf55.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/2092e018dfae3cc807b7cfc3060294fc.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/107411bda4ce4f5f2c6007db58fdb18b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/4a843f57f73b6474a96cf77e663483cc.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/7a532a679a23a55975004f1e3aefd60b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG054407/c8caaef1a40af08ca7adc10eb88ee8a8.jpg"/>
-		</Images>
+		<Images/>
 		<Make>Toyota</Make>
 		<Model>Highlander</Model>
 		<GenerationId>17083478</GenerationId>
@@ -443,7 +418,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LVGEU76A7TG054407</VIN>
+		<VIN>LVGEU76A1TG061224</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452245827</ContactPhone>
 		<VideoURL/>
@@ -536,7 +511,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>2c1200b8b8440229722f976a2d5fa7bf</Id>
+		<Id>7c62e2d998c7982d5a26f5d49ad6095a</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -544,9 +519,9 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<Description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
 
 У Нас индивидуальный подход к каждому клиенту!!!
-HОBЫЙ Toyota Highlander в комплектации Престиж 2.0 4 ВД 8AT (248 л.с)
+HОBЫЙ Toyota Land Cruiser Prado в комплектации Люкс+ 2.8  8AT (204 л.с)
 
-В HАЛИЧИИ ! ! !  ! ! ! C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+В HАЛИЧИИ ! ! !  C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
 
 OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
@@ -559,7 +534,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
 
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 100 000 рублей*
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 200 000 рублей*
 ✅ Выгодный обмен Вашего автомобиля на новый
 ✅ Индивидуальные предложения для каждого клиента
 ✅ Гарантия до 3 лет или 100 000 км
@@ -570,26 +545,47 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>5780000</Price>
+		<Price>12290000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
 		<MaxDiscount/>
 		<Color>Белый</Color>
-		<Images/>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/b5b55e82bd27af5b8aedfdb1a33f29c1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/87db3ad2ec81c6ed2beaf5e0388e4482.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/f53cd4c0c11134d46ea69504e81a5219.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/fea13e511759a60437f582784f5a9323.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/7853e404d603759b83e8170863cdab30.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/285c893ea80e10f3b0a6bfcbf1245443.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/1a5cd71e4ca453ba9befa899f3fe63f9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/e82128391a5241e887139c1cb1493d4d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/a57cfcd0f1e562773b4d07f1669e170f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/823f91783998dd3ddef59a71b4693feb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/e2376bd1e8d1e03868794c3e6a340794.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/1893ae7618b115ac44c5c14357c8454b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/9720ed65084657cb6ec4ce6e7cfa3521.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/66803c2c9dc1d88e61c506393cb67376.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/93d0925beb665d42dbfa1cc74bfb3697.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/5585cd75059a19d0ed69c746bb572d63.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/cb1ce514286ab740afa2212e7141cdfe.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/e54e6a2c100c7f67ebffe33239d64371.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/9788a2f94520e897fa66ee6e62856dad.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/9dd088f8adc1c0fe25efe168c51e378a.jpg"/>
+		</Images>
 		<Make>Toyota</Make>
-		<Model>Highlander</Model>
-		<GenerationId>17083478</GenerationId>
-		<ModificationId>18559960</ModificationId>
-		<ComplectationId>18559964</ComplectationId>
-		<FuelType>Бензин</FuelType>
+		<Model>Land Cruiser Prado</Model>
+		<GenerationId>18663001</GenerationId>
+		<ModificationId>22058769</ModificationId>
+		<ComplectationId>22073990</ComplectationId>
+		<FuelType>Дизель</FuelType>
 		<Transmission>Автомат</Transmission>
 		<Year>2026</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LVGEU76A1TG061224</VIN>
+		<VIN>JTEARCAJ0SK051259</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452245827</ContactPhone>
 		<VideoURL/>
@@ -766,6 +762,149 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
+		<Id>aa740cfc7c986975700c5cf6b4e8b067</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Двигaтель бензиновый 2,0 л (171 л.с.)
+Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
+		<Price>4500000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/bfa30a69e668d8eab1eb4a8e40c28177.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/dee7837de0e8e82dd2c77ca34b183970.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/164c9a20a7b9446a283f2f26c6c0adce.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d5899c67f200a9bcea24706a2019df6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/3bc86ee7141119d570d183a58b84d4b5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/d17e4cc9df4068595198885d68bc7e08.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/a3d89b29c6bca27313352daf81fea87e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/f1e7e01a813284ee84f40972f7ecc9aa.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/2c12790222f20f3bf53f63b9a4044483.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/523e4b7ab41d13a2ffe3e859b1b93519.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/970e6b2101c45c22b3129398916cd664.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/0254f447e30107beadc25ad010e2ab94.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d7fd98409167bb5607d372f58bca8bd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/b9a97a18fda01afa0ec15edf5227fb2e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/3b40fd8039a1535cbe87238ab52ba810.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/0f85fa1811d9ab7214ae966dd2214848.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/eb64d9d1282453f40d443a3e4283d1e0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/b08a7d26b2209f00cb96f5c97b8d0752.jpg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>22387937</GenerationId>
+		<ModificationId>22506888</ModificationId>
+		<ComplectationId>22515164</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2025</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJBFBFXS3003182</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452245827</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>a210e6a918e28fe4b6f07bb97d9c0c7e</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Двигaтель бензиновый 2,0 л (171 л.с.)
+Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
+		<Price>4590000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Белый</Color>
+		<Images/>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>22387937</GenerationId>
+		<ModificationId>22506888</ModificationId>
+		<ComplectationId>22515164</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJBFBF9T3005684</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452245827</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
 		<Id>77dee73af1ef3356acf0ac471df4cef3</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -853,7 +992,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>aa740cfc7c986975700c5cf6b4e8b067</Id>
+		<Id>809a470718fd441602032ca33f15b43a</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -889,31 +1028,33 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4500000</Price>
+		<Price>4550000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
 		<MaxDiscount/>
-		<Color>Белый</Color>
+		<Color>Черный</Color>
 		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/bfa30a69e668d8eab1eb4a8e40c28177.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/dee7837de0e8e82dd2c77ca34b183970.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/164c9a20a7b9446a283f2f26c6c0adce.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d5899c67f200a9bcea24706a2019df6.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/3bc86ee7141119d570d183a58b84d4b5.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/d17e4cc9df4068595198885d68bc7e08.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/a3d89b29c6bca27313352daf81fea87e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/f1e7e01a813284ee84f40972f7ecc9aa.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/2c12790222f20f3bf53f63b9a4044483.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/523e4b7ab41d13a2ffe3e859b1b93519.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/970e6b2101c45c22b3129398916cd664.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/0254f447e30107beadc25ad010e2ab94.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d7fd98409167bb5607d372f58bca8bd.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/b9a97a18fda01afa0ec15edf5227fb2e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/3b40fd8039a1535cbe87238ab52ba810.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/0f85fa1811d9ab7214ae966dd2214848.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/eb64d9d1282453f40d443a3e4283d1e0.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBFXS3003182/b08a7d26b2209f00cb96f5c97b8d0752.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/bc179ee0699f39805de8e2596a440948.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/22fb26db8a6b717db869b7c69c9a8a88.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/ca4c8c3e165394c423e886a57bf82458.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/77a7e83a05b0bc19b21babb8324a928b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/7cd842165a08f19c0d1bae60b5a72e67.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/ef1dc19e6ffe4495d84b63c9a728f8eb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/605e261f10cd932b93c756a0161027de.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/802827c14a44147ca6e3054a505e4258.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/35f503c1ee6ccb15246e35dfb042aefe.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/2fcfba9113b905ab264d0c4620c93887.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/4a89b85984b3c86d5e95f3542487e414.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/5d961fe6c920f34d70f93973248be271.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/9c7295a4087cafb57537792254888068.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/bf60d28afbf9a0569643d6a44d151347.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/09d602bde58acd154d56ce94912fd2d1.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/0f31e88b540b7c2a84ec3f05d8464493.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/7b372efb01704c8dba68f7b5def43cf7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/34b2784c3e252fd5f4e6c68b41cc8fd9.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/8f62f5d70b33deb6e7bf94949c2fd4ad.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/10a01c6892c0ff5a65351e96595fcc51.jpg"/>
 		</Images>
 		<Make>Toyota</Make>
 		<Model>RAV4</Model>
@@ -922,12 +1063,94 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<ComplectationId>22515164</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
-		<Year>2025</Year>
+		<Year>2026</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LFMJBFBFXS3003182</VIN>
+		<VIN>LFMJBFBF2T3013058</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<ContactPhone>88452245827</ContactPhone>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>4888178f81cac1a64fef451d619fb2db</Id>
+		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Двигaтель бензиновый 2,0 л (171 л.с.)
+Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
+		<Price>4550000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
+		<InsuranceDiscount/>
+		<MaxDiscount/>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/0e247789a0d166ebeb2eb75e43c5ed1c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/6c56096b8ffc7d5938ab7765f0657345.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/5611884a7bf16e7b30df3b16f8b8f2f5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/af9a7a46a2ba0d53d533c1dc9068a0e5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/cfedfe888f18aff267776506a0121b8f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/a4ca96e744a477670342a7213ddf89fb.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/b21726da31a9c2a5ad973c3928055ae7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/3daa3f995cbb810c776b9598c1340083.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/b06a665b5029ca6e9485bde323555cd5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/890f685809c8b5a047ffeab765b181c0.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/667314a58632ac30a66191b5dafbc288.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/cb51080fe70d7ed7be7ca4ee60cb64ab.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/b7fe8f1355fbc29ad4e76d6cbf34ac46.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/f85f0c3f71e28581ac6c8761337be038.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/df31a445ef991e612c96fedecc46da9e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/4dada8aa21693626018896b61db90d7f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/6191b4bffbe87d19cb390a1e2423294d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/2127550a26b8b4cd637ecf8a2ae1a899.jpg"/>
+			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/4082ba8129f9eef68a3bc396091dcdca.jpg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>RAV4</Model>
+		<GenerationId>22387937</GenerationId>
+		<ModificationId>22506888</ModificationId>
+		<ComplectationId>22515164</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Вариатор</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>LFMJBFBF5T3013054</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452245827</ContactPhone>
 		<VideoURL/>
@@ -1018,89 +1241,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>809a470718fd441602032ca33f15b43a</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
-
-В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-Двигaтель бензиновый 2,0 л (171 л.с.)
-Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
-
-Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.
-* Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4550000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/bc179ee0699f39805de8e2596a440948.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/22fb26db8a6b717db869b7c69c9a8a88.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/ca4c8c3e165394c423e886a57bf82458.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/77a7e83a05b0bc19b21babb8324a928b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/7cd842165a08f19c0d1bae60b5a72e67.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/ef1dc19e6ffe4495d84b63c9a728f8eb.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/605e261f10cd932b93c756a0161027de.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/802827c14a44147ca6e3054a505e4258.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/35f503c1ee6ccb15246e35dfb042aefe.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/2fcfba9113b905ab264d0c4620c93887.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/4a89b85984b3c86d5e95f3542487e414.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/5d961fe6c920f34d70f93973248be271.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/9c7295a4087cafb57537792254888068.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/bf60d28afbf9a0569643d6a44d151347.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/09d602bde58acd154d56ce94912fd2d1.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/0f31e88b540b7c2a84ec3f05d8464493.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/7b372efb01704c8dba68f7b5def43cf7.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/34b2784c3e252fd5f4e6c68b41cc8fd9.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/8f62f5d70b33deb6e7bf94949c2fd4ad.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF2T3013058/10a01c6892c0ff5a65351e96595fcc51.jpg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>22387937</GenerationId>
-		<ModificationId>22506888</ModificationId>
-		<ComplectationId>22515164</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJBFBF2T3013058</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452245827</ContactPhone>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-	<Ad>
 		<Id>a5d5b41db7ca68d20a0ec3af442d78ba</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
@@ -1185,12 +1325,12 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>4888178f81cac1a64fef451d619fb2db</Id>
+		<Id>d4a233f5bc8dfc7a2c08c5f9e54a46a8</Id>
 		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
 		<Category>Автомобили</Category>
-		<Description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
+		<Description>Абсолютно новый  Toyota  Wildlander 
 
 В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
 
@@ -1208,7 +1348,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
 
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
 ✅ Выгодный обмен Вашего автомобиля на новый
 ✅ Индивидуальные предложения для каждого клиента
 ✅ Гарантия до 3 лет или 100 000 км
@@ -1221,89 +1360,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4550000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
-		<InsuranceDiscount/>
-		<MaxDiscount/>
-		<Color>Черный</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/0e247789a0d166ebeb2eb75e43c5ed1c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/6c56096b8ffc7d5938ab7765f0657345.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/5611884a7bf16e7b30df3b16f8b8f2f5.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/af9a7a46a2ba0d53d533c1dc9068a0e5.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/cfedfe888f18aff267776506a0121b8f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/a4ca96e744a477670342a7213ddf89fb.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/b21726da31a9c2a5ad973c3928055ae7.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/3daa3f995cbb810c776b9598c1340083.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/b06a665b5029ca6e9485bde323555cd5.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/890f685809c8b5a047ffeab765b181c0.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/667314a58632ac30a66191b5dafbc288.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/cb51080fe70d7ed7be7ca4ee60cb64ab.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/b7fe8f1355fbc29ad4e76d6cbf34ac46.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/f85f0c3f71e28581ac6c8761337be038.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/df31a445ef991e612c96fedecc46da9e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/4dada8aa21693626018896b61db90d7f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/6191b4bffbe87d19cb390a1e2423294d.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/2127550a26b8b4cd637ecf8a2ae1a899.jpg"/>
-			<Image url="https://photo.toyotasever.ru/LFMJBFBF5T3013054/4082ba8129f9eef68a3bc396091dcdca.jpg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>22387937</GenerationId>
-		<ModificationId>22506888</ModificationId>
-		<ComplectationId>22515164</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJBFBF5T3013054</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<ContactPhone>88452245827</ContactPhone>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-	<Ad>
-		<Id>a210e6a918e28fe4b6f07bb97d9c0c7e</Id>
-		<Address>г. Саратов, Юбилейный п, Усть-Курдюмская ул, 6</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
-
-В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-Двигaтель бензиновый 2,0 л (171 л.с.)
-Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
-
-Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.
-* Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4590000</Price>
+		<Price>4860000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
@@ -1311,18 +1368,18 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<Color>Белый</Color>
 		<Images/>
 		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>22387937</GenerationId>
-		<ModificationId>22506888</ModificationId>
-		<ComplectationId>22515164</ComplectationId>
+		<Model>Wildlander</Model>
+		<GenerationId>22510540</GenerationId>
+		<ModificationId>22510546</ModificationId>
+		<ComplectationId>22510549</ComplectationId>
 		<FuelType>Бензин</FuelType>
 		<Transmission>Вариатор</Transmission>
 		<Year>2026</Year>
 		<Doors>5</Doors>
 		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
+		<DriveType>Передний</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>LFMJBFBF9T3005684</VIN>
+		<VIN>LVGEA6GF5TG002495</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<ContactPhone>88452245827</ContactPhone>
 		<VideoURL/>
