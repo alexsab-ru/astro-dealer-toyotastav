@@ -1,12 +1,6 @@
 [
   {
     "brand": "Geely",
-    "model": "Coolray",
-    "price": 2500000,
-    "benefit": 0
-  },
-  {
-    "brand": "Geely",
     "model": "Monjaro",
     "price": 4000000,
     "benefit": 200000
