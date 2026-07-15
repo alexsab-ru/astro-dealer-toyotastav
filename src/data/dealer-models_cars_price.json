@@ -1,6 +1,12 @@
 [
   {
     "brand": "Geely",
+    "model": "Coolray",
+    "price": 2250000,
+    "benefit": 150000
+  },
+  {
+    "brand": "Geely",
     "model": "Monjaro",
     "price": 4000000,
     "benefit": 200000
@@ -38,7 +44,7 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5200000,
+    "price": 5300000,
     "benefit": 200000
   },
   {
@@ -56,25 +62,13 @@
   {
     "brand": "Toyota",
     "model": "Wildlander",
-    "price": 4440000,
-    "benefit": 250000
+    "price": 4450000,
+    "benefit": 200000
   },
   {
     "brand": "Trumpchi",
     "model": "S7",
-    "price": 4750000,
-    "benefit": 200000
-  },
-  {
-    "brand": "Trumpchi",
-    "model": "S9",
-    "price": 5200000,
-    "benefit": 200000
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Tharu XR",
-    "price": 2840000,
-    "benefit": 150000
+    "price": 5175000,
+    "benefit": 0
   }
 ]
