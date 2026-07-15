@@ -1,5 +1,17 @@
 [
   {
+    "brand": "Changan",
+    "model": "UNI-K",
+    "price": 2830000,
+    "benefit": 0
+  },
+  {
+    "brand": "Gac",
+    "model": "ДжиЭс 4 / GS4",
+    "price": 2540000,
+    "benefit": 0
+  },
+  {
     "brand": "Geely",
     "model": "Coolray",
     "price": 2250000,
@@ -18,10 +30,22 @@
     "benefit": 0
   },
   {
+    "brand": "Hyundai",
+    "model": "Санта Фе (Santa Fe)",
+    "price": 2725000,
+    "benefit": 0
+  },
+  {
     "brand": "Kia",
     "model": "K3",
     "price": 2750000,
     "benefit": 150000
+  },
+  {
+    "brand": "Kia",
+    "model": "Рио (Rio)",
+    "price": 1550000,
+    "benefit": 0
   },
   {
     "brand": "Kia",
@@ -30,15 +54,51 @@
     "benefit": 150000
   },
   {
+    "brand": "Lada (Ваз)",
+    "model": "Веста (Vesta)",
+    "price": 1190000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lada (Ваз)",
+    "model": "Ларгус (Largus)",
+    "price": 935000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lexus",
+    "model": "NX",
+    "price": 3156000,
+    "benefit": 0
+  },
+  {
     "brand": "Lexus",
     "model": "RX 350",
     "price": 8850000,
     "benefit": 0
   },
   {
+    "brand": "Nissan",
+    "model": "Кашкай (Qashqai)",
+    "price": 2150000,
+    "benefit": 0
+  },
+  {
+    "brand": "Renault",
+    "model": "Сандеро (Sandero)",
+    "price": 625000,
+    "benefit": 0
+  },
+  {
+    "brand": "Toyota",
+    "model": "Avalon",
+    "price": 3300000,
+    "benefit": 0
+  },
+  {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 3600000,
+    "price": 2450000,
     "benefit": 200000
   },
   {
