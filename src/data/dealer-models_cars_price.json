@@ -2,13 +2,13 @@
   {
     "brand": "Changan",
     "model": "UNI-K",
-    "price": 2830000,
+    "price": 2795000,
     "benefit": 0
   },
   {
     "brand": "Gac",
     "model": "ДжиЭс 4 / GS4",
-    "price": 2540000,
+    "price": 2500000,
     "benefit": 0
   },
   {
@@ -32,7 +32,7 @@
   {
     "brand": "Hyundai",
     "model": "Санта Фе (Santa Fe)",
-    "price": 2725000,
+    "price": 2650000,
     "benefit": 0
   },
   {
@@ -44,7 +44,7 @@
   {
     "brand": "Kia",
     "model": "Рио (Rio)",
-    "price": 1550000,
+    "price": 1500000,
     "benefit": 0
   },
   {
@@ -56,7 +56,7 @@
   {
     "brand": "Lada (Ваз)",
     "model": "Веста (Vesta)",
-    "price": 1190000,
+    "price": 1090000,
     "benefit": 0
   },
   {
@@ -68,7 +68,7 @@
   {
     "brand": "Lexus",
     "model": "RX 350",
-    "price": 8850000,
+    "price": 8490000,
     "benefit": 0
   },
   {
@@ -80,19 +80,19 @@
   {
     "brand": "Renault",
     "model": "Сандеро (Sandero)",
-    "price": 625000,
+    "price": 590000,
     "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "Avalon",
-    "price": 3300000,
+    "price": 3250000,
     "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 2450000,
+    "price": 2430000,
     "benefit": 200000
   },
   {
@@ -104,7 +104,7 @@
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 1700000,
+    "price": 1650000,
     "benefit": 0
   },
   {
