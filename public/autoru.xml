@@ -79,10 +79,10 @@
 			<owners_number>Не было владельцев</owners_number>
 			<year>2022</year>
 			<price>12500000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>200000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>200000</tradein_discount>
+			<max_discount>400000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJJM5FX305323288</vin>
 			<phone>83532793594</phone>

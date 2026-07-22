@@ -257,10 +257,10 @@ Lехus является надежным, экономичным, вмести�
 
 НЕ УПУСТИТЕ ВОЗМОЖНОСТЬ СТАТЬ ВЛАДЕЛЬЦЕМ НОВОГО LЕХUS  GX 460</Description>
 		<Price>12500000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>200000</TradeinDiscount>
+		<CreditDiscount>200000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>400000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJJM5FX305323288/5cf44bee4b38b42ba588ddc7701fe7c4.jpg"/>
