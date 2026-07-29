@@ -2558,7 +2558,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>5549000</price>
+			<price>5450000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -2702,13 +2702,37 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<body_type>Внедорожник</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>5780000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76AXTG061156</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
+			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>5549000</price>
+			<price>5450000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -2859,7 +2883,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>4500000</price>
+			<price>4400000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -2933,7 +2957,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>4500000</price>
+			<price>4400000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -3300,6 +3324,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3013054/2127550a26b8b4cd637ecf8a2ae1a899.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3013054/4082ba8129f9eef68a3bc396091dcdca.jpg</image>
 			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, VI (XA60)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>4500000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJBFBFXT3009937</vin>
+			<description/>
+			<images/>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url></car>
 	</cars>
