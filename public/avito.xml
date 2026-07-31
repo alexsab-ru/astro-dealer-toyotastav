@@ -1272,7 +1272,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
-		<Price>18190000</Price>
+		<Price>17990000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
@@ -1441,7 +1441,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<Id>9b867b40c892a753930c32e97a2d1b6a</Id>
 		<Address>г. Самара, Московское ш, 264А</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<Category>Автомобили</Category>
 		<Description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
@@ -1466,9 +1466,9 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
 		<Price>8490000</Price>
 		<TradeinDiscount/>
-		<CreditDiscount/>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>100000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/43/292b49c10378702d6b8ab3ea52ddf8d2.jpg"/>
@@ -1810,7 +1810,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<Id>ef963227ea2e44c7f4298a32dc9fe81d</Id>
 		<Address>г. Самара, Московское ш, 264А</Address>
 		<CarType>Новые</CarType>
-		<Availability>в пути</Availability>
+		<Availability>в наличии</Availability>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<Category>Автомобили</Category>
 		<Description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
@@ -1835,9 +1835,9 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
 		<Price>8490000</Price>
 		<TradeinDiscount/>
-		<CreditDiscount/>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>100000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/223/43/f558c8ab51e46f25091e0ebacbb5831f.jpg"/>
