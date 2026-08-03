@@ -48,6 +48,12 @@
     "benefit": 0
   },
   {
+    "brand": "Mazda",
+    "model": "Си Икс 5 (CX-5)",
+    "price": 3700000,
+    "benefit": 200000
+  },
+  {
     "brand": "Toyota",
     "model": "Avalon",
     "price": 3250000,
