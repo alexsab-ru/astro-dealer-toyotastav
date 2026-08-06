@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Ford",
+    "model": "Фокус (Focus)",
+    "price": 950000,
+    "benefit": 0
+  },
+  {
     "brand": "Gac",
     "model": "ДжиЭс 4 / GS4",
     "price": 2500000,
@@ -58,6 +64,12 @@
     "model": "Си Икс 5 (CX-5)",
     "price": 3700000,
     "benefit": 200000
+  },
+  {
+    "brand": "Nissan",
+    "model": "Кашкай (Qashqai)",
+    "price": 1450000,
+    "benefit": 0
   },
   {
     "brand": "Toyota",
