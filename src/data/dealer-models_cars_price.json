@@ -73,12 +73,6 @@
   },
   {
     "brand": "Toyota",
-    "model": "Avalon",
-    "price": 3250000,
-    "benefit": 0
-  },
-  {
-    "brand": "Toyota",
     "model": "Camry",
     "price": 2430000,
     "benefit": 200000
