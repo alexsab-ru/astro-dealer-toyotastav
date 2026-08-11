@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Changan",
+    "model": "UNI-K",
+    "price": 2550000,
+    "benefit": 0
+  },
+  {
     "brand": "Ford",
     "model": "Фокус (Focus)",
     "price": 950000,
