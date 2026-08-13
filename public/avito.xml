@@ -1974,7 +1974,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<Id>ef963227ea2e44c7f4298a32dc9fe81d</Id>
 		<Address>г. Самара, Московское ш, 264А</Address>
 		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
+		<Availability>в пути</Availability>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<Category>Автомобили</Category>
 		<Description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
@@ -2208,11 +2208,11 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
-		<Price>12890000</Price>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
+		<Price>12690000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount/>
 		<InsuranceDiscount/>
-		<MaxDiscount>200000</MaxDiscount>
+		<MaxDiscount/>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCHBJA002022851/18c14e9ef237409b47fe5cb899f0b3f8.jpg"/>
