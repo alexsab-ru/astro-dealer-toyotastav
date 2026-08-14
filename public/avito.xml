@@ -1432,10 +1432,10 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
 		<Price>17990000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/complectations/lexus/FJA310L-GKULYW/A9/223/21/474256d7009d2a7fcc1dc395bade009f.jpg"/>
@@ -2419,7 +2419,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
-		<Price>14190000</Price>
+		<Price>14490000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
