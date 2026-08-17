@@ -1385,7 +1385,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
-		<Price>18490000</Price>
+		<Price>18690000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
@@ -1836,6 +1836,65 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VideoURL/>
 		<VideoFileURL/>
 		<OfferSpecialLoanConditions/>
+		<OfferRepairGuarantee>Дилерская гарантия 2 года или 50 000км пробега.</OfferRepairGuarantee>
+		<OfferGiftCasco/>
+		<OfferGiftTires/>
+		<OfferDiscountCasco/>
+		<OfferGiftTO/>
+		<OfferGiftAccessories/>
+		<OfferFastRegistration/>
+	</Ad>
+	<Ad>
+		<Id>a979ad526c45fef84c8b0b321f95c445</Id>
+		<Address>г. Самара, Московское ш, 264А</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
+
+Автомобиль японской сборки. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
+Гарантия и постгарантийное обслуживание у официального дилера Лексус - Самаре на Московском шоссе 264А.
+- Новый 14" сенсорный дисплей
+- Камеры кругового обзора.
+- Подогрев и вентиляция передних сидений.
+
+✅ Обмен вашего автомобиля с доплатой.
+✅ Возможность приобретения автомобиля в Кредит или в Лизинг*
+✅ Индивидуальные предложения для каждого клиента
+✅ Поможем доставить автомобиль прямо к дому
+✅ Юридически чистая и безопасная сделка
+✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
+
+
+Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
+
+
+*Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
+		<Price>8490000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images/>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>22268530</ModificationId>
+		<ComplectationId>22268531</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCPMJA5T2028602</VIN>
+		<ContactPhone>88469796868</ContactPhone>
+		<VideoURL>https://rutube.ru/video/private/0f75c39e9f5c85298462951c62652483/?p=97CSx6J8Sd7I0jI02mZ5Mw</VideoURL>
+		<VideoFileURL/>
+		<OfferSpecialLoanConditions>Уникальное предложение от «Тойота Банк»  с первоначальным взносом всего 10%.</OfferSpecialLoanConditions>
 		<OfferRepairGuarantee>Дилерская гарантия 2 года или 50 000км пробега.</OfferRepairGuarantee>
 		<OfferGiftCasco/>
 		<OfferGiftTires/>
