@@ -1485,11 +1485,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>17990000</price>
-			<credit_discount>150000</credit_discount>
+			<price>18190000</price>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJPA70X4T4006548</vin>
 			<description>Обновленный Leхus LX500d 2026 года выпуска в Лексус - Самара, Станьте обладателем флагманской модели Lexus прямо сейчас.
@@ -1733,7 +1733,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>8490000</price>
+			<price>8690000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -1800,6 +1800,83 @@ Lехus является надежным, экономичным, вмести�
 			</images>
 			<video>https://rutube.ru/video/2c79ff33c605f7170922bf9ef5bce9d8/</video>
 		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-eminent-white-pearl-2026/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Enjoy</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>8690000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCPMJA9T2027629</vin>
+			<description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
+
+Автомобиль японской сборки. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
+Гарантия и постгарантийное обслуживание у официального дилера Лексус - Самаре на Московском шоссе 264А.
+- Новый 14" сенсорный дисплей
+- Камеры кругового обзора.
+- Подогрев и вентиляция передних сидений.
+
+✅ Обмен вашего автомобиля с доплатой.
+✅ Возможность приобретения автомобиля в Кредит или в Лизинг*
+✅ Индивидуальные предложения для каждого клиента
+✅ Поможем доставить автомобиль прямо к дому
+✅ Юридически чистая и безопасная сделка
+✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
+
+
+Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
+
+
+*Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/2c89667bf421dcc8d13a48f415cd65b1.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/c3e718737c57abbc7505f4b652df6502.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/6dd60574d6d551d0ebf0f00e723bea50.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/d9e965b39d6da44cc14d87c056041312.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/e2ce4947fc1e05516e473e1b17232164.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/f00b1c720ddbc0ddbe4da64c87f8f643.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/904898e4ed7ad3bc2f1f3b732f3d95ec.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/5bb09932981bd17d0df099cf04cef3fd.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/e98e0d9cc2c4f6cbd2faca284b40b2f5.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/84f33ac239b34f904965e152a8fcb676.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/a45bfcb495806faaa1b41414f8f4c637.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/f76c8755964441a95abbec09cb223f00.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/5d11d89cd3fc12cf301df1b6cbfd08c7.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/36fe19ce2a89ed574f0a86e654112609.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/eab9d3a4873f58fc040c32aab0be5d8c.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/882e93285efa1277a6d49795817868b2.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/dbd334ec5739bddc3aea588ff224b3d7.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/0435404a581cf2db29f0ce5ddb6f8201.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/e6161da9b7da775cb73d4e86342d958d.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/5e7d775b43c831099cc242749bc6d54e.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/6300acbda7411105f74ecd61ea475e23.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/e0203a18f523081fcc0bc9736f1fb686.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/97ee9632a8066bdb12748c7b144e146b.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/d4531f072bb0adaab03a24f3b64fe370.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/d21eccdd412576edac4ab233d75f2cdd.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/428c87d4e0dae7cbdd11257155cb9440.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/7c80d1c2c38c44c220450287e9622a06.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/5e12a684976280e423eb3721513eb477.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/3b37f137d7f760f8059318919f47702c.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/2c3dde422e293e398755a01b292c3e0e.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/5e172e4b85db4c7e9576b2f2988d19a9.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/22def1a400e58c29bc6af7799fd202dc.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/1J7/21/59b1a9b94e107c10a0ee8d6392874c3c.jpg</image>
+			</images>
+			<video>https://rutube.ru/video/5c42e39d1c6d5bfbd34b9633c272d9d6/</video>
+		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-iridium-2026/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
