@@ -14,7 +14,7 @@
   {
     "brand": "Gac",
     "model": "ДжиЭс 4 / GS4",
-    "price": 2500000,
+    "price": 2482000,
     "benefit": 0
   },
   {
@@ -28,12 +28,6 @@
     "model": "Monjaro",
     "price": 4000000,
     "benefit": 200000
-  },
-  {
-    "brand": "Honda",
-    "model": "СиЭр-Ви (CR-V)",
-    "price": 1350000,
-    "benefit": 0
   },
   {
     "brand": "Kia",
@@ -56,7 +50,7 @@
   {
     "brand": "Lexus",
     "model": "ES",
-    "price": 4600000,
+    "price": 4550000,
     "benefit": 0
   },
   {
