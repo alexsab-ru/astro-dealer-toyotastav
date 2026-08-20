@@ -2800,11 +2800,11 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 
 *Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж..</Description>
-		<Price>13390000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount/>
+		<Price>13190000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
-		<MaxDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCMBHA102020057/458f9c13eba611bed51209917d2c2133.jpg"/>
