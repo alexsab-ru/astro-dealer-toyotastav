@@ -183,7 +183,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5699000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -261,7 +261,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5699000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -345,7 +345,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5800000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -422,7 +422,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5800000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -506,7 +506,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5790000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -583,7 +583,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5790000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -661,7 +661,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5790000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -739,7 +739,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5790000</price>
+			<price>5650000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -832,7 +832,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4590000</price>
+			<price>4600000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -1158,10 +1158,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
 			<price>4650000</price>
-			<credit_discount>150000</credit_discount>
+			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>350000</max_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJBFBF8T3007118</vin>
 			<phone>83532793702</phone>
@@ -2746,6 +2746,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<body_type>Внедорожник</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>5750000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76A0TG064454</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
+			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -2887,6 +2911,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 				<image>https://photo.toyotasever.ru/LVGEU76AXTG056927/c5a4d9a41386bba99650ac4cf1798031.jpg</image>
 				<image>https://photo.toyotasever.ru/LVGEU76AXTG056927/2cd2d9d595bae6b7b03f5a46367e82de.jpg</image>
 			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-midnight-black-metallic-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
+			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>5750000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76A6TG063034</vin>
+			<description/>
+			<images/>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-midnight-black-metallic-2026/</url></car>
 		<car>
@@ -3165,6 +3213,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 				<image>https://photo.toyotasever.ru/LFMJBFBF4T3007746/55921590226297187e23abb94494385e.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF4T3007746/f8cb0640944e767dcc1cc3e7d43632b5.jpg</image>
 			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, VI (XA60)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>4550000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJBFBF2T3010550</vin>
+			<description/>
+			<images/>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url></car>
 		<car>
