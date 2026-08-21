@@ -184,10 +184,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
 			<price>5650000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A4TG056597</vin>
 			<phone>83532793702</phone>
@@ -833,10 +833,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
 			<price>4600000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJBFBF8T3006776</vin>
 			<phone>83532793702</phone>
@@ -914,11 +914,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4590000</price>
-			<credit_discount>0</credit_discount>
+			<price>4600000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJBFBF4T3004149</vin>
 			<phone>83532793702</phone>
@@ -995,7 +995,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4590000</price>
+			<price>4600000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -1076,7 +1076,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4590000</price>
+			<price>4600000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -1157,7 +1157,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4650000</price>
+			<price>4600000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -1239,10 +1239,10 @@ Lехus является надежным, экономичным, вмести�
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
 			<price>4590000</price>
-			<credit_discount>0</credit_discount>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJBFBF9T3005698</vin>
 			<phone>83532793702</phone>
@@ -3059,7 +3059,27 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</description>
-			<images/>
+			<images>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/f95808eedd05e5846b9a743d387f7e3d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/82c1c3dd2e68d4b9e753cfac6f6e727f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/70028665f86478efdb2520a8376e432e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/9550f2eb13a11e1e25102d67688b3640.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/e89610da6a57725dad624a18c03f4e66.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/76ee122d8f8508db298b4a8525d4253e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/5531bb8d7c8c1113f342c58274a7a3f0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/3f7c8ce5f27bd927e44481f6d57fbedb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/a638df2151ed69cfbbfa4c85c57f374c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/ca1e4934f0559365b811af0410a33378.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/60425f99dd22ae3151000bdc238ea714.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/d313dd41f25b780fb7da944653260cde.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/5676b2aaeaec748fe2dcd3c9fb47bcea.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/57766cb829655c3c04819b4fa8e34e15.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/f9edab0b969969319411c3267ae31fdc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/ea5171893dd0115310342f6649303c21.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/94639be7cce6568d45650082868984d0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/3a16d24b597cf749e9fde0ece8b5cc75.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/951e8cba1a500723a402dfbddf648157.jpg</image>
+			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-meteor-shower-2026/</url></car>
 		<car>
