@@ -37,12 +37,6 @@
   },
   {
     "brand": "Kia",
-    "model": "Рио (Rio)",
-    "price": 1500000,
-    "benefit": 0
-  },
-  {
-    "brand": "Kia",
     "model": "Селтос (Seltos)",
     "price": 2840000,
     "benefit": 150000
