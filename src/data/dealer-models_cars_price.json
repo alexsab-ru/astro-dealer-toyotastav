@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Audi",
+    "model": "Ку3 (Q3)",
+    "price": 3750000,
+    "benefit": 200000
+  },
+  {
     "brand": "Changan",
     "model": "UNI-K",
     "price": 2550000,
@@ -60,10 +66,16 @@
     "benefit": 200000
   },
   {
+    "brand": "Mercedes-Benz",
+    "model": "ГЛЕ-класс (GLE-класс)",
+    "price": 9500000,
+    "benefit": 0
+  },
+  {
     "brand": "Nissan",
     "model": "Кашкай (Qashqai)",
     "price": 1450000,
-    "benefit": 0
+    "benefit": 100000
   },
   {
     "brand": "Toyota",
@@ -105,6 +117,12 @@
     "brand": "Volkswagen",
     "model": "Tharu XR",
     "price": 2900000,
+    "benefit": 200000
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan L",
+    "price": 4700000,
     "benefit": 200000
   }
 ]
