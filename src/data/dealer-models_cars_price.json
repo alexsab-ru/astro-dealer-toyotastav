@@ -1,11 +1,5 @@
 [
   {
-    "brand": "Audi",
-    "model": "Ку3 (Q3)",
-    "price": 3750000,
-    "benefit": 200000
-  },
-  {
     "brand": "Changan",
     "model": "UNI-K",
     "price": 2550000,
@@ -62,13 +56,13 @@
   {
     "brand": "Mazda",
     "model": "Си Икс 5 (CX-5)",
-    "price": 3700000,
+    "price": 3770000,
     "benefit": 200000
   },
   {
     "brand": "Mercedes-Benz",
     "model": "ГЛЕ-класс (GLE-класс)",
-    "price": 9500000,
+    "price": 9300000,
     "benefit": 0
   },
   {
@@ -80,7 +74,7 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 4300000,
+    "price": 4475000,
     "benefit": 200000
   },
   {
@@ -93,7 +87,7 @@
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 6900000,
-    "benefit": 0
+    "benefit": 500000
   },
   {
     "brand": "Toyota",
@@ -110,8 +104,8 @@
   {
     "brand": "Trumpchi",
     "model": "S9",
-    "price": 5600000,
-    "benefit": 0
+    "price": 5500000,
+    "benefit": 200000
   },
   {
     "brand": "Volkswagen",
