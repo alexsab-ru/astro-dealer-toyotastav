@@ -428,90 +428,6 @@ Lехus является надежным, экономичным, вмести�
 			<tradein_discount>200000</tradein_discount>
 			<max_discount>310000</max_discount>
 			<currency>RUR</currency>
-			<vin>LVGEU76AXTG060833</vin>
-			<phone>83532793702</phone>
-			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-	
- Наш адрес: Оренбург, Загородное шоссе, зд. 13
-
-Услуги сервисного центра:
-⚡  сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ Aвтомoбиль полнoстью РАСТАМОЖЕН
-⚡ Уплачен ПОЛНЫЙ утилизационный сбор
-⚡ ЭПТС действующий (ГОТОВ)
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения  на  НОВЫЙ TOYOTA HIGHLANDER, 2026 года выпуска, комплектация Премиум с  гарантией качества до 3 лет или до 100 000 км  ❗
-
-Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/6f4531fd9f03c76dd2c38224cf108005.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/1cc0e345ecf90e496a6af34014666534.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/8a4bd04b8c4f42033ceba43ca936e8ab.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/4e3fa09f39df64c64fb5a27e48c8ef99.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/03b7b533d811afa77f23a4597a940776.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/d64d3beba860ee884dfd27e3d7901988.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/3a6ad59963d52ead940291f03256d78b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/c03001e104bcbdf7fbe307d09e2c92c1.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/7b2ef314350a9123ca2e4a82b3ca86e2.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/069795a18bea5ce2c08eea4601e319ca.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/68a969dad32ad0f3442f0b051b6e1c93.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/9d40fdcd6101476e3e1338a10c0d55c6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/73d1dbcca867629d3bb44425ea9a7133.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/61739b42e8d1604c5a7c118291130cfb.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/d9ce6e2e665398c45499727a7542e4c0.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/1014775b1a6d386443c2f735d0fc990d.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/3dd3fdcfdd60173c17776f84ad858551.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/b67d638215f27b1035f70f883febe3b8.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/a06e200b62ec0381cc7d989905525616.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/bb9686fe2d724885a339e59ac93dba04.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/99c109509a7b84191bd368fce6ce9faf.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/5bd580bdca1723823c2b71298bce7b8f.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76AXTG060833/1242732b3d0ede156dcf1ed44cb9d74f.jpeg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (XU70)</folder_id>
-			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>5650000</price>
-			<credit_discount>60000</credit_discount>
-			<insurance_discount>50000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>310000</max_discount>
-			<currency>RUR</currency>
 			<vin>LVGEU76A6TG060831</vin>
 			<phone>83532793702</phone>
 			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
@@ -1640,6 +1556,86 @@ Lехus является надежным, экономичным, вмести�
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-caviar-2026/</url></car>
+		<car>
+			<mark_id>Lexus</mark_id>
+			<folder_id>RX, V</folder_id>
+			<modification_id>300 2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Enjoy</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>8490000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTJCPMJA7T2029623</vin>
+			<description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
+
+Автомобиль японской сборки. Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
+Гарантия и постгарантийное обслуживание у официального дилера Лексус - Самаре на Московском шоссе 264А.
+- Новый 14" сенсорный дисплей
+- Камеры кругового обзора.
+- Подогрев и вентиляция передних сидений.
+
+✅ Обмен вашего автомобиля с доплатой.
+✅ Возможность приобретения автомобиля в Кредит или в Лизинг*
+✅ Индивидуальные предложения для каждого клиента
+✅ Поможем доставить автомобиль прямо к дому
+✅ Юридически чистая и безопасная сделка
+✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
+
+
+Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
+
+
+*Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/f82e79af79ab94389e6af3cb5b42383f.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/812759d67d3f26577fbf98805dcf5640.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/b564dfe3268ea8b971b869b4fa366a43.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/19aefc5be6d35f17fb6206e2bb53e4f2.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/93149cbb7de005a35426e6f50aa4d99e.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5df659671857f22be8cb79637382815f.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/54a4756beb84a2c3a58013490f7e457b.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5a13cf6a298bf39566f05a636d16dc7a.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/d39876e1c56d6617219f115fd2bfc19e.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/56b29713214850a099b7f51510811fa5.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/38ea9487c7ae4fb9b845ebd4052fd7e3.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/8654df6c45b891ac108efa4ccc3851c8.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/78aac2176063356205a5e04806406231.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/a385de5bf3402ac3468d88fb3dddd358.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/e9603de7c9ec82671dbae113cede5326.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/eeddf2e679e92c15f93a056181188815.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/c4b6e5c25029bc88c0d5314af0956315.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/ce4cf39e4b0aa4080508f0c6df529bbf.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9ea380e697cdb78450ecb84f9acdad00.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/653513497697124597ecb69bc4a2b30f.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/08617814985a0b84ae6853edf770dd93.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/db1e87bb6770f4cde334d820f207e434.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/08f330cb52ae0688cd419ceea854d124.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/a9beb7f3f64ea7694f760addaf5bc44f.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/2f2a4917cd748a7787fe3f1f34555f6f.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/262c3f3205f7113b3b9ad9fde660a2bd.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/8b1d7cfe826a6b16b691d8d76745441c.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5177beaa4c2c46875e95b3e78cd97958.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9860c0d9dfc621317921ac3d746b48a6.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/94275ed51af41e1074114319feaf3e80.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9673a9f71e28d889cea3bef39cdb270d.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/b5b14e5041b4432611223ed67cdd8e80.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/2fe4b9f6c957dcf311d76c5effa6ca12.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/efe6e4205e0a4017215d8037081acb70.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/54c828e80122be7548b3f5473d11842a.jpg</image>
+				<image>https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/74852abfc5238281387194cba4ee93b4.jpg</image>
+			</images>
+			<video>https://rutube.ru/video/2c79ff33c605f7170922bf9ef5bce9d8/</video>
+		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-eminent-white-pearl-2026/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
