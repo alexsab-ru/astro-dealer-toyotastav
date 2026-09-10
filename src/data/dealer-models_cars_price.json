@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Bmw",
+    "model": "3 серии",
+    "price": 2900000,
+    "benefit": 0
+  },
+  {
     "brand": "Changan",
     "model": "UNI-K",
     "price": 2550000,
