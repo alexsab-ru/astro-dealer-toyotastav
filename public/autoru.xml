@@ -72,8 +72,8 @@
 			<body_type>Внедорожник</body_type>
 			<complectation_name>Enjoy</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серебряный</color>
-			<metallic>нет</metallic>
+			<color>Серый</color>
+			<metallic>да</metallic>
 			<availability>в наличии</availability>
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
@@ -200,7 +200,7 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/JTJCPMJA8T2025662/aecaa978084b1e65d1ca2c2a377a6379.jpeg</image>
 			</images>
 			<video/>
-		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-serebristyy-2026/</url></car>
+		<url>https://cars.toyotastav.ru/cars/lexus-rx-v-300-20-at-248-hp-4wd-enjoy-platinovyy-grafit-2026/</url></car>
 		<car>
 			<mark_id>Lexus</mark_id>
 			<folder_id>RX, V</folder_id>
@@ -2337,7 +2337,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4850000</price>
+			<price>4700000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
