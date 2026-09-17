@@ -12,6 +12,24 @@
     "benefit": 0
   },
   {
+    "brand": "Ford",
+    "model": "Куга (Kuga)",
+    "price": 1600000,
+    "benefit": 0
+  },
+  {
+    "brand": "Ford",
+    "model": "Фокус (Focus)",
+    "price": 1400000,
+    "benefit": 0
+  },
+  {
+    "brand": "Gac",
+    "model": "Empow",
+    "price": 2950000,
+    "benefit": 0
+  },
+  {
     "brand": "Geely",
     "model": "Monjaro",
     "price": 4000000,
