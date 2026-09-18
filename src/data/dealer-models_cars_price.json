@@ -1,5 +1,11 @@
 [
   {
+    "brand": "Audi",
+    "model": "Ку3 (Q3)",
+    "price": 3750000,
+    "benefit": 200000
+  },
+  {
     "brand": "Bmw",
     "model": "3 серии",
     "price": 2900000,
@@ -32,31 +38,31 @@
   {
     "brand": "Geely",
     "model": "Monjaro",
-    "price": 4000000,
+    "price": 4050000,
     "benefit": 200000
   },
   {
     "brand": "Kia",
     "model": "K3",
-    "price": 2750000,
+    "price": 2650000,
     "benefit": 150000
   },
   {
     "brand": "Kia",
     "model": "Селтос (Seltos)",
-    "price": 2840000,
+    "price": 2750000,
     "benefit": 150000
   },
   {
     "brand": "Lexus",
     "model": "RX 350",
-    "price": 12250000,
-    "benefit": 0
+    "price": 11750000,
+    "benefit": 500000
   },
   {
     "brand": "Mazda",
     "model": "Си Икс 5 (CX-5)",
-    "price": 3770000,
+    "price": 3750000,
     "benefit": 200000
   },
   {
@@ -66,16 +72,10 @@
     "benefit": 0
   },
   {
-    "brand": "Nissan",
-    "model": "Кашкай (Qashqai)",
-    "price": 3000000,
-    "benefit": 100000
-  },
-  {
     "brand": "Toyota",
     "model": "Camry",
     "price": 1650000,
-    "benefit": 200000
+    "benefit": 225000
   },
   {
     "brand": "Toyota",
@@ -98,13 +98,19 @@
   {
     "brand": "Toyota",
     "model": "Wildlander",
-    "price": 4350000,
+    "price": 4400000,
     "benefit": 200000
   },
   {
     "brand": "Trumpchi",
+    "model": "S7",
+    "price": 5570000,
+    "benefit": 0
+  },
+  {
+    "brand": "Trumpchi",
     "model": "S9",
-    "price": 5500000,
+    "price": 5450000,
     "benefit": 200000
   },
   {
@@ -116,7 +122,7 @@
   {
     "brand": "Volkswagen",
     "model": "Tiguan L",
-    "price": 4700000,
+    "price": 4600000,
     "benefit": 200000
   }
 ]
