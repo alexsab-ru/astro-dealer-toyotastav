@@ -189,84 +189,6 @@ Lехus является надежным, экономичным, вмести�
 			<tradein_discount>250000</tradein_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
-			<vin>LVGEU76A4TG056597</vin>
-			<phone>83532793702</phone>
-			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-	
- Наш адрес: Оренбург, Загородное шоссе, зд. 13
-
-Услуги сервисного центра:
-⚡  сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ Aвтомoбиль полнoстью РАСТАМОЖЕН
-⚡ Уплачен ПОЛНЫЙ утилизационный сбор
-⚡ ЭПТС действующий (ГОТОВ)
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения  на  НОВЫЙ TOYOTA HIGHLANDER, 2026 года выпуска, комплектация Премиум с  гарантией качества до 3 лет или до 100 000 км  ❗
-
-Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/11916c591d8e987a8fb898514aca0f5c.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/2e55c317c8bf192c00cb1a937008b91b.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/53b97fb65a80332f592cd61019e53575.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/443f8f3ea726bde22fcf508a882990c6.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/3a698f2c94d49d1fae0b9acd0b474fad.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/da95e12461a4b48b9c661eec6e6dcf15.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/b1e6289069254fa0a38c5d8dacadd92d.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/07b355df71a927ca07608bd0d15ca500.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/edd6c524a3028d91fd21d4fedab7fd31.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/090e91e07197d2151093dd66f5eb7aa5.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/0d44f3408e01d4de3ec69b480f199f68.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/cb056380594706b7ed8db911cee96a45.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/32bb1c8918ecdec84ce426d9eb82821a.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/98d4200eccb563fb59e5c859e496d214.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/a367578f5845f0ad25c6b6c635088537.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/8e736758c3af32c95ce9c456238202b6.jpeg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/25bf1ab1ecd4d766df736d03246ee93a.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (XU70)</folder_id>
-			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Premium</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>5650000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
 			<vin>LVGEU76A0TG056600</vin>
 			<phone>83532793702</phone>
 			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
@@ -329,6 +251,84 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LVGEU76A0TG056600/8135d6b085144722bd85d01976c1cee5.jpeg</image>
 				<image>https://photo.toyotasever.ru/LVGEU76A0TG056600/626e946350c14691888a34e2e20a32ed.jpeg</image>
 				<image>https://photo.toyotasever.ru/LVGEU76A0TG056600/f288de261fe2507009da7ccc9e4e36f2.jpeg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
+			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Premium</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>5650000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76A4TG056597</vin>
+			<phone>83532793702</phone>
+			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
+	
+ Наш адрес: Оренбург, Загородное шоссе, зд. 13
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ Aвтомoбиль полнoстью РАСТАМОЖЕН
+⚡ Уплачен ПОЛНЫЙ утилизационный сбор
+⚡ ЭПТС действующий (ГОТОВ)
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения  на  НОВЫЙ TOYOTA HIGHLANDER, 2026 года выпуска, комплектация Премиум с  гарантией качества до 3 лет или до 100 000 км  ❗
+
+Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/11916c591d8e987a8fb898514aca0f5c.jpeg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/2e55c317c8bf192c00cb1a937008b91b.jpeg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/53b97fb65a80332f592cd61019e53575.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/443f8f3ea726bde22fcf508a882990c6.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/3a698f2c94d49d1fae0b9acd0b474fad.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/da95e12461a4b48b9c661eec6e6dcf15.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/b1e6289069254fa0a38c5d8dacadd92d.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/07b355df71a927ca07608bd0d15ca500.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/edd6c524a3028d91fd21d4fedab7fd31.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/090e91e07197d2151093dd66f5eb7aa5.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/0d44f3408e01d4de3ec69b480f199f68.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/cb056380594706b7ed8db911cee96a45.jpeg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/32bb1c8918ecdec84ce426d9eb82821a.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/98d4200eccb563fb59e5c859e496d214.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/a367578f5845f0ad25c6b6c635088537.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/8e736758c3af32c95ce9c456238202b6.jpeg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A4TG056597/25bf1ab1ecd4d766df736d03246ee93a.jpg</image>
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-premium-wind-chill-pearl-2026/</url></car>
@@ -854,6 +854,87 @@ Lехus является надежным, экономичным, вмести�
 			<tradein_discount>250000</tradein_discount>
 			<max_discount>350000</max_discount>
 			<currency>RUR</currency>
+			<vin>LFMJBFBF2T3004148</vin>
+			<phone>83532793702</phone>
+			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
+	
+ Наш адрес: Оренбург, Загородное шоссе, зд. 13
+
+Услуги сервисного центра:
+⚡  сервисное обслуживание
+⚡ «шинный отель» 
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества 
+
+Услуги отдела продаж: 
+⚡ обмен Вашего автомобиля с пробегом на новый
+⚡ Aвтомoбиль полнoстью РАСТАМОЖЕН
+⚡ Уплачен ПОЛНЫЙ утилизационный сбор
+⚡ ЭПТС действующий (ГОТОВ)
+
+Предоставляем нашим клиентам следующие возможности:
+⚡ приобрести автомобиль в Кредит или в Лизинг
+⚡ заключить договоры Страхования
+
+   Позвоните прямо сейчас и получите индивидуальные условия приобретения на  AБСОЛЮТНО НОВЫЙ кузoв TOYOTA RAV4, 6-е пoколeние, в комплектации Люкс, с  гарантией качества до 3 лет или до 100 000 км  ❗
+
+Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
+
+☝️ На цену нового автомобиля в договоре купли-продажи влияют:
+1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
+2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
+3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
+
+☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
+
+☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
+
+☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
+
+☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/ecb2b421676f158b06290399be91a95e.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/562e15dad21cd0c42ccdb5268e570ab1.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/ac5a176116f81ed2845eeb0ea0aebc6c.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/b96fddb6c3f0d02470ca2c11350a1850.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/163b3b1dc890f34fa4199a5c69f019dd.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/4dbd19030b151b62a4a7514841c7f73f.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/b6df565158a7bc1b498e902a9c986edf.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/849e94275a1e4d99b43fb58bc70dd2a1.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/88474020e0c7db49143f3ccc8bc3bbaf.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/500e5bf4844c9f844acc408633caa66f.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/4ee60cb9e1819ce41b1f54dbc89cdbdb.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/a10e88a2ff371d26d50fd60240f44e25.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/bf058c55b54320b3879f72aeb9c0a78c.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/30b27f587a6799163590e5a40027cba5.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/4b8adf02054e76ae09e8af90a8cfa79d.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/6dab08287ba109cd61b788894dbf5ac3.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/bfb8fe725a11b4ee44be0c6002d888da.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/9b7d1acc06a68dc28087f29c2c26f182.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/807c1742310e6017ab4c9cab593974ce.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/bc3627aa1536b62c2883690af6e52b0c.jpg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, VI (XA60)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>4600000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>250000</tradein_discount>
+			<max_discount>350000</max_discount>
+			<currency>RUR</currency>
 			<vin>LFMJBFBF5T3004340</vin>
 			<phone>83532793702</phone>
 			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
@@ -914,87 +995,6 @@ Lехus является надежным, экономичным, вмести�
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3004340/d8866c3bc9969f76c91c8957bcc47e29.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3004340/2a3730e4f1d4f3707bd9667c23c7b2ab.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF5T3004340/5dc49659e71c1d6fd548c781ec54bab7.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, VI (XA60)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>4600000</price>
-			<credit_discount>100000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>250000</tradein_discount>
-			<max_discount>350000</max_discount>
-			<currency>RUR</currency>
-			<vin>LFMJBFBF2T3004148</vin>
-			<phone>83532793702</phone>
-			<description>Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-	
- Наш адрес: Оренбург, Загородное шоссе, зд. 13
-
-Услуги сервисного центра:
-⚡  сервисное обслуживание
-⚡ «шинный отель» 
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества 
-
-Услуги отдела продаж: 
-⚡ обмен Вашего автомобиля с пробегом на новый
-⚡ Aвтомoбиль полнoстью РАСТАМОЖЕН
-⚡ Уплачен ПОЛНЫЙ утилизационный сбор
-⚡ ЭПТС действующий (ГОТОВ)
-
-Предоставляем нашим клиентам следующие возможности:
-⚡ приобрести автомобиль в Кредит или в Лизинг
-⚡ заключить договоры Страхования
-
-   Позвоните прямо сейчас и получите индивидуальные условия приобретения на  AБСОЛЮТНО НОВЫЙ кузoв TOYOTA RAV4, 6-е пoколeние, в комплектации Люкс, с  гарантией качества до 3 лет или до 100 000 км  ❗
-
-Цена в договоре-купли продажи нового автомобиля получается: при одновременной покупке дополнительного оборудования,  заключения договора страхования КАСКО и  обмена вашего автомобиля на новый. Цена не включает стоимость дополнительного оборудования. 
-
-☝️ На цену нового автомобиля в договоре купли-продажи влияют:
-1)	срок владения, оценка и название марки автомобиля с пробегом, который будет сдаваться в учет стоимости нового
-2)	перечень дополнительного оборудования и аксессуаров, который будет приобретаться при покупке нового автомобиля
-3)	стоимость договора страхования КАСКО, который будет приобретаться при покупке нового автомобиля
-
-☝️ Использование выгод не является условием приобретения автомобиля. Подробные условия предоставления выгод уточняйте у продавца-консультанта 
-
-☝️ При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа).
-
-☝️ Изложенная информация не является офертой, в том числе о комплектации автомобиля, носит исключительно справочный характер и может быть изменена. Все условия обязательств сторон определяются в заключаемом договоре купли продажи. Требуется согласование наличия, наименования и количества товара с продавцом-консультантом 
-
-☝️ Гарантия качества предоставляется продавцом. Некоторые компоненты автомобиля не покрываются гарантией.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/ecb2b421676f158b06290399be91a95e.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/562e15dad21cd0c42ccdb5268e570ab1.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/ac5a176116f81ed2845eeb0ea0aebc6c.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/b96fddb6c3f0d02470ca2c11350a1850.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/163b3b1dc890f34fa4199a5c69f019dd.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/4dbd19030b151b62a4a7514841c7f73f.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/b6df565158a7bc1b498e902a9c986edf.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/849e94275a1e4d99b43fb58bc70dd2a1.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/88474020e0c7db49143f3ccc8bc3bbaf.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/500e5bf4844c9f844acc408633caa66f.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/4ee60cb9e1819ce41b1f54dbc89cdbdb.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/a10e88a2ff371d26d50fd60240f44e25.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/bf058c55b54320b3879f72aeb9c0a78c.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/30b27f587a6799163590e5a40027cba5.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/4b8adf02054e76ae09e8af90a8cfa79d.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/6dab08287ba109cd61b788894dbf5ac3.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/bfb8fe725a11b4ee44be0c6002d888da.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/9b7d1acc06a68dc28087f29c2c26f182.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/807c1742310e6017ab4c9cab593974ce.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF2T3004148/bc3627aa1536b62c2883690af6e52b0c.jpg</image>
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url></car>
@@ -2420,6 +2420,79 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<body_type>Внедорожник</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
+			<color>Черный</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>5700000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LVGEU76A6TG063034</vin>
+			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
+
+У Нас индивидуальный подход к каждому клиенту!!!
+HОBЫЙ Toyota Highlander в комплектации Престиж 2.0 4 ВД 8AT (248 л.с)
+
+В HАЛИЧИИ ! ! !  ! ! ! C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 100 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/3fe33ae7ab466a7c472c122200be1e8b.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/ff58e2d07afe0374787fe66d2af3dba5.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/56d9da249e7f89b9437f0795fa0070ea.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/8f7085ab95e00bd7002df2db1bbf8b76.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/f85b77ae418b96c137f9b36a19010d16.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/1a47d3da64073f44bc32f7ea77b715a1.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/fa42d6d4c26d364f6ffc426ca70d2e0e.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/b33bfd1ebc8cb05459bc7b280b37e3ff.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/1a4ffec5ffc56764460921850e380bf7.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/aa86410cf4e60e4d458cc439fdf704c3.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/e127b4c53aa00ab23c8f0eff2f727b7e.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/bbbe56cd4b67e4598bf9d1de4d96a31c.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/ea897b82385efd81249b769eac91b707.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/f72520fbf068adebe0bf189350289e89.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/9a9c6b02b6f3d94da461184fe55b4bc4.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/dbd31223b47fcc8f0d8d7dcc277c8604.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/958567361cf3fd70af8e01e49cb68d13.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/6cca13f5136b14cbe4583e8d6adaa8d7.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/9598741b8492e5782d84580077d2756b.jpg</image>
+				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/426fc29bfee46a58f68d21b9f8786782.jpg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-midnight-black-metallic-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Highlander, IV (XU70)</folder_id>
+			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -2555,79 +2628,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-wind-chill-pearl-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>Highlander, IV (XU70)</folder_id>
-			<modification_id>2.0 AT (248 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>Черный</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>5700000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LVGEU76A6TG063034</vin>
-			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
-
-У Нас индивидуальный подход к каждому клиенту!!!
-HОBЫЙ Toyota Highlander в комплектации Престиж 2.0 4 ВД 8AT (248 л.с)
-
-В HАЛИЧИИ ! ! !  ! ! ! C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 100 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.
-* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/3fe33ae7ab466a7c472c122200be1e8b.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/ff58e2d07afe0374787fe66d2af3dba5.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/56d9da249e7f89b9437f0795fa0070ea.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/8f7085ab95e00bd7002df2db1bbf8b76.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/f85b77ae418b96c137f9b36a19010d16.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/1a47d3da64073f44bc32f7ea77b715a1.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/fa42d6d4c26d364f6ffc426ca70d2e0e.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/b33bfd1ebc8cb05459bc7b280b37e3ff.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/1a4ffec5ffc56764460921850e380bf7.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/aa86410cf4e60e4d458cc439fdf704c3.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/e127b4c53aa00ab23c8f0eff2f727b7e.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/bbbe56cd4b67e4598bf9d1de4d96a31c.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/ea897b82385efd81249b769eac91b707.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/f72520fbf068adebe0bf189350289e89.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/9a9c6b02b6f3d94da461184fe55b4bc4.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/dbd31223b47fcc8f0d8d7dcc277c8604.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/958567361cf3fd70af8e01e49cb68d13.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/6cca13f5136b14cbe4583e8d6adaa8d7.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/9598741b8492e5782d84580077d2756b.jpg</image>
-				<image>https://photo.toyotasever.ru/LVGEU76A6TG063034/426fc29bfee46a58f68d21b9f8786782.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-highlander-iv-xu70-20-at-248-hp-4wd-luxury-midnight-black-metallic-2026/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>Land Cruiser Prado, 250 Series</folder_id>
@@ -2780,79 +2780,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<body_type>Внедорожник</body_type>
 			<complectation_name>Luxury</complectation_name>
 			<wheel>левый</wheel>
-			<color>Белый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2025</year>
-			<price>4100000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
-			<vin>LFMJBFBFXS3003182</vin>
-			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
-
-В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-Двигaтель бензиновый 2,0 л (171 л.с.)
-Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
-
-Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.
-* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/bfa30a69e668d8eab1eb4a8e40c28177.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/dee7837de0e8e82dd2c77ca34b183970.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/164c9a20a7b9446a283f2f26c6c0adce.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d5899c67f200a9bcea24706a2019df6.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/3bc86ee7141119d570d183a58b84d4b5.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/d17e4cc9df4068595198885d68bc7e08.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/a3d89b29c6bca27313352daf81fea87e.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/f1e7e01a813284ee84f40972f7ecc9aa.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/2c12790222f20f3bf53f63b9a4044483.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/523e4b7ab41d13a2ffe3e859b1b93519.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/970e6b2101c45c22b3129398916cd664.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/0254f447e30107beadc25ad010e2ab94.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d7fd98409167bb5607d372f58bca8bd.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/b9a97a18fda01afa0ec15edf5227fb2e.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/3b40fd8039a1535cbe87238ab52ba810.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/0f85fa1811d9ab7214ae966dd2214848.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/eb64d9d1282453f40d443a3e4283d1e0.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/b08a7d26b2209f00cb96f5c97b8d0752.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2025/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, VI (XA60)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
 			<color>Черный</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -2925,6 +2852,79 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-black-metallic-218-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, VI (XA60)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Белый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2025</year>
+			<price>4100000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJBFBFXS3003182</vin>
+			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Двигaтель бензиновый 2,0 л (171 л.с.)
+Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/bfa30a69e668d8eab1eb4a8e40c28177.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/dee7837de0e8e82dd2c77ca34b183970.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/164c9a20a7b9446a283f2f26c6c0adce.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d5899c67f200a9bcea24706a2019df6.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/3bc86ee7141119d570d183a58b84d4b5.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/d17e4cc9df4068595198885d68bc7e08.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/a3d89b29c6bca27313352daf81fea87e.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/f1e7e01a813284ee84f40972f7ecc9aa.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/2c12790222f20f3bf53f63b9a4044483.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/523e4b7ab41d13a2ffe3e859b1b93519.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/970e6b2101c45c22b3129398916cd664.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/0254f447e30107beadc25ad010e2ab94.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/6d7fd98409167bb5607d372f58bca8bd.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/b9a97a18fda01afa0ec15edf5227fb2e.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/3b40fd8039a1535cbe87238ab52ba810.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/0f85fa1811d9ab7214ae966dd2214848.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/eb64d9d1282453f40d443a3e4283d1e0.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBFXS3003182/b08a7d26b2209f00cb96f5c97b8d0752.jpg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2025/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, VI (XA60)</folder_id>
@@ -3095,77 +3095,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<tradein_discount>0</tradein_discount>
 			<max_discount>0</max_discount>
 			<currency>RUR</currency>
-			<vin>LFMJBFBF5T3018092</vin>
-			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
-
-В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-Двигaтель бензиновый 2,0 л (171 л.с.)
-Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
-
-Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.
-* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/0381a9e7933e1819ef9e230a2507b0a6.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/16b0821198a7c267fd93c228977f1a95.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/2b5d261ea76d75b5c8640693348b2be7.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/cf710175bd2b5d39616ba527dfde4329.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/92cfdbc5b1e7de8638fec125bb2b9dfd.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/558e7431bd27c45bdc1d874bfb1994d5.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/68b581b0e278ea4c9d57129f7b0c207f.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/2aa5e24359c96fa48a3b5a34de92de88.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/7bbbd2b14fb84c32221f1d1d14166a12.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/22f7be3323d0e63fc9a214476c6b773b.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/37a565f9b0698397d0846e44bf9b959f.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/ff4c84342c948d03aca97746f2a07cca.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/cfdbc11233c178ec9f61e55a3b9af67c.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/fe0819b5ea560c4842bbc46d107390ea.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/62ce17c770a3303f5b1d90d0138da149.jpg</image>
-				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/9820fca465790c27d76ab68796fce835.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-korichnevyy-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, VI (XA60)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>Коричневый</color>
-			<metallic>нет</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>4650000</price>
-			<credit_discount>0</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>0</tradein_discount>
-			<max_discount>0</max_discount>
-			<currency>RUR</currency>
 			<vin>LFMJBFBF7T3018790</vin>
 			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
 
@@ -3217,6 +3146,77 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 				<image>https://photo.toyotasever.ru/LFMJBFBF7T3018790/8a6dee2131b8c7a1868fe971a929fc4e.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF7T3018790/8f765f3c44243795736cc8db5c762d59.jpg</image>
 				<image>https://photo.toyotasever.ru/LFMJBFBF7T3018790/12cc7a83861f134fb56ce7b97f34a5c6.jpg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-korichnevyy-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>RAV4, VI (XA60)</folder_id>
+			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>Luxury</complectation_name>
+			<wheel>левый</wheel>
+			<color>Коричневый</color>
+			<metallic>нет</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>4650000</price>
+			<credit_discount>0</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>0</tradein_discount>
+			<max_discount>0</max_discount>
+			<currency>RUR</currency>
+			<vin>LFMJBFBF5T3018092</vin>
+			<description>Абсолютно новый кузов Toyota RAV4 6-е поколение — кроссовер, который сочетает в себе надежность, мощь и стиль.
+
+В HАЛИЧИИ C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+Двигaтель бензиновый 2,0 л (171 л.с.)
+Кaмеpы кpугoвoго oбзoрa и элeктрoпривод бaгaжникa.
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 50 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение.
+
+Откройте для себя мир новых возможностей и приключений с RAV4 — Ваш идеальный спутник уже ждет Вас!
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/0381a9e7933e1819ef9e230a2507b0a6.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/16b0821198a7c267fd93c228977f1a95.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/2b5d261ea76d75b5c8640693348b2be7.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/cf710175bd2b5d39616ba527dfde4329.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/92cfdbc5b1e7de8638fec125bb2b9dfd.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/558e7431bd27c45bdc1d874bfb1994d5.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/68b581b0e278ea4c9d57129f7b0c207f.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/2aa5e24359c96fa48a3b5a34de92de88.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/7bbbd2b14fb84c32221f1d1d14166a12.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/22f7be3323d0e63fc9a214476c6b773b.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/37a565f9b0698397d0846e44bf9b959f.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/ff4c84342c948d03aca97746f2a07cca.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/cfdbc11233c178ec9f61e55a3b9af67c.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/fe0819b5ea560c4842bbc46d107390ea.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/62ce17c770a3303f5b1d90d0138da149.jpg</image>
+				<image>https://photo.toyotasever.ru/LFMJBFBF5T3018092/9820fca465790c27d76ab68796fce835.jpg</image>
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-korichnevyy-2026/</url></car>
