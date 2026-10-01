@@ -25,6 +25,12 @@
   },
   {
     "brand": "Ford",
+    "model": "Фиеста (Fiesta)",
+    "price": 450000,
+    "benefit": 0
+  },
+  {
+    "brand": "Ford",
     "model": "Фокус (Focus)",
     "price": 1400000,
     "benefit": 0
@@ -62,8 +68,14 @@
   {
     "brand": "Hyundai",
     "model": "Тюсан (Tucson)",
-    "price": 4000000,
+    "price": 2450000,
     "benefit": 200000
+  },
+  {
+    "brand": "Jaecoo",
+    "model": "J7",
+    "price": 2250000,
+    "benefit": 0
   },
   {
     "brand": "Kia",
@@ -74,7 +86,7 @@
   {
     "brand": "Kia",
     "model": "Селтос (Seltos)",
-    "price": 2750000,
+    "price": 2800000,
     "benefit": 150000
   },
   {
@@ -91,6 +103,12 @@
   },
   {
     "brand": "Mercedes-Benz",
+    "model": "ГЛА (GLA)",
+    "price": 1850000,
+    "benefit": 0
+  },
+  {
+    "brand": "Mercedes-Benz",
     "model": "ГЛЕ-класс (GLE-класс)",
     "price": 9300000,
     "benefit": 0
@@ -104,7 +122,7 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5300000,
+    "price": 3100000,
     "benefit": 200000
   },
   {
@@ -128,7 +146,7 @@
   {
     "brand": "Trumpchi",
     "model": "S7",
-    "price": 5570000,
+    "price": 5500000,
     "benefit": 0
   },
   {
