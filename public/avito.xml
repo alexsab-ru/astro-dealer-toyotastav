@@ -353,7 +353,7 @@ Lехus является надежным, экономичным, вмести�
 ✅ Гарантия 2 года или 50 000 км ЗВОНИТЕ УЖЕ СЕЙЧАС ! Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4700000</Price>
+		<Price>4780000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
@@ -431,7 +431,7 @@ Lехus является надежным, экономичным, вмести�
 ✅ Гарантия 2 года или 50 000 км ЗВОНИТЕ УЖЕ СЕЙЧАС ! Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4700000</Price>
+		<Price>4780000</Price>
 		<TradeinDiscount/>
 		<CreditDiscount/>
 		<InsuranceDiscount/>
@@ -922,7 +922,29 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<InsuranceDiscount/>
 		<MaxDiscount/>
 		<Color>Белый</Color>
-		<Images/>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/2c68faafca219919e4eea9556335a006.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/6f428212d24213d9306131d8418dcf3f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/d1edbb8e5502dbd7e5c70658d59b6744.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/0f5db2f45203bfa75c19706418e3497c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/8da44798dd4d0bb73b8c5aa96e77d656.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/7ef8ca6c45ca007ddcceb77ee67b9e20.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/5ee430d9b53cdb593839180b48c0b35e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/097917d25938c928f6db54d67af74d76.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/8459f56461f5ce3cda43201a8f89d798.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/e621c7b1b44315bb87ede5e1f9232f91.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/646c90f4a4e87f897f2490a4c9ce6994.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/adebf95f7091b5b4fde658340df94be4.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/859d7c6b830672a657e7a7788caef362.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/2c829f2995f0a485a11f88d9f4ba97ff.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/122b420ae1179ec65319520fd8e7d713.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/41b504a2d063a04aa5fbec2fdb7e11c7.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/f9f6bc08b80b12ee71f50a13237a9893.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/2724cbe78a5f8c4e8455368211df037d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/b9a5eb72dba6d81113c324ae8e2eac1d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/e046034cc95028bddce408637736735a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ2SK052042/b74e5e27e8dabc511ef232e538bd9c74.jpg"/>
+		</Images>
 		<Make>Toyota</Make>
 		<Model>Land Cruiser Prado</Model>
 		<GenerationId>18663001</GenerationId>
