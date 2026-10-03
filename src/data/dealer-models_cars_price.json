@@ -90,6 +90,12 @@
     "benefit": 150000
   },
   {
+    "brand": "Kia",
+    "model": "Спортаж (Sportage)",
+    "price": 3950000,
+    "benefit": 200000
+  },
+  {
     "brand": "Lexus",
     "model": "RX 350",
     "price": 11750000,
