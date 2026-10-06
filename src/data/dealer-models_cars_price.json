@@ -42,12 +42,6 @@
     "benefit": 0
   },
   {
-    "brand": "Gac",
-    "model": "Обновленный ДжиЭс 8 / GS8",
-    "price": 3450000,
-    "benefit": 0
-  },
-  {
     "brand": "Geely",
     "model": "Galaxy M7",
     "price": 3950000,
@@ -134,7 +128,7 @@
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 6900000,
+    "price": 10400000,
     "benefit": 500000
   },
   {
