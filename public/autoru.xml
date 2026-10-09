@@ -200,7 +200,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5700000</price>
+			<price>5650000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -278,7 +278,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5700000</price>
+			<price>5650000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -362,7 +362,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5700000</price>
+			<price>5650000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -446,7 +446,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>5700000</price>
+			<price>5650000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -688,7 +688,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4650000</price>
+			<price>4550000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -770,7 +770,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>4650000</price>
+			<price>4550000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>200000</tradein_discount>
@@ -867,7 +867,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>18290000</price>
+			<price>18490000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
@@ -957,7 +957,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>19190000</price>
+			<price>19490000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
@@ -1131,11 +1131,11 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>8290000</price>
-			<credit_discount>150000</credit_discount>
+			<price>8190000</price>
+			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>JTJCPMJA8T2026455</vin>
 			<description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
@@ -1452,7 +1452,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>12290000</price>
+			<price>12690000</price>
 			<credit_discount>0</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>0</tradein_discount>
@@ -1864,7 +1864,7 @@ Lехus является надежным, экономичным, вмести�
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2025</year>
-			<price>5150000</price>
+			<price>5250000</price>
 			<credit_discount>100000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>100000</tradein_discount>
@@ -2153,78 +2153,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<body_type>Внедорожник</body_type>
 			<complectation_name>VX-L</complectation_name>
 			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>12270000</price>
-			<credit_discount>150000</credit_discount>
-			<insurance_discount>0</insurance_discount>
-			<tradein_discount>150000</tradein_discount>
-			<max_discount>300000</max_discount>
-			<currency>RUR</currency>
-			<vin>JTEARCAJ1TK052485</vin>
-			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
-
-У Нас индивидуальный подход к каждому клиенту!!!
-HОBЫЙ Toyota Land Cruiser Prado в комплектации Люкс+ 2.8  8AT (204 л.с)
-
-В HАЛИЧИИ ! ! !  C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
-
-OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
-
-✅ Никаких документов ЖДАТЬ НЕ НАДО
-✅ Никаких дополнительных платежей
-✅ Автомобиль полностью РАСТАМОЖЕН
-✅ Уплачен ПОЛНЫЙ утилизационный сбор
-✅ ЭПТС действующий (ГОТОВ)
-✅ Сразу после оплаты можно ставить на учет в ГИБДД
-
-Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
-
-✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 200 000 рублей*
-✅ Выгодный обмен Вашего автомобиля на новый
-✅ Индивидуальные предложения для каждого клиента
-✅ Гарантия до 3 лет или 100 000 км
-
-ЗВОНИТЕ УЖЕ СЕЙЧАС !
-
-Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
-
-* За более подробной информацией обращайтесь в отдел продаж автомобилей.
-* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
-			<images>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/f95808eedd05e5846b9a743d387f7e3d.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/82c1c3dd2e68d4b9e753cfac6f6e727f.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/70028665f86478efdb2520a8376e432e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/9550f2eb13a11e1e25102d67688b3640.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/e89610da6a57725dad624a18c03f4e66.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/76ee122d8f8508db298b4a8525d4253e.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/5531bb8d7c8c1113f342c58274a7a3f0.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/3f7c8ce5f27bd927e44481f6d57fbedb.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/a638df2151ed69cfbbfa4c85c57f374c.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/ca1e4934f0559365b811af0410a33378.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/60425f99dd22ae3151000bdc238ea714.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/d313dd41f25b780fb7da944653260cde.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/5676b2aaeaec748fe2dcd3c9fb47bcea.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/57766cb829655c3c04819b4fa8e34e15.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/f9edab0b969969319411c3267ae31fdc.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/ea5171893dd0115310342f6649303c21.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/94639be7cce6568d45650082868984d0.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/3a16d24b597cf749e9fde0ece8b5cc75.jpg</image>
-				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/951e8cba1a500723a402dfbddf648157.jpg</image>
-			</images>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-meteor-shower-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>Land Cruiser Prado, 250 Series</folder_id>
-			<modification_id>2.8d AT (204 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>VX-L</complectation_name>
-			<wheel>левый</wheel>
 			<color>Белый</color>
 			<metallic>да</metallic>
 			<availability>в наличии</availability>
@@ -2292,6 +2220,78 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-ice-cap-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
+			<folder_id>Land Cruiser Prado, 250 Series</folder_id>
+			<modification_id>2.8d AT (204 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>VX-L</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>12270000</price>
+			<credit_discount>150000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTEARCAJ1TK052485</vin>
+			<description>Автомобили Toyota от официального дилера в Саратове - это гарантия лучшей цены, качества и надежности!
+
+У Нас индивидуальный подход к каждому клиенту!!!
+HОBЫЙ Toyota Land Cruiser Prado в комплектации Люкс+ 2.8  8AT (204 л.с)
+
+В HАЛИЧИИ ! ! !  C ПOЛHЫМ ПАKETOM ДOKУMЕНТOB ! ! !
+
+OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
+
+✅ Никаких документов ЖДАТЬ НЕ НАДО
+✅ Никаких дополнительных платежей
+✅ Автомобиль полностью РАСТАМОЖЕН
+✅ Уплачен ПОЛНЫЙ утилизационный сбор
+✅ ЭПТС действующий (ГОТОВ)
+✅ Сразу после оплаты можно ставить на учет в ГИБДД
+
+Вы покупаете автомобиль в комфортных условиях, а МЫ ГАРАНТИРУЕМ Вам уверенность и ЮРИДИЧЕСКУЮ ЧИСТОТУ сделки. Продажа автомобилей - это наша работа.
+
+✅ Выгода при сдаче Вашего автомобиля в трейд-ин до 200 000 рублей*
+✅ Выгодный обмен Вашего автомобиля на новый
+✅ Индивидуальные предложения для каждого клиента
+✅ Гарантия до 3 лет или 100 000 км
+
+ЗВОНИТЕ УЖЕ СЕЙЧАС !
+
+Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
+
+* За более подробной информацией обращайтесь в отдел продаж автомобилей.
+* Не является публичной офертой. Оценивайте свои возможности и риски.</description>
+			<images>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/f95808eedd05e5846b9a743d387f7e3d.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/82c1c3dd2e68d4b9e753cfac6f6e727f.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/70028665f86478efdb2520a8376e432e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/9550f2eb13a11e1e25102d67688b3640.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/e89610da6a57725dad624a18c03f4e66.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/76ee122d8f8508db298b4a8525d4253e.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/5531bb8d7c8c1113f342c58274a7a3f0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/3f7c8ce5f27bd927e44481f6d57fbedb.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/a638df2151ed69cfbbfa4c85c57f374c.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/ca1e4934f0559365b811af0410a33378.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/60425f99dd22ae3151000bdc238ea714.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/d313dd41f25b780fb7da944653260cde.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/5676b2aaeaec748fe2dcd3c9fb47bcea.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/57766cb829655c3c04819b4fa8e34e15.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/f9edab0b969969319411c3267ae31fdc.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/ea5171893dd0115310342f6649303c21.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/94639be7cce6568d45650082868984d0.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/3a16d24b597cf749e9fde0ece8b5cc75.jpg</image>
+				<image>https://photo.toyotasever.ru/JTEARCAJ1TK052485/951e8cba1a500723a402dfbddf648157.jpg</image>
+			</images>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-meteor-shower-2026/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>RAV4, VI (XA60)</folder_id>
