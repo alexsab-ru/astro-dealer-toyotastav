@@ -193,8 +193,8 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 		<Price>8490000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>300000</MaxDiscount>
+		<InsuranceDiscount>100000</InsuranceDiscount>
+		<MaxDiscount>400000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA2T2026564/0276ab8af57728f025938f49679047fe.jpeg"/>
@@ -291,8 +291,8 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 		<Price>8490000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>300000</MaxDiscount>
+		<InsuranceDiscount>100000</InsuranceDiscount>
+		<MaxDiscount>400000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA7T2026981/124d7f8e0b607eb4c183a94e3bf445bc.jpeg"/>
@@ -388,8 +388,8 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 		<Price>8490000</Price>
 		<TradeinDiscount>200000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>300000</MaxDiscount>
+		<InsuranceDiscount>100000</InsuranceDiscount>
+		<MaxDiscount>400000</MaxDiscount>
 		<Color>Серый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA6T2030178/b16b360d537884038680f01c813dfd46.jpeg"/>
@@ -2810,6 +2810,83 @@ B HAЛИЧИИ!!! C ПОЛНЫМ ПAKЕТОM ДОКУMEHТOB!!!
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>JTEARCAJ0SK051259</VIN>
+		<OnlyOnAvito>нет</OnlyOnAvito>
+		<VideoURL/>
+		<VideoFileURL/>
+	</Ad>
+	<Ad>
+		<Id>af38cb1971345b613a5e38dde6fbaa9c</Id>
+		<Address>г. Оренбург, Загородное ш, 13</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<Category>Автомобили</Category>
+		<Description>НОВЫЙ TOYOTA LAND CRUISER PRADO. В продаже в комплектации Люкс+
+
+Автомобиль представлен от официального дилера Тойота Центр Оренбург.
+
+Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
+
+✅  Гарантия до 3-х лет, либo 100 000 км (в зависимости от того, чтo наступит ранее).
+✅  Продажа от ЮРИДИЧЕСКОГО лица. НЕ Комиссионная сделка. Гарантия ЮРИДИЧЕСКОЙ чистоты
+✅  Автомобиль полностью РАСТОМОЖЕН 
+✅  Уплачен ПОЛНЫЙ утилизационный сбор
+✅  ЭПТС действующий (готов)
+✅  Сразу после оплаты можно ставить на учет в ГИБДД
+✅ Мы работаем с ведущими страховыми компаниями и банками.
+ 
+
+Будьте уверены, что мы подберём Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
+
+Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
+
+Услуги сервисного центра:
+⚡ сервисное обслуживание
+⚡ «шинный отель»
+⚡ установка дополнительного оборудования и аксессуаров
+⚡ предоставляется гарантия качества
+
+Услуги отдела продаж:
+⚡ обмен Вашего автомобиля с пробегом на новый
+Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
+		<Price>12490000</Price>
+		<TradeinDiscount>150000</TradeinDiscount>
+		<CreditDiscount>150000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>300000</MaxDiscount>
+		<Color>Черный</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/9c8e421058960e91ef0b43fd4e29cc25.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/c7909dc3749b13704e86e23fc76f1d0f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/38df413ce0d0838d4a71f39ec9d8eb3b.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/0f9d5cc1f86ff69a4b5407443e5b9a66.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/0fce4cc5359dd01ae4804f062f224b74.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/5c0bbbf9f68727fea1ca8b6b8fdd4392.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/63ce498af84c4186950f4c69cc44b2f8.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/1942efd6181d1464945712c389c322b8.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/b2075deaec9c446f141c9a756eff1b28.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/4c83997fcef2324a23ed5a9e6581f336.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/5325b6e8b801b98677e55466bf9e7c56.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/3b590321f66e58140875a47b210fa862.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/2ddea4456043696cb63524cfc51efb55.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/3cf14efa0ddde259dc20055bb62860f6.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/a420663a06b28966c54e743003beb37f.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/c2122cfbb56188ad746a0c1bcd862afb.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/c51a0ad106381f323ed8485c60037f5e.jpeg"/>
+			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/d74226e9ea21abf2509ce859fd2c695f.jpeg"/>
+		</Images>
+		<Make>Toyota</Make>
+		<Model>Land Cruiser Prado</Model>
+		<GenerationId>18663001</GenerationId>
+		<ModificationId>22058769</ModificationId>
+		<ComplectationId>22136797</ComplectationId>
+		<FuelType>Дизель</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTEARCAJ6TK056581</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL/>
 		<VideoFileURL/>
