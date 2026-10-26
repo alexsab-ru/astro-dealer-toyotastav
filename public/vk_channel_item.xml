@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<channel>
+  <title>Автомобили</title>
+  <item>
+    <id>JTEAACAJ8RK000610</id>
+    <link>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-24-at-279-hp-prestige-ice-cap-2024/</link>
+    <brand>Toyota</brand>
+    <model>Land Cruiser Prado, 250</model>
+    <year>2024</year>
+    <title>Toyota Land Cruiser Prado, 250 Престиж 2024</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/JTEAACAJ8RK000610/0/full.webp?v=80167ecf2304</image_link>
+    <price>10900000 RUB</price>
+    <sale_price>10300000 RUB</sale_price>
+    <min_price>10300000 RUB</min_price>
+    <max_price>10900000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Land Cruiser Prado, 250, Престиж, 2.4 AT (279 л.с.), 2024 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTEAACAJ8RK000610</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>JTJCHBJA302019166</id>
+    <link>https://cars.toyotastav.ru/cars/lexus-rx-v-rx-350-24-4wd-at-249-hp-executive-plus-caviar-2025/</link>
+    <brand>Lexus</brand>
+    <model>RX, V</model>
+    <year>2025</year>
+    <title>Lexus RX, V Executive+ 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/JTJCHBJA302019166/0/full.webp?v=59349f2f5206</image_link>
+    <price>12250000 RUB</price>
+    <sale_price>11750000 RUB</sale_price>
+    <min_price>11750000 RUB</min_price>
+    <max_price>12250000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Lexus RX, V, Executive+, RX 350 2.4 4WD AT (249 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTJCHBJA302019166</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB37622Z1SX647673</id>
+    <link>https://cars.toyotastav.ru/cars/geely-coolray-i-15-dct-174-hp-bazovaya-grey-2025/</link>
+    <brand>Geely</brand>
+    <model>Coolray, I</model>
+    <year>2025</year>
+    <title>Geely Coolray, I Базовая 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/0/full.webp?v=098ee3d4ef0a</image_link>
+    <price>2650000 RUB</price>
+    <sale_price>2500000 RUB</sale_price>
+    <min_price>2500000 RUB</min_price>
+    <max_price>2650000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Coolray, I, Базовая, 1.5 DCT (174 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB37622Z1SX647673</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB37622Z9RX606752</id>
+    <link>https://cars.toyotastav.ru/cars/geely-coolray-i-15-amt-174-hp-base-grey-2024/</link>
+    <brand>Geely</brand>
+    <model>Coolray, I</model>
+    <year>2024</year>
+    <title>Geely Coolray, I Base 2024</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z9RX606752/0/full.webp?v=c64a197dae0e</image_link>
+    <price>2400000 RUB</price>
+    <sale_price>2300000 RUB</sale_price>
+    <min_price>2300000 RUB</min_price>
+    <max_price>2400000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Coolray, I, Base, 1.5 AMT (174 л.с.), 2024 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB37622Z9RX606752</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB3781NZ8TB036201</id>
+    <link>https://cars.toyotastav.ru/cars/geely-galaxy-m7-i-15hyb-at-238-hp-starship-blue-2026/</link>
+    <brand>Geely</brand>
+    <model>Galaxy M7, I</model>
+    <year>2026</year>
+    <title>Geely Galaxy M7, I Starship 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ8TB036201/0/full.webp?v=cd6356fa0876</image_link>
+    <price>3850000 RUB</price>
+    <sale_price>3700000 RUB</sale_price>
+    <min_price>3700000 RUB</min_price>
+    <max_price>3850000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Galaxy M7, I, Starship, 1.5hyb AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Голубой</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3781NZ8TB036201</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LBENXBFD8TY184825</id>
+    <link>https://cars.toyotastav.ru/cars/hyundai-tucson-iv-15-l-4wd-at-200-hp-premium-white-2026/</link>
+    <brand>Hyundai</brand>
+    <model>Tucson, IV</model>
+    <year>2026</year>
+    <title>Hyundai Tucson, IV Premium 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LBENXBFD8TY184825/0/full.webp?v=868115f78334</image_link>
+    <price>4120000 RUB</price>
+    <sale_price>3970000 RUB</sale_price>
+    <min_price>3970000 RUB</min_price>
+    <max_price>4120000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Hyundai Tucson, IV, Premium, 1.5 L 4WD AT (200 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LBENXBFD8TY184825</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LFMJBFBF4T3006922</id>
+    <link>https://cars.toyotastav.ru/cars/toyota-rav4-vi-20-4wd-cvt-171-hp-deluxe-black-metallic-218-2026/</link>
+    <brand>Toyota</brand>
+    <model>RAV4, VI</model>
+    <year>2026</year>
+    <title>Toyota RAV4, VI Deluxe 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LFMJBFBF4T3006922/0/full.webp?v=f7e604df5d47</image_link>
+    <price>4630000 RUB</price>
+    <sale_price>4480000 RUB</sale_price>
+    <min_price>4480000 RUB</min_price>
+    <max_price>4630000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota RAV4, VI, Deluxe, 2.0 4WD CVT (171 л.с.), 2026 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LFMJBFBF4T3006922</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LFMJN5BF9S3131818</id>
+    <link>https://cars.toyotastav.ru/cars/toyota-rav4-v-20-4wd-cvt-171-hp-adventure-plus-black-metallic-218-2025/</link>
+    <brand>Toyota</brand>
+    <model>RAV4, V</model>
+    <year>2025</year>
+    <title>Toyota RAV4, V Adventure Plus 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LFMJN5BF9S3131818/0/full.webp?v=fc274c5d09d2</image_link>
+    <price>4300000 RUB</price>
+    <sale_price>4100000 RUB</sale_price>
+    <min_price>4100000 RUB</min_price>
+    <max_price>4300000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota RAV4, V, Adventure Plus, 2.0 4WD CVT (171 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LFMJN5BF9S3131818</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LJD3AA2D2S0111201</id>
+    <link>https://cars.toyotastav.ru/cars/kia-k3-ii-15-cvt-115-hp-comfort-premium-black-2025/</link>
+    <brand>Kia</brand>
+    <model>K3, II</model>
+    <year>2025</year>
+    <title>Kia K3, II Comfort Premium 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LJD3AA2D2S0111201/0/full.webp?v=df2b2cb3141a</image_link>
+    <price>2850000 RUB</price>
+    <sale_price>2750000 RUB</sale_price>
+    <min_price>2750000 RUB</min_price>
+    <max_price>2850000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Kia K3, II, Comfort Premium, 1.5 CVT (115 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>LJD3AA2D2S0111201</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LJD5AA1D6T0251277</id>
+    <link>https://cars.toyotastav.ru/cars/kia-seltos-i-15-cvt-115-hp-deluxe-edition-clear-white-2026/</link>
+    <brand>Kia</brand>
+    <model>Seltos, I</model>
+    <year>2026</year>
+    <title>Kia Seltos, I Deluxe Edition 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LJD5AA1D6T0251277/0/full.webp?v=b4650a16db8e</image_link>
+    <price>2900000 RUB</price>
+    <sale_price>2750000 RUB</sale_price>
+    <min_price>2750000 RUB</min_price>
+    <max_price>2900000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Kia Seltos, I, Deluxe Edition, 1.5 CVT (115 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LJD5AA1D6T0251277</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LJD7AA1D3T0268871</id>
+    <link>https://cars.toyotastav.ru/cars/kia-sportage-china-v-15t-at-200-hp-premium-edition-clear-white-2026/</link>
+    <brand>Kia</brand>
+    <model>Sportage (China), V</model>
+    <year>2026</year>
+    <title>Kia Sportage (China), V Premium Edition 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LJD7AA1D3T0268871/0/full.webp?v=ddb7615b68ba</image_link>
+    <price>4090000 RUB</price>
+    <sale_price>3940000 RUB</sale_price>
+    <min_price>3940000 RUB</min_price>
+    <max_price>4090000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Kia Sportage (China), V, Premium Edition, 1.5T AT (200 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LJD7AA1D3T0268871</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGJE3S89S1004727</id>
+    <link>https://cars.toyotastav.ru/cars/trumpchi-s9-i-15hyb-4wd-at-500-hp-ultra-silver-2025/</link>
+    <brand>Trumpchi</brand>
+    <model>S9, I</model>
+    <year>2025</year>
+    <title>Trumpchi S9, I Ultra 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LMGJE3S89S1004727/0/full.webp?v=9b4bd8330bd7</image_link>
+    <price>5500000 RUB</price>
+    <sale_price>5350000 RUB</sale_price>
+    <min_price>5350000 RUB</min_price>
+    <max_price>5500000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Trumpchi S9, I, Ultra, 1.5hyb 4WD AT (500 л.с.), 2025 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGJE3S89S1004727</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LMGNB3S84T1009331</id>
+    <link>https://cars.toyotastav.ru/cars/trumpchi-s7-i-15hyb-4wd-at-501-hp-ultra-lidar-white-2026/</link>
+    <brand>Trumpchi</brand>
+    <model>S7, I</model>
+    <year>2026</year>
+    <title>Trumpchi S7, I Ultra Lidar 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LMGNB3S84T1009331/0/full.webp?v=720bbbdac93a</image_link>
+    <price>5500000 RUB</price>
+    <sale_price>5350000 RUB</sale_price>
+    <min_price>5350000 RUB</min_price>
+    <max_price>5500000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Trumpchi S7, I, Ultra Lidar, 1.5hyb 4WD AT (501 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LMGNB3S84T1009331</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LVGBECEK5TG128748</id>
+    <link>https://cars.toyotastav.ru/cars/toyota-camry-xv80-20hyb-cvt-231-hp-sport-plus-underground-2026/</link>
+    <brand>Toyota</brand>
+    <model>Camry, XV80</model>
+    <year>2026</year>
+    <title>Toyota Camry, XV80 Sport Plus 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LVGBECEK5TG128748/0/full.webp?v=fb56eb054812</image_link>
+    <price>4590000 RUB</price>
+    <sale_price>4390000 RUB</sale_price>
+    <min_price>4390000 RUB</min_price>
+    <max_price>4590000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Camry, XV80, Sport Plus, 2.0hyb CVT (231 л.с.), 2026 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>LVGBECEK5TG128748</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LVGBECEK8TG669809</id>
+    <link>https://cars.toyotastav.ru/cars/toyota-camry-xv80-20hyb-cvt-231-hp-sport-plus-ice-cap-2026/</link>
+    <brand>Toyota</brand>
+    <model>Camry, XV80</model>
+    <year>2026</year>
+    <title>Toyota Camry, XV80 Sport Plus 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LVGBECEK8TG669809/0/full.webp?v=66b1b5ca12d0</image_link>
+    <price>4590000 RUB</price>
+    <sale_price>4390000 RUB</sale_price>
+    <min_price>4390000 RUB</min_price>
+    <max_price>4590000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Toyota Camry, XV80, Sport Plus, 2.0hyb CVT (231 л.с.), 2026 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>sedan</body_style>
+    <vin>LVGBECEK8TG669809</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>W1NFB4FB9SB273277</id>
+    <link>https://cars.toyotastav.ru/cars/mercedes-benz-gle-class-v167-gle-350-20-4matic-9g-tronic-258-hp-base-white-2024/</link>
+    <brand>Mercedes-Benz</brand>
+    <model>GLE-класс, V167</model>
+    <year>2024</year>
+    <title>Mercedes-Benz GLE-класс, V167 Base 2024</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/0/full.webp?v=e79fac487252</image_link>
+    <price>9300000 RUB</price>
+    <sale_price>9300000 RUB</sale_price>
+    <min_price>9300000 RUB</min_price>
+    <max_price>9300000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Mercedes-Benz GLE-класс, V167, Base, GLE 350 2.0 4MATIC 9G-Tronic (258 л.с.), 2024 г.</description>
+    <exterior_color>Белый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>W1NFB4FB9SB273277</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+</channel>
