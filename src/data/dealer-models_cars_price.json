@@ -43,6 +43,12 @@
   },
   {
     "brand": "Geely",
+    "model": "Monjaro",
+    "price": 4100000,
+    "benefit": 150000
+  },
+  {
+    "brand": "Geely",
     "model": "НОВЫЙ COOLRAY",
     "price": 2300000,
     "benefit": 150000
@@ -73,6 +79,12 @@
   },
   {
     "brand": "Lexus",
+    "model": "ES",
+    "price": 5250000,
+    "benefit": 0
+  },
+  {
+    "brand": "Lexus",
     "model": "RX 350",
     "price": 8200000,
     "benefit": 500000
@@ -85,8 +97,8 @@
   },
   {
     "brand": "Mercedes-Benz",
-    "model": "ГЛЕ-класс (GLE-класс)",
-    "price": 9300000,
+    "model": "Е-Класс (E-Класс)",
+    "price": 5800000,
     "benefit": 0
   },
   {
@@ -104,7 +116,7 @@
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
-    "price": 10300000,
+    "price": 7750000,
     "benefit": 600000
   },
   {

@@ -98,6 +98,30 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
+    <id>LB3781NZ3TB099240</id>
+    <link>https://cars.toyotastav.ru/cars/geely-galaxy-m7-i-15hyb-at-238-hp-starship-silver-2026/</link>
+    <brand>Geely</brand>
+    <model>Galaxy M7, I</model>
+    <year>2026</year>
+    <title>Geely Galaxy M7, I Starship 2026</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/0/full.webp?v=b117b1761bcf</image_link>
+    <price>3850000 RUB</price>
+    <sale_price>3700000 RUB</sale_price>
+    <min_price>3700000 RUB</min_price>
+    <max_price>3850000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Galaxy M7, I, Starship, 1.5hyb AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3781NZ3TB099240</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
     <id>LB3781NZ8TB036201</id>
     <link>https://cars.toyotastav.ru/cars/geely-galaxy-m7-i-15hyb-at-238-hp-starship-blue-2026/</link>
     <brand>Geely</brand>
@@ -118,6 +142,30 @@
     </mileage>
     <body_style>suv</body_style>
     <vin>LB3781NZ8TB036201</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB37852D5SS246298</id>
+    <link>https://cars.toyotastav.ru/cars/geely-monjaro-i-20-4wd-at-245-hp-flagship-plus-black-2025/</link>
+    <brand>Geely</brand>
+    <model>Monjaro, I</model>
+    <year>2025</year>
+    <title>Geely Monjaro, I Flagship+ 2025</title>
+    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/0/full.webp?v=bb01c3b866b1</image_link>
+    <price>4250000 RUB</price>
+    <sale_price>4100000 RUB</sale_price>
+    <min_price>4100000 RUB</min_price>
+    <max_price>4250000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Monjaro, I, Flagship+, 2.0 4WD AT (245 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB37852D5SS246298</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
@@ -358,30 +406,6 @@
     </mileage>
     <body_style>sedan</body_style>
     <vin>LVGBECEK8TG669809</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>W1NFB4FB9SB273277</id>
-    <link>https://cars.toyotastav.ru/cars/mercedes-benz-gle-class-v167-gle-350-20-4matic-9g-tronic-258-hp-base-white-2024/</link>
-    <brand>Mercedes-Benz</brand>
-    <model>GLE-класс, V167</model>
-    <year>2024</year>
-    <title>Mercedes-Benz GLE-класс, V167 Base 2024</title>
-    <image_link>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/0/full.webp?v=e79fac487252</image_link>
-    <price>9300000 RUB</price>
-    <sale_price>9300000 RUB</sale_price>
-    <min_price>9300000 RUB</min_price>
-    <max_price>9300000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Mercedes-Benz GLE-класс, V167, Base, GLE 350 2.0 4MATIC 9G-Tronic (258 л.с.), 2024 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>suv</body_style>
-    <vin>W1NFB4FB9SB273277</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

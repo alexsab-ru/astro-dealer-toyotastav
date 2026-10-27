@@ -100,10 +100,8 @@
       <description>Автомобиль Geely Coolray, I, Базовая, 1.5 DCT (174 л.с.), 2025 г., серый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/0/full.webp?v=098ee3d4ef0a</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/1/full.webp?v=bd021ee34e0c</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/2/full.webp?v=de13769d6f39</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/3/full.webp?v=8735c2001d5c</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/4/full.webp?v=33c2f1c44bfb</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/5/full.webp?v=7ff0fd4b16da</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/6/full.webp?v=3899bab7666f</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/7/full.webp?v=f33097f414d2</image>
@@ -163,6 +161,45 @@
       </images>
     </car>
     <car>
+      <unique_id>LB3781NZ3TB099240</unique_id>
+      <url>https://cars.toyotastav.ru/cars/geely-galaxy-m7-i-15hyb-at-238-hp-starship-silver-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Galaxy M7, I</folder_id>
+      <year>2026</year>
+      <vin>LB3781NZ3TB099240</vin>
+      <price>3850000</price>
+      <sale_price>3700000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>150000</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely Galaxy M7, I, Starship, 1.5hyb AT (238 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/0/full.webp?v=b117b1761bcf</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/1/full.webp?v=2b7603d5a090</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/2/full.webp?v=cdecdd89ce92</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/3/full.webp?v=83689616b1a8</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/4/full.webp?v=3904a4a5208f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/5/full.webp?v=2e0688d27c15</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/6/full.webp?v=b1f05ed9b225</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/7/full.webp?v=cd8ed08f1479</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/8/full.webp?v=9842ebdd04ad</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/9/full.webp?v=dae8a0b728cf</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/10/full.webp?v=9b19e5a0d313</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/11/full.webp?v=526744e6631d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/12/full.webp?v=80b83ff18202</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/13/full.webp?v=54418cdcc538</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/14/full.webp?v=b278ae09f36c</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/15/full.webp?v=0df2f3efb72f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/16/full.webp?v=f000ee6c281d</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/17/full.webp?v=8368d518b7fc</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/18/full.webp?v=2821a05198f6</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/19/full.webp?v=64968f83d3c7</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LB3781NZ8TB036201</unique_id>
       <url>https://cars.toyotastav.ru/cars/geely-galaxy-m7-i-15hyb-at-238-hp-starship-blue-2026/</url>
       <mark_id>Geely</mark_id>
@@ -183,6 +220,50 @@
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ8TB036201/1/full.webp?v=0f107fbf0f3b</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ8TB036201/2/full.webp?v=1869651abfee</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB3781NZ8TB036201/3/full.webp?v=bcb0ed904985</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37852D5SS246298</unique_id>
+      <url>https://cars.toyotastav.ru/cars/geely-monjaro-i-20-4wd-at-245-hp-flagship-plus-black-2025/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Monjaro, I</folder_id>
+      <year>2025</year>
+      <vin>LB37852D5SS246298</vin>
+      <price>4250000</price>
+      <sale_price>4100000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>150000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely Monjaro, I, Flagship+, 2.0 4WD AT (245 л.с.), 2025 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/0/full.webp?v=bb01c3b866b1</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/1/full.webp?v=46485b31dd3a</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/2/full.webp?v=306eea907721</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/3/full.webp?v=9ecf13b998f7</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/4/full.webp?v=65b99c5b3958</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/5/full.webp?v=bc9e6a9d049b</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/6/full.webp?v=cdfe18292e26</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/7/full.webp?v=38bfd92eb633</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/8/full.webp?v=d5b38b220551</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/9/full.webp?v=7abf563ca130</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/10/full.webp?v=6184ffa6e0b1</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/11/full.webp?v=0348fc366350</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/12/full.webp?v=068006f57101</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/13/full.webp?v=b16a05e6b08b</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/14/full.webp?v=6fef45f7945f</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/15/full.webp?v=00cdb9501883</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/16/full.webp?v=e1a91d6e02cf</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/17/full.webp?v=858138d41487</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/18/full.webp?v=b0b2ef0d8988</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/19/full.webp?v=22be8c7e2386</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/20/full.webp?v=2e6450344a39</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/21/full.webp?v=310e11308e53</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/22/full.webp?v=b781ee979bef</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/23/full.webp?v=a6d81b993d6e</image>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LB37852D5SS246298/24/full.webp?v=88b8fbedcf7d</image>
       </images>
     </car>
     <car>
@@ -353,7 +434,6 @@
       <description>Автомобиль Kia Sportage (China), V, Premium Edition, 1.5T AT (200 л.с.), 2026 г., белый</description>
       <images>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LJD7AA1D3T0268871/0/full.webp?v=ddb7615b68ba</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LJD7AA1D3T0268871/1/full.webp?v=72ce08ff4d4a</image>
       </images>
     </car>
     <car>
@@ -469,33 +549,6 @@
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LVGBECEK8TG669809/3/full.webp?v=0da9cd2bcb5f</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LVGBECEK8TG669809/5/full.webp?v=3a7e806d38f6</image>
         <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/LVGBECEK8TG669809/6/full.webp?v=38a26835a360</image>
-      </images>
-    </car>
-    <car>
-      <unique_id>W1NFB4FB9SB273277</unique_id>
-      <url>https://cars.toyotastav.ru/cars/mercedes-benz-gle-class-v167-gle-350-20-4matic-9g-tronic-258-hp-base-white-2024/</url>
-      <mark_id>Mercedes-Benz</mark_id>
-      <folder_id>GLE-класс, V167</folder_id>
-      <year>2024</year>
-      <vin>W1NFB4FB9SB273277</vin>
-      <price>9300000</price>
-      <sale_price>9300000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>0</max_benefit>
-      <color>белый</color>
-      <availability>В наличии</availability>
-      <body_type>Внедорожник</body_type>
-      <description>Автомобиль Mercedes-Benz GLE-класс, V167, Base, GLE 350 2.0 4MATIC 9G-Tronic (258 л.с.), 2024 г., белый</description>
-      <images>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/0/full.webp?v=e79fac487252</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/1/full.webp?v=1bb8435d31d9</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/2/full.webp?v=22cb0b50fac3</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/3/full.webp?v=9cd533ec0906</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/4/full.webp?v=d2c6a79e4ecd</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/5/full.webp?v=f7939a4ff98a</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/6/full.webp?v=d2ab58be2d85</image>
-        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/W1NFB4FB9SB273277/7/full.webp?v=c64c39c57ffd</image>
       </images>
     </car>
   </cars>
