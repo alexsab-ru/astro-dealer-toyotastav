@@ -1848,6 +1848,30 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-l-black-2026/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
+			<folder_id>Land Cruiser Prado, 250 Series</folder_id>
+			<modification_id>2.8d AT (204 л.с.) 4WD</modification_id>
+			<body_type>Внедорожник</body_type>
+			<complectation_name>VX</complectation_name>
+			<wheel>левый</wheel>
+			<color>Серый</color>
+			<metallic>да</metallic>
+			<availability>в наличии</availability>
+			<custom>растаможен</custom>
+			<owners_number>Не было владельцев</owners_number>
+			<year>2026</year>
+			<price>11690000</price>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>50000</insurance_discount>
+			<tradein_discount>150000</tradein_discount>
+			<max_discount>300000</max_discount>
+			<currency>RUR</currency>
+			<vin>JTEARCAJ2TK059168</vin>
+			<description/>
+			<images/>
+			<video/>
+		<url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-series-28d-at-204-hp-4wd-vx-meteor-shower-2026/</url></car>
+		<car>
+			<mark_id>Toyota</mark_id>
 			<folder_id>Land Cruiser, 300 Series</folder_id>
 			<modification_id>3.4d AT (299 л.с.) 4WD</modification_id>
 			<body_type>Внедорожник</body_type>
