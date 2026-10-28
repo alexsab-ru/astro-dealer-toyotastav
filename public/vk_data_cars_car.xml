@@ -83,6 +83,26 @@
       </images>
     </car>
     <car>
+      <unique_id>JTJCPMJA4T2028901</unique_id>
+      <url>https://cars.toyotastav.ru/cars/lexus-rx-v-rx-300-20-4wd-at-247-hp-enjoy-caviar-2026/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>RX, V</folder_id>
+      <year>2026</year>
+      <vin>JTJCPMJA4T2028901</vin>
+      <price>8400000</price>
+      <sale_price>8200000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>200000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Lexus RX, V, Enjoy, RX 300 2.0 4WD AT (247 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/cars.toyotastav.ru/new/JTJCPMJA4T2028901/0/full.webp?v=03f57ec523a7</image>
+      </images>
+    </car>
+    <car>
       <unique_id>LB37622Z1SX647673</unique_id>
       <url>https://cars.toyotastav.ru/cars/geely-coolray-i-15-dct-174-hp-bazovaya-grey-2025/</url>
       <mark_id>Geely</mark_id>
