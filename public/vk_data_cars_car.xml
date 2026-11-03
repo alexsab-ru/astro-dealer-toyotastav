@@ -1,4 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
-  <cars />
+  <cars>
+    <car>
+      <unique_id>JTEAACAJ8RK000610</unique_id>
+      <url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-24-at-279-hp-prestige-ice-cap-2024/</url>
+      <mark_id>Toyota</mark_id>
+      <folder_id>Land Cruiser Prado, 250</folder_id>
+      <year>2024</year>
+      <vin>JTEAACAJ8RK000610</vin>
+      <price>10900000</price>
+      <sale_price>10300000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>600000</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Toyota Land Cruiser Prado, 250, Престиж, 2.4 AT (279 л.с.), 2024 г., белый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTEAACAJ8RK000610/0/full.webp?v=80167ecf2304</image>
+      </images>
+    </car>
+  </cars>
 </data>
