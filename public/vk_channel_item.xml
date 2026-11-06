@@ -2,26 +2,50 @@
 <channel>
   <title>Автомобили</title>
   <item>
-    <id>JTEAACAJ8RK000610</id>
-    <link>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-24-at-279-hp-prestige-ice-cap-2024/</link>
-    <brand>Toyota</brand>
-    <model>Land Cruiser Prado, 250</model>
-    <year>2024</year>
-    <title>Toyota Land Cruiser Prado, 250 Престиж 2024</title>
-    <image_link>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTEAACAJ8RK000610/0/full.webp?v=80167ecf2304</image_link>
-    <price>10900000 RUB</price>
-    <sale_price>10300000 RUB</sale_price>
-    <min_price>10300000 RUB</min_price>
-    <max_price>10900000 RUB</max_price>
+    <id>JTJCHBJA302019166</id>
+    <link>https://cars.toyotastav.ru/cars/lexus-rx-v-rx-350-24-4wd-at-249-hp-executive-plus-caviar-2025/</link>
+    <brand>Lexus</brand>
+    <model>RX, V</model>
+    <year>2025</year>
+    <title>Lexus RX, V Executive+ 2025</title>
+    <image_link>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCHBJA302019166/0/full.webp?v=59349f2f5206</image_link>
+    <price>12250000 RUB</price>
+    <sale_price>11750000 RUB</sale_price>
+    <min_price>11750000 RUB</min_price>
+    <max_price>12250000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Toyota Land Cruiser Prado, 250, Престиж, 2.4 AT (279 л.с.), 2024 г.</description>
-    <exterior_color>Белый</exterior_color>
+    <description>Автомобиль Lexus RX, V, Executive+, RX 350 2.4 4WD AT (249 л.с.), 2025 г.</description>
+    <exterior_color>Чёрный</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
     </mileage>
     <body_style>suv</body_style>
-    <vin>JTEAACAJ8RK000610</vin>
+    <vin>JTJCHBJA302019166</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>JTJCPMJA4T2028901</id>
+    <link>https://cars.toyotastav.ru/cars/lexus-rx-v-rx-300-20-4wd-at-247-hp-enjoy-caviar-2026/</link>
+    <brand>Lexus</brand>
+    <model>RX, V</model>
+    <year>2026</year>
+    <title>Lexus RX, V Enjoy 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCPMJA4T2028901/0/full.webp?v=03f57ec523a7</image_link>
+    <price>8400000 RUB</price>
+    <sale_price>8200000 RUB</sale_price>
+    <min_price>8200000 RUB</min_price>
+    <max_price>8400000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Lexus RX, V, Enjoy, RX 300 2.0 4WD AT (247 л.с.), 2026 г.</description>
+    <exterior_color>Чёрный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>JTJCPMJA4T2028901</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

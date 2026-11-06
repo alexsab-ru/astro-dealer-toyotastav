@@ -37,6 +37,12 @@
   },
   {
     "brand": "Geely",
+    "model": "Tugella",
+    "price": 3099000,
+    "benefit": 0
+  },
+  {
+    "brand": "Geely",
     "model": "НОВЫЙ COOLRAY",
     "price": 2300000,
     "benefit": 150000
@@ -52,12 +58,6 @@
     "model": "K3",
     "price": 2750000,
     "benefit": 100000
-  },
-  {
-    "brand": "Kia",
-    "model": "Селтос (Seltos)",
-    "price": 2750000,
-    "benefit": 150000
   },
   {
     "brand": "Kia",
@@ -92,20 +92,20 @@
   {
     "brand": "Toyota",
     "model": "Highlander",
-    "price": 5570000,
+    "price": 5590000,
     "benefit": 200000
   },
   {
     "brand": "Toyota",
     "model": "Land Cruiser Prado",
     "price": 7750000,
-    "benefit": 600000
+    "benefit": 0
   },
   {
     "brand": "Toyota",
     "model": "RAV4",
     "price": 2100000,
-    "benefit": 200000
+    "benefit": 150000
   },
   {
     "brand": "Trumpchi",
@@ -122,7 +122,7 @@
   {
     "brand": "Volkswagen",
     "model": "Tharu XR",
-    "price": 3000000,
-    "benefit": 100000
+    "price": 3100000,
+    "benefit": 0
   }
 ]

@@ -2,24 +2,43 @@
 <data>
   <cars>
     <car>
-      <unique_id>JTEAACAJ8RK000610</unique_id>
-      <url>https://cars.toyotastav.ru/cars/toyota-land-cruiser-prado-250-24-at-279-hp-prestige-ice-cap-2024/</url>
-      <mark_id>Toyota</mark_id>
-      <folder_id>Land Cruiser Prado, 250</folder_id>
-      <year>2024</year>
-      <vin>JTEAACAJ8RK000610</vin>
-      <price>10900000</price>
-      <sale_price>10300000</sale_price>
+      <unique_id>JTJCHBJA302019166</unique_id>
+      <url>https://cars.toyotastav.ru/cars/lexus-rx-v-rx-350-24-4wd-at-249-hp-executive-plus-caviar-2025/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>RX, V</folder_id>
+      <year>2025</year>
+      <vin>JTJCHBJA302019166</vin>
+      <price>12250000</price>
+      <sale_price>11750000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
-      <color>белый</color>
+      <max_benefit>500000</max_benefit>
+      <color>черный</color>
       <availability>В наличии</availability>
       <body_type>Внедорожник</body_type>
-      <description>Автомобиль Toyota Land Cruiser Prado, 250, Престиж, 2.4 AT (279 л.с.), 2024 г., белый</description>
+      <description>Автомобиль Lexus RX, V, Executive+, RX 350 2.4 4WD AT (249 л.с.), 2025 г., черный</description>
       <images>
-        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTEAACAJ8RK000610/0/full.webp?v=80167ecf2304</image>
-        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTEAACAJ8RK000610/1/full.webp?v=456b28a677d3</image>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCHBJA302019166/0/full.webp?v=59349f2f5206</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>JTJCPMJA4T2028901</unique_id>
+      <url>https://cars.toyotastav.ru/cars/lexus-rx-v-rx-300-20-4wd-at-247-hp-enjoy-caviar-2026/</url>
+      <mark_id>Lexus</mark_id>
+      <folder_id>RX, V</folder_id>
+      <year>2026</year>
+      <vin>JTJCPMJA4T2028901</vin>
+      <price>8400000</price>
+      <sale_price>8200000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>200000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Lexus RX, V, Enjoy, RX 300 2.0 4WD AT (247 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCPMJA4T2028901/0/full.webp?v=03f57ec523a7</image>
       </images>
     </car>
   </cars>
