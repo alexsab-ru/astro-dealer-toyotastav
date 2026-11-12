@@ -14,7 +14,7 @@
   {
     "brand": "Ford",
     "model": "Фокус (Focus)",
-    "price": 1220000,
+    "price": 1190000,
     "benefit": 0
   },
   {
@@ -46,6 +46,12 @@
     "model": "НОВЫЙ COOLRAY",
     "price": 2300000,
     "benefit": 150000
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Солярис (Solaris)",
+    "price": 1600000,
+    "benefit": 0
   },
   {
     "brand": "Hyundai",
@@ -86,7 +92,7 @@
   {
     "brand": "Toyota",
     "model": "Camry",
-    "price": 4390000,
+    "price": 3500000,
     "benefit": 200000
   },
   {
