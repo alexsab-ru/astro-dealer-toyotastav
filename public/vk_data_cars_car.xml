@@ -21,6 +21,7 @@
         <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCHBJA302019166/0/full.webp?v=59349f2f5206</image>
         <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCHBJA302019166/1/full.webp?v=b166d6ce631d</image>
         <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCHBJA302019166/2/full.webp?v=55398e2ca306</image>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCHBJA302019166/3/full.webp?v=51fa7fe54556</image>
       </images>
     </car>
     <car>
@@ -41,6 +42,67 @@
       <description>Автомобиль Lexus RX, V, Enjoy, RX 300 2.0 4WD AT (247 л.с.), 2026 г., черный</description>
       <images>
         <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCPMJA4T2028901/0/full.webp?v=03f57ec523a7</image>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/JTJCPMJA4T2028901/1/full.webp?v=fb11fc7b2d6b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37622Z1SX647673</unique_id>
+      <url>https://cars.toyotastav.ru/cars/geely-coolray-i-15-dct-174-hp-base-grey-2025/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Coolray, I</folder_id>
+      <year>2025</year>
+      <vin>LB37622Z1SX647673</vin>
+      <price>2650000</price>
+      <sale_price>2500000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>150000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely Coolray, I, Базовая, 1.5 DCT (174 л.с.), 2025 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/0/full.webp?v=098ee3d4ef0a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB37622Z9RX606752</unique_id>
+      <url>https://cars.toyotastav.ru/cars/geely-coolray-i-15-amt-174-hp-base-grey-2024/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Coolray, I</folder_id>
+      <year>2024</year>
+      <vin>LB37622Z9RX606752</vin>
+      <price>2400000</price>
+      <sale_price>2300000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>100000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely Coolray, I, Base, 1.5 AMT (174 л.с.), 2024 г., серый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/LB37622Z9RX606752/0/full.webp?v=c64a197dae0e</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LB3781NZ3TB099240</unique_id>
+      <url>https://cars.toyotastav.ru/cars/geely-galaxy-m7-i-15hyb-at-238-hp-starship-silver-2026/</url>
+      <mark_id>Geely</mark_id>
+      <folder_id>Galaxy M7, I</folder_id>
+      <year>2026</year>
+      <vin>LB3781NZ3TB099240</vin>
+      <price>3850000</price>
+      <sale_price>3700000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>150000</max_benefit>
+      <color>серебряный</color>
+      <availability>В наличии</availability>
+      <body_type>Внедорожник</body_type>
+      <description>Автомобиль Geely Galaxy M7, I, Starship, 1.5hyb AT (238 л.с.), 2026 г., серебряный</description>
+      <images>
+        <image>https://img.upspace.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/0/full.webp?v=b117b1761bcf</image>
       </images>
     </car>
   </cars>

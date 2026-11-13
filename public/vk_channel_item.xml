@@ -49,4 +49,76 @@
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>
+  <item>
+    <id>LB37622Z1SX647673</id>
+    <link>https://cars.toyotastav.ru/cars/geely-coolray-i-15-dct-174-hp-base-grey-2025/</link>
+    <brand>Geely</brand>
+    <model>Coolray, I</model>
+    <year>2025</year>
+    <title>Geely Coolray, I Базовая 2025</title>
+    <image_link>https://img.upspace.ru/cars/cars.toyotastav.ru/new/LB37622Z1SX647673/0/full.webp?v=098ee3d4ef0a</image_link>
+    <price>2650000 RUB</price>
+    <sale_price>2500000 RUB</sale_price>
+    <min_price>2500000 RUB</min_price>
+    <max_price>2650000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Coolray, I, Базовая, 1.5 DCT (174 л.с.), 2025 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB37622Z1SX647673</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB37622Z9RX606752</id>
+    <link>https://cars.toyotastav.ru/cars/geely-coolray-i-15-amt-174-hp-base-grey-2024/</link>
+    <brand>Geely</brand>
+    <model>Coolray, I</model>
+    <year>2024</year>
+    <title>Geely Coolray, I Base 2024</title>
+    <image_link>https://img.upspace.ru/cars/cars.toyotastav.ru/new/LB37622Z9RX606752/0/full.webp?v=c64a197dae0e</image_link>
+    <price>2400000 RUB</price>
+    <sale_price>2300000 RUB</sale_price>
+    <min_price>2300000 RUB</min_price>
+    <max_price>2400000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Coolray, I, Base, 1.5 AMT (174 л.с.), 2024 г.</description>
+    <exterior_color>Серый</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB37622Z9RX606752</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
+  <item>
+    <id>LB3781NZ3TB099240</id>
+    <link>https://cars.toyotastav.ru/cars/geely-galaxy-m7-i-15hyb-at-238-hp-starship-silver-2026/</link>
+    <brand>Geely</brand>
+    <model>Galaxy M7, I</model>
+    <year>2026</year>
+    <title>Geely Galaxy M7, I Starship 2026</title>
+    <image_link>https://img.upspace.ru/cars/cars.toyotastav.ru/new/LB3781NZ3TB099240/0/full.webp?v=b117b1761bcf</image_link>
+    <price>3850000 RUB</price>
+    <sale_price>3700000 RUB</sale_price>
+    <min_price>3700000 RUB</min_price>
+    <max_price>3850000 RUB</max_price>
+    <state_of_vehicle>new</state_of_vehicle>
+    <description>Автомобиль Geely Galaxy M7, I, Starship, 1.5hyb AT (238 л.с.), 2026 г.</description>
+    <exterior_color>Серебряный</exterior_color>
+    <mileage>
+      <value>0</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>suv</body_style>
+    <vin>LB3781NZ3TB099240</vin>
+    <availability>в наличии</availability>
+    <vehicle_type>car_truck</vehicle_type>
+  </item>
 </channel>

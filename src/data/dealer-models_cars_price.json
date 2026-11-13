@@ -96,12 +96,6 @@
     "benefit": 500000
   },
   {
-    "brand": "Mercedes-Benz",
-    "model": "ГЛА (GLA)",
-    "price": 1790000,
-    "benefit": 0
-  },
-  {
     "brand": "Toyota",
     "model": "Camry",
     "price": 3500000,
