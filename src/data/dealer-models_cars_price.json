@@ -24,6 +24,12 @@
     "benefit": 0
   },
   {
+    "brand": "Gac",
+    "model": "ДжиЭс 3 / GS3",
+    "price": 1932000,
+    "benefit": 0
+  },
+  {
     "brand": "Geely",
     "model": "Galaxy M7",
     "price": 3700000,
@@ -70,6 +76,12 @@
     "model": "Спортаж (Sportage)",
     "price": 3940000,
     "benefit": 150000
+  },
+  {
+    "brand": "Lada (Ваз)",
+    "model": "Веста (Vesta)",
+    "price": 1100000,
+    "benefit": 0
   },
   {
     "brand": "Lexus",
