@@ -20,8 +20,8 @@
   {
     "brand": "Gac",
     "model": "Empow",
-    "price": 2650000,
-    "benefit": 0
+    "price": 2450000,
+    "benefit": 150000
   },
   {
     "brand": "Gac",
@@ -44,7 +44,7 @@
   {
     "brand": "Geely",
     "model": "Tugella",
-    "price": 3099000,
+    "price": 3040000,
     "benefit": 0
   },
   {
