@@ -49,12 +49,6 @@
   },
   {
     "brand": "Hyundai",
-    "model": "Солярис (Solaris)",
-    "price": 1600000,
-    "benefit": 0
-  },
-  {
-    "brand": "Hyundai",
     "model": "Тюсан (Tucson)",
     "price": 3970000,
     "benefit": 150000
