@@ -705,7 +705,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>11990000</Price>
+		<Price>11890000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -1286,7 +1286,7 @@ B HAЛИЧИИ ! ! ! C ПОЛHЫM ПАКETОM ДOKУMЕHTОВ ! ! !
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 
-* Не является публичной офертой. Оценивайте свои возможности и риски.</Description><Price>8290000</Price><TradeinDiscount/><CreditDiscount/><InsuranceDiscount/><MaxDiscount/><Color>Серебряный</Color><Images>
+* Не является публичной офертой. Оценивайте свои возможности и риски.</Description><Price>7990000</Price><TradeinDiscount/><CreditDiscount/><InsuranceDiscount/><MaxDiscount/><Color>Серый</Color><Images>
 			
 			
 			
@@ -1366,7 +1366,7 @@ B HAЛИЧИИ ! ! ! C ПОЛHЫM ПАКETОM ДOKУMЕHTОВ ! ! !
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 
-* Не является публичной офертой. Оценивайте свои возможности и риски.</Description><Price>8290000</Price><TradeinDiscount/><CreditDiscount/><InsuranceDiscount/><MaxDiscount/><Color>Черный</Color><Images>
+* Не является публичной офертой. Оценивайте свои возможности и риски.</Description><Price>8190000</Price><TradeinDiscount/><CreditDiscount/><InsuranceDiscount/><MaxDiscount/><Color>Черный</Color><Images>
 			
 			
 			
@@ -1744,7 +1744,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<OfferFastRegistration/>
 	</Ad>
 	<Ad>
-		<Id>9c04c3ca64db8be96941aeec39f712c2</Id>
+		<Id>4012506d2c17a498656aa4f439aa3297</Id>
 		<Address>г. Самара, Московское ш, 264А</Address>
 		<CarType>Новые</CarType>
 		<Availability>в наличии</Availability>
@@ -1826,7 +1826,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<BodyType>Внедорожник</BodyType>
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<VIN>JTJCPMJA8T2026455</VIN>
+		<VIN>JTJCPMJAXT2031768</VIN>
 		<ContactPhone>88469796868</ContactPhone>
 		<VideoURL>https://rutube.ru/video/5cfcd9c412e3902ec352cc2f4d0849eb/</VideoURL>
 		<VideoFileURL/>
@@ -2500,10 +2500,10 @@ B HAЛИЧИИ!!! C ПОЛНЫМ ПAKЕТОM ДОКУMEHТOB!!!
 ⚡ обмен Вашего автомобиля с пробегом на новый
 Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
 		<Price>5850000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>400000</MaxDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LVGEU76A7TG061356/b73853457daf1c2308bcf9f80a314372.jpeg"/>
@@ -2754,10 +2754,10 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 
 Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
 		<Price>4680000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>70000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>370000</MaxDiscount>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJBFBF4T3004149/80098a9a61612c954bc71341f9f6231a.jpg"/>
@@ -2835,10 +2835,10 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 
 Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
 		<Price>4680000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>70000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>370000</MaxDiscount>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/LFMJBFBFXT3010652/4dead17477f03f013171f32e0a3d9994.jpg"/>
@@ -2875,65 +2875,6 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
 		<VIN>LFMJBFBFXT3010652</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-	<Ad>
-		<Id>114db35dafb156f8786726fcd6c89477</Id>
-		<Address>г. Оренбург, Загородное ш, 13</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>НOBЫЙ RАV4 !!! РУСИФИЦИРOВAН !!! НА ГАРАНТИИ!!!
-B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
-
-Автомобиль представлен от официального дилера Тойота Центр Оренбург.
-
-Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-
-✅  Гарантия до 3-х лет, либo 100 000 км (в зависимости от того, чтo наступит ранее).
-✅  Продажа от ЮРИДИЧЕСКОГО лица. НЕ Комиссионная сделка. Гарантия ЮРИДИЧЕСКОЙ чистоты
-✅  Автомобиль полностью РАСТОМОЖЕН 
-✅  Уплачен ПОЛНЫЙ утилизационный сбор
-✅  ЭПТС действующий (готов)
-✅  Сразу после оплаты можно ставить на учет в ГИБДД
-✅ Мы работаем с ведущими страховыми компаниями и банками.
- 
-Будьте уверены, что мы подберём Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
-
-Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
-
-Услуги сервисного центра:
-⚡ сервисное обслуживание
-⚡ «шинный отель»
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества
-
-Услуги отдела продаж:
-⚡ обмен Вашего автомобиля с пробегом на новый
-
-Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
-		<Price>4680000</Price>
-		<TradeinDiscount>200000</TradeinDiscount>
-		<CreditDiscount>70000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>370000</MaxDiscount>
-		<Color>Серый</Color>
-		<Images/>
-		<Make>Toyota</Make>
-		<Model>RAV4</Model>
-		<GenerationId>22387937</GenerationId>
-		<ModificationId>22506888</ModificationId>
-		<ComplectationId>22515164</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Вариатор</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>LFMJBFBF5T3020196</VIN>
 		<OnlyOnAvito>нет</OnlyOnAvito>
 		<VideoURL/>
 		<VideoFileURL/>

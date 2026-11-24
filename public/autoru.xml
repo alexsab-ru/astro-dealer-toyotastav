@@ -351,9 +351,9 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 			<year>2026</year>
 			<price>5850000</price>
 			<credit_discount>100000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>400000</max_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LVGEU76A7TG061356</vin>
 			<phone>83532793702</phone>
@@ -588,10 +588,10 @@ B HAЛИЧИИ!!! C ПОЛНЫМ ПAKЕТОM ДОКУMEHТOB!!!
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
 			<price>4680000</price>
-			<credit_discount>70000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>370000</max_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJBFBF4T3004149</vin>
 			<phone>83532793702</phone>
@@ -663,10 +663,10 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
 			<price>4680000</price>
-			<credit_discount>70000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>370000</max_discount>
+			<credit_discount>100000</credit_discount>
+			<insurance_discount>0</insurance_discount>
+			<tradein_discount>100000</tradein_discount>
+			<max_discount>200000</max_discount>
 			<currency>RUR</currency>
 			<vin>LFMJBFBFXT3010652</vin>
 			<phone>83532793702</phone>
@@ -723,59 +723,6 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 			</images>
 			<video/>
 		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-white-2026/</url></car>
-		<car>
-			<mark_id>Toyota</mark_id>
-			<folder_id>RAV4, VI (XA60)</folder_id>
-			<modification_id>2.0 CVT (171 л.с.) 4WD</modification_id>
-			<body_type>Внедорожник</body_type>
-			<complectation_name>Luxury</complectation_name>
-			<wheel>левый</wheel>
-			<color>Серый</color>
-			<metallic>да</metallic>
-			<availability>в наличии</availability>
-			<custom>растаможен</custom>
-			<owners_number>Не было владельцев</owners_number>
-			<year>2026</year>
-			<price>4680000</price>
-			<credit_discount>70000</credit_discount>
-			<insurance_discount>100000</insurance_discount>
-			<tradein_discount>200000</tradein_discount>
-			<max_discount>370000</max_discount>
-			<currency>RUR</currency>
-			<vin>LFMJBFBF5T3020196</vin>
-			<phone>83532793702</phone>
-			<description>НOBЫЙ RАV4 !!! РУСИФИЦИРOВAН !!! НА ГАРАНТИИ!!!
-B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
-
-Автомобиль представлен от официального дилера Тойота Центр Оренбург.
-
-Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-
-✅  Гарантия до 3-х лет, либo 100 000 км (в зависимости от того, чтo наступит ранее).
-✅  Продажа от ЮРИДИЧЕСКОГО лица. НЕ Комиссионная сделка. Гарантия ЮРИДИЧЕСКОЙ чистоты
-✅  Автомобиль полностью РАСТОМОЖЕН 
-✅  Уплачен ПОЛНЫЙ утилизационный сбор
-✅  ЭПТС действующий (готов)
-✅  Сразу после оплаты можно ставить на учет в ГИБДД
-✅ Мы работаем с ведущими страховыми компаниями и банками.
- 
-Будьте уверены, что мы подберём Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
-
-Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
-
-Услуги сервисного центра:
-⚡ сервисное обслуживание
-⚡ «шинный отель»
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества
-
-Услуги отдела продаж:
-⚡ обмен Вашего автомобиля с пробегом на новый
-
-Наш адрес: г.Оренбург, Загородное шоссе, 13</description>
-			<images/>
-			<video/>
-		<url>https://cars.toyotastav.ru/cars/toyota-rav4-vi-xa60-20-cvt-171-hp-4wd-luxury-platinovyy-grafit-2026/</url></car>
 		<car>
 			<mark_id>Toyota</mark_id>
 			<folder_id>Wildlander, II</folder_id>
@@ -1050,7 +997,7 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 			<tradein_discount>0</tradein_discount>
 			<max_discount>100000</max_discount>
 			<currency>RUR</currency>
-			<vin>JTJCPMJA8T2026455</vin>
+			<vin>JTJCPMJAXT2031768</vin>
 			<description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
 
 Указанная в объявлении цена не содержит в себе НДС.
@@ -1844,7 +1791,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 			<custom>растаможен</custom>
 			<owners_number>Не было владельцев</owners_number>
 			<year>2026</year>
-			<price>11990000</price>
+			<price>11890000</price>
 			<credit_discount>150000</credit_discount>
 			<insurance_discount>0</insurance_discount>
 			<tradein_discount>150000</tradein_discount>
