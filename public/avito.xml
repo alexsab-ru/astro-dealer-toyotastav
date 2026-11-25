@@ -107,11 +107,11 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 ⚡ обмен Вашего автомобиля с пробегом на новый
 
 Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
-		<Price>8390000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>600000</MaxDiscount>
+		<Price>7990000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA2T2026564/0276ab8af57728f025938f49679047fe.jpeg"/>
@@ -205,11 +205,11 @@ B НAЛИЧИИ С ПОЛНЫM ПАKETOM ДОКУМEHТОВ !!!
 ⚡ обмен Вашего автомобиля с пробегом на новый
 
 Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
-		<Price>8390000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>200000</CreditDiscount>
-		<InsuranceDiscount>100000</InsuranceDiscount>
-		<MaxDiscount>600000</MaxDiscount>
+		<Price>7990000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Белый</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTJCPMJA7T2026981/124d7f8e0b607eb4c183a94e3bf445bc.jpeg"/>
@@ -623,7 +623,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>11990000</Price>
+		<Price>11850000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -705,7 +705,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>11890000</Price>
+		<Price>11850000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -785,7 +785,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>11990000</Price>
+		<Price>11850000</Price>
 		<TradeinDiscount>150000</TradeinDiscount>
 		<CreditDiscount>150000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -945,7 +945,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4780000</Price>
+		<Price>4690000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -1026,7 +1026,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
 * Не является публичной офертой. Оценивайте свои возможности и риски.</Description>
-		<Price>4780000</Price>
+		<Price>4690000</Price>
 		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
 		<InsuranceDiscount/>
@@ -1521,7 +1521,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 Мы готовы подобрать для Вас автомобиль, отвечающей Вашим запросам и сформировать персональное предложение, а также привезти автомобиль под заказ.
 
 * За более подробной информацией обращайтесь в отдел продаж автомобилей.
-* Не является публичной офертой. Оценивайте свои возможности и риски.</Description><Price>13990000</Price><TradeinDiscount/><CreditDiscount/><InsuranceDiscount/><MaxDiscount/><Color>Черный</Color><Images>
+* Не является публичной офертой. Оценивайте свои возможности и риски.</Description><Price>13790000</Price><TradeinDiscount/><CreditDiscount/><InsuranceDiscount/><MaxDiscount/><Color>Черный</Color><Images>
 			
 			
 			
@@ -1636,6 +1636,106 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<VIN>JTJPA7CX7T4006904</VIN>
 		<ContactPhone>88469796868</ContactPhone>
 		<VideoURL>https://rutube.ru/video/0cb5e22cc1012323a8c2cf72bebbce7f/</VideoURL>
+		<VideoFileURL/>
+		<OfferSpecialLoanConditions/>
+		<OfferRepairGuarantee>Дилерская гарантия 2 года или 50 000км пробега.</OfferRepairGuarantee>
+		<OfferGiftCasco/>
+		<OfferGiftTires/>
+		<OfferDiscountCasco/>
+		<OfferGiftTO/>
+		<OfferGiftAccessories/>
+		<OfferFastRegistration/>
+	</Ad>
+	<Ad>
+		<Id>34095cefc5e053bce3120a38d93b4873</Id>
+		<Address>г. Самара, Московское ш, 264А</Address>
+		<CarType>Новые</CarType>
+		<Availability>в наличии</Availability>
+		<OnlyOnAvito>Нет</OnlyOnAvito>
+		<Category>Автомобили</Category>
+		<Description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
+
+Указанная в объявлении цена не содержит в себе НДС.
+
+Автомобиль японской сборки. Собран на заводе компании Toyota Motor Corporation в Тахаре (Япония).
+
+Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
+Гарантия и постгарантийное обслуживание у официального дилера Лексус - Самаре на Московском шоссе 264А.
+- Новый 14" сенсорный дисплей
+- Камеры кругового обзора.
+- Подогрев и вентиляция передних сидений.
+
+✅ Обмен вашего автомобиля с доплатой.
+✅ Возможность приобретения автомобиля в Кредит или в Лизинг*
+✅ Индивидуальные предложения для каждого клиента
+✅ Поможем доставить автомобиль прямо к дому
+✅ Юридически чистая и безопасная сделка
+✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
+
+
+Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
+
+
+*Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
+		<Price>7949000</Price>
+		<TradeinDiscount/>
+		<CreditDiscount>100000</CreditDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>100000</MaxDiscount>
+		<Color>Белый</Color>
+		<Images>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/f82e79af79ab94389e6af3cb5b42383f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/812759d67d3f26577fbf98805dcf5640.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/b564dfe3268ea8b971b869b4fa366a43.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/19aefc5be6d35f17fb6206e2bb53e4f2.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/93149cbb7de005a35426e6f50aa4d99e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5df659671857f22be8cb79637382815f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/54a4756beb84a2c3a58013490f7e457b.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5a13cf6a298bf39566f05a636d16dc7a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/d39876e1c56d6617219f115fd2bfc19e.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/56b29713214850a099b7f51510811fa5.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/38ea9487c7ae4fb9b845ebd4052fd7e3.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/8654df6c45b891ac108efa4ccc3851c8.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/78aac2176063356205a5e04806406231.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/a385de5bf3402ac3468d88fb3dddd358.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/e9603de7c9ec82671dbae113cede5326.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/eeddf2e679e92c15f93a056181188815.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/c4b6e5c25029bc88c0d5314af0956315.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/ce4cf39e4b0aa4080508f0c6df529bbf.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9ea380e697cdb78450ecb84f9acdad00.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/653513497697124597ecb69bc4a2b30f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/08617814985a0b84ae6853edf770dd93.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/db1e87bb6770f4cde334d820f207e434.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/08f330cb52ae0688cd419ceea854d124.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/a9beb7f3f64ea7694f760addaf5bc44f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/2f2a4917cd748a7787fe3f1f34555f6f.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/262c3f3205f7113b3b9ad9fde660a2bd.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/8b1d7cfe826a6b16b691d8d76745441c.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5177beaa4c2c46875e95b3e78cd97958.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9860c0d9dfc621317921ac3d746b48a6.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/94275ed51af41e1074114319feaf3e80.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9673a9f71e28d889cea3bef39cdb270d.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/b5b14e5041b4432611223ed67cdd8e80.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/2fe4b9f6c957dcf311d76c5effa6ca12.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/efe6e4205e0a4017215d8037081acb70.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/54c828e80122be7548b3f5473d11842a.jpg"/>
+			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/74852abfc5238281387194cba4ee93b4.jpg"/>
+		</Images>
+		<Make>Lexus</Make>
+		<Model>RX</Model>
+		<GenerationId>18183380</GenerationId>
+		<ModificationId>22268530</ModificationId>
+		<ComplectationId>22268531</ComplectationId>
+		<FuelType>Бензин</FuelType>
+		<Transmission>Автомат</Transmission>
+		<Year>2026</Year>
+		<Doors>5</Doors>
+		<BodyType>Внедорожник</BodyType>
+		<DriveType>Полный</DriveType>
+		<WheelType>Левый</WheelType>
+		<VIN>JTJCPMJAXT2032936</VIN>
+		<ContactPhone>88469796868</ContactPhone>
+		<VideoURL>https://rutube.ru/video/2c79ff33c605f7170922bf9ef5bce9d8/</VideoURL>
 		<VideoFileURL/>
 		<OfferSpecialLoanConditions/>
 		<OfferRepairGuarantee>Дилерская гарантия 2 года или 50 000км пробега.</OfferRepairGuarantee>
@@ -1840,106 +1940,6 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<OfferFastRegistration/>
 	</Ad>
 	<Ad>
-		<Id>420ba2e200cf773cba1cd97ed3543598</Id>
-		<Address>г. Самара, Московское ш, 264А</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<Category>Автомобили</Category>
-		<Description>Обновленный Leхus RX300 2026 года, в дилерском центре Лексус - Самара. Станьте первым обладателем автомобиля Lexus уже сегодня!
-
-Указанная в объявлении цена не содержит в себе НДС.
-
-Автомобиль японской сборки. Собран на заводе компании Toyota Motor Corporation в Тахаре (Япония).
-
-Официально растаможенный автомобиль с полным пакетом документов, можно сразу ставить на учёт в ГИБДД.
-Гарантия и постгарантийное обслуживание у официального дилера Лексус - Самаре на Московском шоссе 264А.
-- Новый 14" сенсорный дисплей
-- Камеры кругового обзора.
-- Подогрев и вентиляция передних сидений.
-
-✅ Обмен вашего автомобиля с доплатой.
-✅ Возможность приобретения автомобиля в Кредит или в Лизинг*
-✅ Индивидуальные предложения для каждого клиента
-✅ Поможем доставить автомобиль прямо к дому
-✅ Юридически чистая и безопасная сделка
-✅ Cтoимоcть автомобиля указанa бeз cкpытыx кoмисcий и дoполнительных плaтежeй
-
-
-Свяжитесь с нами удобным для Вас способом и мы подберем авто именно по Вашим требованиям!
-
-
-*Не является публичной офертой. При покупке автомобиля в кредит оценивайте свои финансовые возможности и риски, изучите все условия кредита (займа). Подробности можно уточнить в отделе продаж.</Description>
-		<Price>7949000</Price>
-		<TradeinDiscount/>
-		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount/>
-		<MaxDiscount>100000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/f82e79af79ab94389e6af3cb5b42383f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/812759d67d3f26577fbf98805dcf5640.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/b564dfe3268ea8b971b869b4fa366a43.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/19aefc5be6d35f17fb6206e2bb53e4f2.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/93149cbb7de005a35426e6f50aa4d99e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5df659671857f22be8cb79637382815f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/54a4756beb84a2c3a58013490f7e457b.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5a13cf6a298bf39566f05a636d16dc7a.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/d39876e1c56d6617219f115fd2bfc19e.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/56b29713214850a099b7f51510811fa5.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/38ea9487c7ae4fb9b845ebd4052fd7e3.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/8654df6c45b891ac108efa4ccc3851c8.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/78aac2176063356205a5e04806406231.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/a385de5bf3402ac3468d88fb3dddd358.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/e9603de7c9ec82671dbae113cede5326.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/eeddf2e679e92c15f93a056181188815.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/c4b6e5c25029bc88c0d5314af0956315.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/ce4cf39e4b0aa4080508f0c6df529bbf.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9ea380e697cdb78450ecb84f9acdad00.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/653513497697124597ecb69bc4a2b30f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/08617814985a0b84ae6853edf770dd93.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/db1e87bb6770f4cde334d820f207e434.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/08f330cb52ae0688cd419ceea854d124.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/a9beb7f3f64ea7694f760addaf5bc44f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/2f2a4917cd748a7787fe3f1f34555f6f.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/262c3f3205f7113b3b9ad9fde660a2bd.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/8b1d7cfe826a6b16b691d8d76745441c.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/5177beaa4c2c46875e95b3e78cd97958.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9860c0d9dfc621317921ac3d746b48a6.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/94275ed51af41e1074114319feaf3e80.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/9673a9f71e28d889cea3bef39cdb270d.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/b5b14e5041b4432611223ed67cdd8e80.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/2fe4b9f6c957dcf311d76c5effa6ca12.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/efe6e4205e0a4017215d8037081acb70.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/54c828e80122be7548b3f5473d11842a.jpg"/>
-			<Image url="https://photo.toyotasever.ru/complectations/lexus/SALA15L-AWZGTC2/CH/085/21/74852abfc5238281387194cba4ee93b4.jpg"/>
-		</Images>
-		<Make>Lexus</Make>
-		<Model>RX</Model>
-		<GenerationId>18183380</GenerationId>
-		<ModificationId>22268530</ModificationId>
-		<ComplectationId>22268531</ComplectationId>
-		<FuelType>Бензин</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTJCPMJAXT2032936</VIN>
-		<ContactPhone>88469796868</ContactPhone>
-		<VideoURL>https://rutube.ru/video/2c79ff33c605f7170922bf9ef5bce9d8/</VideoURL>
-		<VideoFileURL/>
-		<OfferSpecialLoanConditions/>
-		<OfferRepairGuarantee>Дилерская гарантия 2 года или 50 000км пробега.</OfferRepairGuarantee>
-		<OfferGiftCasco/>
-		<OfferGiftTires/>
-		<OfferDiscountCasco/>
-		<OfferGiftTO/>
-		<OfferGiftAccessories/>
-		<OfferFastRegistration/>
-	</Ad>
-	<Ad>
 		<Id>bda80b286b36888ad66df13010b16633</Id>
 		<Address>г. Самара, Московское ш, 264А</Address>
 		<CarType>Новые</CarType>
@@ -2132,7 +2132,7 @@ OФИЦИАЛЬHЫЙ ДИЛEP ужe ВСЁ СДЕЛАЛ ДЛЯ ВАС:
 		<WheelType>Левый</WheelType>
 		<VIN>JTJCHBJA102023197</VIN>
 		<ContactPhone>88469796868</ContactPhone>
-		<VideoURL>https://rutube.ru/video/fe96b3a6b2855af32e7ba451fb5d4e85/</VideoURL>
+		<VideoURL>https://rutube.ru/shorts/c89c240fd9f21aba16bbf34a83f3be45/?r=wd</VideoURL>
 		<VideoFileURL/>
 		<OfferSpecialLoanConditions/>
 		<OfferRepairGuarantee>Дилерская гарантия 2 года или 50 000км пробега.</OfferRepairGuarantee>
@@ -2542,106 +2542,6 @@ B HAЛИЧИИ!!! C ПОЛНЫМ ПAKЕТОM ДОКУMEHТOB!!!
 		<VideoFileURL/>
 	</Ad>
 	<Ad>
-		<Id>dcc22e4bbcb32ed694b8ec6442fab7a6</Id>
-		<Address>г. Оренбург, Загородное ш, 13</Address>
-		<CarType>Новые</CarType>
-		<Availability>в наличии</Availability>
-		<Category>Автомобили</Category>
-		<Description>НОВЫЙ TOYOTA LAND CRUISER PRADO. В продаже в комплектации Люкс+
-
-Автомобиль представлен от официального дилера Тойота Центр Оренбург.
-
-Тойота / Lexus Оренбург — единственный официальный дилер по продаже автомобилей марки TOYOTA и LEXUS в Оренбурге и Оренбургской области. Более 20 лет на рынке. Нам доверяют тысячи клиентов.
-
-✅  Гарантия до 3-х лет, либo 100 000 км (в зависимости от того, чтo наступит ранее).
-✅  Продажа от ЮРИДИЧЕСКОГО лица. НЕ Комиссионная сделка. Гарантия ЮРИДИЧЕСКОЙ чистоты
-✅  Автомобиль полностью РАСТОМОЖЕН 
-✅  Уплачен ПОЛНЫЙ утилизационный сбор
-✅  ЭПТС действующий (готов)
-✅  Сразу после оплаты можно ставить на учет в ГИБДД
-✅ Мы работаем с ведущими страховыми компаниями и банками.
- 
-
-Будьте уверены, что мы подберём Вам автомобиль на тех условиях, которые будут отвечать Вашим ожиданиям!
-
-Звоните нам, а лучше приезжайте уже сегодня. Всегда рады видеть Вас в нашем дилерском центре.
-
-Услуги сервисного центра:
-⚡ сервисное обслуживание
-⚡ «шинный отель»
-⚡ установка дополнительного оборудования и аксессуаров
-⚡ предоставляется гарантия качества
-
-Услуги отдела продаж:
-⚡ обмен Вашего автомобиля с пробегом на новый
-Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
-		<Price>12490000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>550000</MaxDiscount>
-		<Color>Белый</Color>
-		<Images>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/0414872095f28bfd05d0307c69664302.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/fba13a9bb7ae1f1daf44a21506c1bbc0.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/fdbed3c1c334d260718dacab26242045.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/3c5640605bfc035dd85b90099e6c0830.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/9c9a3ed9a72709d325649dc22693d03e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/5418fd6b9663b34074e38acb1958bd38.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/b0650e0258c8531fa05e0e0b1adf7467.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/40c7aba23612822b0587fd6c1cd5470f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/2ea757330e42e9e87c35832bbc00595e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/4d03a0311a3b7c864a5724baa3f88329.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/c7cb3ace177bc9f8c65fa355a95bfd53.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/7b66c00e294a8a747cfd93be1e47a7cc.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/ce873c2296aa9c6e23ce3d1c1f963056.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/95510e3bd0922f61952ad53c97692a4e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/3469bcd7252e1874b5a9ea9f42b55e53.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/b29bd893e467858a5e996201f9118f26.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/de7d903d762a6157f80675b5ee765607.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/a8092083a8a1cf8d9aa3120a77bebf48.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/572ac4973e494374f73139b445b9a1e9.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/347f93ade58d426ff7f3044d24749bdd.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/16e65c1e8a17568fab4a708a090b1ae4.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/4dbf198f1556a45229b6d1faac0b7a25.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/45e08a4074ff07bb14e3b0e035e20371.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/f0020e22a7d8b57b107296a35bb4005e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/b1602d44a0781a42d0ad3d589a033c76.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/83ccbb7aba77abd7b1be31734cac9db7.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/bf39724c9d36c725ec7e3051ee74ffbd.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/1385e80c63b232acd92dfb1c05ed9f52.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/dd6ad369b334d38e6cbf0d322bb3987b.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/1e8704ceea2ad5e0ac1dabb0cb8d9a5c.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/a62f93787989fbf303f2d36a67743e9f.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/e562ff0714f155d0abcc8644460733b3.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/a42ff4f590b891f871b13e85bb04ce04.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/58438fcbf9153aad58ebc01aa1e96ab2.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/0ba5ee141dc933647ff624114650c4bb.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/1aea27c537d77be4b012168ba22caeb3.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/dcbbd8cbee8ddd1660aec9780e0490da.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/324af4389562ec875902cce0a95da9d1.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/3b75a36b4cec14df0ab8f9094f3e69db.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/11ed9253ed269379ff718f0f5fe5f91e.jpeg"/>
-			<Image url="https://photo.toyotasever.ru/JTEARCAJ0SK051259/7e0e7c2a493e5b4db9e55b0541b36273.jpeg"/>
-		</Images>
-		<Make>Toyota</Make>
-		<Model>Land Cruiser Prado</Model>
-		<GenerationId>18663001</GenerationId>
-		<ModificationId>22058769</ModificationId>
-		<ComplectationId>22136797</ComplectationId>
-		<FuelType>Дизель</FuelType>
-		<Transmission>Автомат</Transmission>
-		<Year>2026</Year>
-		<Doors>5</Doors>
-		<BodyType>Внедорожник</BodyType>
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<VIN>JTEARCAJ0SK051259</VIN>
-		<OnlyOnAvito>нет</OnlyOnAvito>
-		<VideoURL/>
-		<VideoFileURL/>
-	</Ad>
-	<Ad>
 		<Id>af38cb1971345b613a5e38dde6fbaa9c</Id>
 		<Address>г. Оренбург, Загородное ш, 13</Address>
 		<CarType>Новые</CarType>
@@ -2675,11 +2575,11 @@ B HAЛИЧИИ!!! C ПОЛНЫМ ПAKЕТОM ДОКУMEHТOB!!!
 Услуги отдела продаж:
 ⚡ обмен Вашего автомобиля с пробегом на новый
 Наш адрес: г.Оренбург, Загородное шоссе, 13</Description>
-		<Price>12490000</Price>
-		<TradeinDiscount>300000</TradeinDiscount>
+		<Price>12000000</Price>
+		<TradeinDiscount>100000</TradeinDiscount>
 		<CreditDiscount>100000</CreditDiscount>
-		<InsuranceDiscount>150000</InsuranceDiscount>
-		<MaxDiscount>550000</MaxDiscount>
+		<InsuranceDiscount/>
+		<MaxDiscount>200000</MaxDiscount>
 		<Color>Черный</Color>
 		<Images>
 			<Image url="https://photo.toyotasever.ru/JTEARCAJ6TK056581/9c8e421058960e91ef0b43fd4e29cc25.jpeg"/>
